@@ -1,10 +1,176 @@
-{
-  "objects": [
-    {
-      "name": "EMERALD PLATINUM",
-      "district": "Соли",
-      "currency": "EUR",
-      "price": 77000
-    }
-  ]
-}
+[
+	{
+		"name": "EMERALD PLATINUM",
+		"district": "Соли",
+		"currency": "EUR",
+		"price": 77000
+	},
+	{
+		"name": "EMERALD PREMIUM",
+		"district": "Соли",
+		"currency": "EUR",
+		"price": 68000
+	},
+	{
+		"name": "EMERALD CONCEPT",
+		"district": "Тедже",
+		"currency": "EUR",
+		"price": 72000
+	},
+	{
+		"name": "ROYAL TERACCE",
+		"district": "Тедже",
+		"currency": "USD",
+		"price": 95000
+	},
+	{
+		"name": "ILKEM SILVER",
+		"district": "Арпачбахшиш",
+		"currency": "EUR",
+		"price": 77000
+	},
+	{
+		"name": "EMERALD STAR",
+		"district": "Тедже",
+		"currency": "EUR",
+		"price": 78000
+	},
+	{
+		"name": "EMERALD RIVA",
+		"district": "Томюк",
+		"currency": "EUR",
+		"price": 57000
+	},
+	{
+		"name": "EMERALD GOLD",
+		"district": "Соли",
+		"currency": "EUR",
+		"price": 69000
+	},
+	{
+		"name": "SUN CITY 1",
+		"district": "Тедже",
+		"currency": "EUR",
+		"price": 79000
+	},
+	{
+		"name": "MB AZURE",
+		"district": "Тедже",
+		"currency": "EUR",
+		"price": 95000
+	},
+	{
+		"name": "SUN CITY 2",
+		"district": "Тедже",
+		"currency": "EUR",
+		"price": 70000
+	},
+	{
+		"name": "BRILLIANT",
+		"district": "Тедже",
+		"currency": "EUR",
+		"price": 65000
+	},
+	{
+		"name": "PANORAMA PLUS",
+		"district": "Тедже",
+		"currency": "EUR",
+		"price": 90000
+	},
+	{
+		"name": "LEMON",
+		"district": "Эрдемли",
+		"currency": "EUR",
+		"price": 48000
+	},
+	{
+		"name": "LAVINYA ASTORIA",
+		"district": "Соли",
+		"currency": "EUR",
+		"price": 59000
+	},
+	{
+		"name": "EMERALD AZURIT",
+		"district": "Соли",
+		"currency": "EUR",
+		"price": 64000
+	},
+	{
+		"name": "MERSINA LUX",
+		"district": "Арпачбахшиш",
+		"currency": "EUR",
+		"price": 61000
+	},
+	{
+		"name": "MARSHALL",
+		"district": "Томюк",
+		"currency": "EUR",
+		"price": 83000
+	},
+	{
+		"name": "EMERALD HOMES",
+		"district": "Томюк",
+		"currency": "EUR",
+		"price": 67000
+	},
+	{
+		"name": "VEGA 129",
+		"district": "Соли",
+		"currency": "USD",
+		"price": 105000
+	},
+	{
+		"name": "MB VERDE",
+		"district": "Мезитли",
+		"currency": "USD",
+		"price": 495000
+	},
+	{
+		"name": "ILKEM FLORA",
+		"district": "Енишехир",
+		"currency": "EUR",
+		"price": 73000
+	},
+	{
+		"name": "MB NATURE",
+		"district": "Тедже",
+		"currency": "USD",
+		"price": 95500
+	},
+	{
+		"name": "AURA",
+		"district": "Аяш",
+		"currency": "USD",
+		"price": 135000
+	},
+	{
+		"name": "MAVIDA TERRACE",
+		"district": "Арпачбахшиш",
+		"currency": "EUR",
+		"price": 119000
+	},
+	{
+		"name": "MAVIDA GARDEN BLUE",
+		"district": "Арпачбахшиш",
+		"currency": "EUR",
+		"price": 79000
+	},
+	{
+		"name": "MAVIDA CADDE",
+		"district": "Арпачбахшиш",
+		"currency": "EUR",
+		"price": 300000
+	},
+	{
+		"name": "ROYAL PREMIUM",
+		"district": "Чешмели",
+		"currency": "EUR",
+		"price": 79000
+	},
+	{
+		"name": "ELEGANT",
+		"district": "Томюк",
+		"currency": "EUR",
+		"price": 55000
+	}
+]
