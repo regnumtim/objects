@@ -1,7 +1,7 @@
 [
    {
       "name":"EMERALD PLATINUM",
-      "district":"Соли",
+      "district":"Soli",
       "layout":"2+1",
       "dateOfCompletion":"2024-12",
       "currency":"EUR",
@@ -9,7 +9,7 @@
    },
    {
       "name":"EMERALD PREMIUM",
-      "district":"Соли",
+      "district":"Soli",
       "layout":"1+1",
       "dateOfCompletion":"2024-09",
       "currency":"EUR",
@@ -17,7 +17,7 @@
    },
    {
       "name":"EMERALD RIVA",
-      "district":"Томюк",
+      "district":"Tomuk",
       "layout":"1+1",
       "dateOfCompletion":"2024-09",
       "currency":"EUR",
@@ -25,7 +25,7 @@
    },
    {
       "name":"Marshall",
-      "district":"Томюк",
+      "district":"Tomuk",
       "layout":"1+1",
       "dateOfCompletion":"2024-05",
       "currency":"EUR",
@@ -33,7 +33,7 @@
    },
    {
       "name":"EMERALD CONCEPT",
-      "district":"Тедже",
+      "district":"Teje",
       "layout":"1+1",
       "dateOfCompletion":"2024-12",
       "currency":"EUR",
@@ -41,7 +41,7 @@
    },
    {
       "name":"EMERALD CONCEPT",
-      "district":"Тедже",
+      "district":"Teje",
       "layout":"2+1",
       "dateOfCompletion":"2024-12",
       "currency":"EUR",
@@ -49,7 +49,7 @@
    },
    {
       "name":"ROYAL TERACCE",
-      "district":"Тедже",
+      "district":"Teje",
       "layout":"2+1",
       "dateOfCompletion":"2023-07",
       "currency":"USD",
@@ -57,7 +57,7 @@
    },
    {
       "name":"SUN CITY 2",
-      "district":"Тедже",
+      "district":"Teje",
       "layout":"1+1",
       "dateOfCompletion":"2024-03",
       "currency":"EUR",
@@ -65,7 +65,7 @@
    },
    {
       "name":"SUN CITY 2",
-      "district":"Тедже",
+      "district":"Teje",
       "layout":"2+1",
       "dateOfCompletion":"2024-03",
       "currency":"EUR",
@@ -73,7 +73,7 @@
    },
    {
       "name":"LEMON",
-      "district":"Эрдемли",
+      "district":"Erdemli",
       "layout":"1+1",
       "dateOfCompletion":"2025-04",
       "currency":"EUR",
@@ -81,7 +81,7 @@
    },
    {
       "name":"LEMON",
-      "district":"Эрдемли",
+      "district":"Erdemli",
       "layout":"2+1",
       "dateOfCompletion":"2025-04",
       "currency":"EUR",
@@ -89,7 +89,7 @@
    },
    {
       "name":"MAVIDA GARDEN BLUE",
-      "district":"Арпачбахшиш",
+      "district":"Arpachbahshish",
       "layout":"1+1",
       "dateOfCompletion":"2025-01",
       "currency":"EUR",
@@ -97,7 +97,7 @@
    },
    {
       "name":"MAVIDA GARDEN BLUE",
-      "district":"Арпачбахшиш",
+      "district":"Arpachbahshish",
       "layout":"2+1",
       "dateOfCompletion":"2025-01",
       "currency":"EUR",
