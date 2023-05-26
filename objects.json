@@ -1,98 +1,98 @@
 [
-  {
-    "name": "EMERALD PLATINUM",
-    "district": "Соли",
-    "layout": "2+1",
-    "dateOfCompletion": "2024-12",
-    "currency": "EUR",
-    "price": 77000
-  },
-  {
-    "name": "EMERALD RIVA",
-    "district": "Томюк",
-    "layout": "1+1",
-    "dateOfCompletion": "2024-03",
-    "currency": "EUR",
-    "price": 57000
-  },
-  {
-    "name": "EMERALD PREMIUM",
-    "district": "Соли",
-    "layout": "1+1",
-    "dateOfCompletion": "2024-09",
-    "currency": "EUR",
-    "price": 68000
-  },
-  {
-    "name": "EMERALD CONCEPT",
-    "district": "Тедже",
-    "layout": "1+1",
-    "dateOfCompletion": "2024-12",
-    "currency": "EUR",
-    "price": 72000
-  },
-  {
-    "name": "EMERALD CONCEPT",
-    "district": "Тедже",
-    "layout": "2+1",
-    "dateOfCompletion": "2024-12",
-    "currency": "EUR",
-    "price": 98000
-  },
-  {
-    "name": "ROYAL TERACCE",
-    "district": "Тедже",
-    "layout": "2+1",
-    "dateOfCompletion": "2023-07",
-    "currency": "USD",
-    "price": 95000
-  },
-  {
-    "name": "SUN CITY 2",
-    "district": "Тедже",
-    "layout": "1+1",
-    "dateOfCompletion": "2024-03",
-    "currency": "EUR",
-    "price": 70000
-  },
-  {
-    "name": "SUN CITY 2",
-    "district": "Тедже",
-    "layout": "2+1",
-    "dateOfCompletion": "2024-03",
-    "currency": "EUR",
-    "price": 100000
-  },
-  {
-    "name": "LEMON",
-    "district": "Эрдемли",
-    "layout": "1+1",
-    "dateOfCompletion": "2025-04",
-    "currency": "EUR",
-    "price": 48000
-  },
-  {
-    "name": "LEMON",
-    "district": "Эрдемли",
-    "layout": "2+1",
-    "dateOfCompletion": "2025-04",
-    "currency": "EUR",
-    "price": 76000
-  },
-  {
-    "name": "MAVIDA GARDEN BLUE",
-    "district": "Арпачбахшиш",
-    "layout": "1+1",
-    "dateOfCompletion": "2025-01",
-    "currency": "EUR",
-    "price": 79000
-  },
-  {
-    "name": "MAVIDA GARDEN BLUE",
-    "district": "Арпачбахшиш",
-    "layout": "2+1",
-    "dateOfCompletion": "2025-01",
-    "currency": "EUR",
-    "price": 145000
-  }
+   {
+      "name":"EMERALD PLATINUM",
+      "district":"Соли",
+      "layout":"2+1",
+      "dateOfCompletion":"2024-12",
+      "currency":"EUR",
+      "price":77000
+   },
+   {
+      "name":"EMERALD RIVA",
+      "district":"Томюк",
+      "layout":"1+1",
+      "dateOfCompletion":"2024-03",
+      "currency":"EUR",
+      "price":57000
+   },
+   {
+      "name":"EMERALD PREMIUM",
+      "district":"Соли",
+      "layout":"1+1",
+      "dateOfCompletion":"2024-09",
+      "currency":"EUR",
+      "price":68000
+   },
+   {
+      "name":"EMERALD CONCEPT",
+      "district":"Тедже",
+      "layout":"1+1",
+      "dateOfCompletion":"2024-12",
+      "currency":"EUR",
+      "price":72000
+   },
+   {
+      "name":"EMERALD CONCEPT",
+      "district":"Тедже",
+      "layout":"2+1",
+      "dateOfCompletion":"2024-12",
+      "currency":"EUR",
+      "price":98000
+   },
+   {
+      "name":"ROYAL TERACCE",
+      "district":"Тедже",
+      "layout":"2+1",
+      "dateOfCompletion":"2023-07",
+      "currency":"USD",
+      "price":95000
+   },
+   {
+      "name":"SUN CITY 2",
+      "district":"Тедже",
+      "layout":"1+1",
+      "dateOfCompletion":"2024-03",
+      "currency":"EUR",
+      "price":70000
+   },
+   {
+      "name":"SUN CITY 2",
+      "district":"Тедже",
+      "layout":"2+1",
+      "dateOfCompletion":"2024-03",
+      "currency":"EUR",
+      "price":100000
+   },
+   {
+      "name":"LEMON",
+      "district":"Эрдемли",
+      "layout":"1+1",
+      "dateOfCompletion":"2025-04",
+      "currency":"EUR",
+      "price":48000
+   },
+   {
+      "name":"LEMON",
+      "district":"Эрдемли",
+      "layout":"2+1",
+      "dateOfCompletion":"2025-04",
+      "currency":"EUR",
+      "price":76000
+   },
+   {
+      "name":"MAVIDA GARDEN BLUE",
+      "district":"Арпачбахшиш",
+      "layout":"1+1",
+      "dateOfCompletion":"2025-01",
+      "currency":"EUR",
+      "price":79000
+   },
+   {
+      "name":"MAVIDA GARDEN BLUE",
+      "district":"Арпачбахшиш",
+      "layout":"2+1",
+      "dateOfCompletion":"2025-01",
+      "currency":"EUR",
+      "price":145000
+   }
 ]
