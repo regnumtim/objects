@@ -24,6 +24,14 @@
       "price":57000
    },
    {
+      "name":"Marshall",
+      "district":"Томюк",
+      "layout":"1+1",
+      "dateOfCompletion":"2024-05",
+      "currency":"EUR",
+      "price":83000
+   },
+   {
       "name":"EMERALD CONCEPT",
       "district":"Тедже",
       "layout":"1+1",
