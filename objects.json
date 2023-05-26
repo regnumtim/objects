@@ -8,6 +8,14 @@
 		"price": 77000
 	},
 	{
+		"name": "EMERALD RIVA",
+		"district": "Томюк",
+		"layout": "1+1",
+		"dateOfCompletion": "2024-03",
+		"currency": "EUR",
+		"price": 57000
+	},
+	{
 		"name": "EMERALD PREMIUM",
 		"district": "Соли",
 		"layout": "1+1",
