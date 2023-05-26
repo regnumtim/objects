@@ -16,6 +16,14 @@
       "price":68000
    },
    {
+      "name":"EMERALD RIVA",
+      "district":"Томюк",
+      "layout":"1+1",
+      "dateOfCompletion":"2024-09",
+      "currency":"EUR",
+      "price":57000
+   },
+   {
       "name":"EMERALD CONCEPT",
       "district":"Тедже",
       "layout":"1+1",
