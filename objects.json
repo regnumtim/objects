@@ -126,5 +126,13 @@
       "dateOfCompletion":"2025-07",
       "currency":"EUR",
       "price":55000
+   },
+   {
+      "name":"EMERALD HOMES",
+      "district":"Tomuk",
+      "layout":"1+1",
+      "dateOfCompletion":"2023-08",
+      "currency":"EUR",
+      "price":63000
    }
 ]
