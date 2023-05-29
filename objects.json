@@ -110,5 +110,21 @@
       "dateOfCompletion":"2024-06",
       "currency":"EUR",
       "price":59000
+   },
+   {
+      "name":"SUN MARIA BEACH",
+      "district":"Erdemli",
+      "layout":"1+1",
+      "dateOfCompletion":"2024-05",
+      "currency":"EUR",
+      "price":53000
+   },
+   {
+      "name":"ELEGANT",
+      "district":"Tomuk",
+      "layout":"1+1",
+      "dateOfCompletion":"2025-07",
+      "currency":"EUR",
+      "price":55000
    }
 ]
