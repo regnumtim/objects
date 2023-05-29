@@ -102,5 +102,13 @@
       "dateOfCompletion":"2025-01",
       "currency":"EUR",
       "price":145000
-   }
+   },
+   {
+      "name":"АNNA RESIDENCE",
+      "district":"Cheshmeli",
+      "layout":"1+1",
+      "dateOfCompletion":"2024-06",
+      "currency":"EUR",
+      "price":59000
+   },
 ]
