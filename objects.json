@@ -166,5 +166,21 @@
       "dateOfCompletion":"2024-01",
       "currency":"EUR",
       "price":73000
+   },
+   {
+      "name":"MERSINA LUX",
+      "district":"Arpachbahshish",
+      "layout":"1+1",
+      "dateOfCompletion":"2025-02",
+      "currency":"EUR",
+      "price":61000
+   },
+   {
+      "name":"MERSINA LUX",
+      "district":"Arpachbahshish",
+      "layout":"2+1",
+      "dateOfCompletion":"2025-02",
+      "currency":"EUR",
+      "price":91000
    }
 ]
