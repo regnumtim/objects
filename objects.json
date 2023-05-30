@@ -158,5 +158,13 @@
       "dateOfCompletion":"2024-06",
       "currency":"EUR",
       "price":215000
+   },
+   {
+      "name":"ILKEM FLORA",
+      "district":"Yenisehir",
+      "layout":"1+1",
+      "dateOfCompletion":"2024-01",
+      "currency":"EUR",
+      "price":73000
    }
 ]
