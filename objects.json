@@ -134,5 +134,13 @@
       "dateOfCompletion":"2023-08",
       "currency":"EUR",
       "price":63000
+   },
+   {
+      "name":"MB VERDE",
+      "district":"Mezitli",
+      "layout":"3+1",
+      "dateOfCompletion":"2024-12",
+      "currency":"USD",
+      "price":495000
    }
 ]
