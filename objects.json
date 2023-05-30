@@ -142,5 +142,21 @@
       "dateOfCompletion":"2024-12",
       "currency":"USD",
       "price":495000
+   },
+   {
+      "name":"MAVIDA TERRACE",
+      "district":"Arpachbahshish",
+      "layout":"1+1",
+      "dateOfCompletion":"2024-06",
+      "currency":"EUR",
+      "price":119000
+   },
+   {
+      "name":"MAVIDA TERRACE",
+      "district":"Arpachbahshish",
+      "layout":"2+1",
+      "dateOfCompletion":"2024-06",
+      "currency":"EUR",
+      "price":215000
    }
 ]
