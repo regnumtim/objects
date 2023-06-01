@@ -1,11 +1,479 @@
 [
   {
     "name": "LIDIYA SUIT",
-    "link": "https://drive.google.com/drive/folders/1wv-GBh7d4AZEzEy1YJBwsa3ZlGrpVMp9",
+    "link": "1wv-GBh7d4AZEzEy1YJBwsa3ZlGrpVMp9",
     "district": "Teje",
     "layout": "1+1",
     "dateOfCompletion": "2023-04",
     "currency": "EUR",
     "price": 75000
+  },
+  {
+    "name": "VIP PANORAMA",
+    "link": "1lzXCkpn4zaryv7rwS_WX_q2gflffoH7S",
+    "district": "Teje",
+    "layout": "1+1",
+    "dateOfCompletion": "2024-03",
+    "currency": "EUR",
+    "price": 73000
+  },
+  {
+    "name": "VIP PANORAMA",
+    "link": "1lzXCkpn4zaryv7rwS_WX_q2gflffoH7S",
+    "district": "Teje",
+    "layout": "2+1",
+    "dateOfCompletion": "2024-03",
+    "currency": "EUR",
+    "price": 84000
+  },
+  {
+    "name": "EMERALD MARKA",
+    "link": "1lc8jevwM8PHKiGIt_em1YGsKXStP2M1y",
+    "district": "Arpachbahshish",
+    "layout": "1+1",
+    "dateOfCompletion": "2024-03",
+    "currency": "EUR",
+    "price": 64000
+  },
+  {
+    "name": "EMERALD MARKA",
+    "link": "1lc8jevwM8PHKiGIt_em1YGsKXStP2M1y",
+    "district": "Arpachbahshish",
+    "layout": "2+1",
+    "dateOfCompletion": "2024-03",
+    "currency": "EUR",
+    "price": 84000
+  },
+  {
+    "name": "EMERALD GOLD",
+    "link": "1kqpltL7LlZWayd10CNdz41dht_Z8WLys",
+    "district": "Soli",
+    "layout": "1+1",
+    "dateOfCompletion": "2024-04",
+    "currency": "EUR",
+    "price": 67000
+  },
+  {
+    "name": "EMERALD TOWN",
+    "link": "1emkEL5VdTq2Dis-1wghfaco7DRxXW_Ll",
+    "district": "Teje",
+    "layout": "1+1",
+    "dateOfCompletion": "2022-06",
+    "currency": "EUR",
+    "price": 77000
+  },
+  {
+    "name": "PANORAMA PLUS",
+    "link": "1eRhT7cd-Abx1e4qZ-j-yGXf-tg-WZOKF",
+    "district": "Teje",
+    "layout": "2+1",
+    "dateOfCompletion": "2023-12",
+    "currency": "EUR",
+    "price": 87000
+  },
+  {
+    "name": "PANORAMA PLUS",
+    "link": "1eRhT7cd-Abx1e4qZ-j-yGXf-tg-WZOKF",
+    "district": "Teje",
+    "layout": "3+1",
+    "dateOfCompletion": "2023-12",
+    "currency": "EUR",
+    "price": 90000
+  },
+  {
+    "name": "PANORAMA ICON",
+    "link": "1WuQo2SDQyGRRcEyLhuOiz-Qv6VMTL2Yw",
+    "district": "Teje",
+    "layout": "2+1",
+    "dateOfCompletion": "2024-12",
+    "currency": "EUR",
+    "price": 95000
+  },
+  {
+    "name": "PANORAMA ICON",
+    "link": "1WuQo2SDQyGRRcEyLhuOiz-Qv6VMTL2Yw",
+    "district": "Teje",
+    "layout": "3+1",
+    "dateOfCompletion": "2024-12",
+    "currency": "EUR",
+    "price": 115000
+  },
+  {
+    "name": "MARSHALL",
+    "link": "1WB83H8KrxFgNaSEmeqyJyOMiBnffNyGb",
+    "district": "Tomuk",
+    "layout": "1+1",
+    "dateOfCompletion": "2024-06",
+    "currency": "EUR",
+    "price": 76000
+  },
+  {
+    "name": "MARSHALL",
+    "link": "1WB83H8KrxFgNaSEmeqyJyOMiBnffNyGb",
+    "district": "Tomuk",
+    "layout": "2+1",
+    "dateOfCompletion": "2024-06",
+    "currency": "EUR",
+    "price": 136000
+  },
+  {
+    "name": "EMERALD SOLI",
+    "link": "1SRSUa2W9UShDBuQqJYa37BqTOG0Q1kHE",
+    "district": "Soli",
+    "layout": "2+1",
+    "dateOfCompletion": "2023-08",
+    "currency": "EUR",
+    "price": 109000
+  },
+  {
+    "name": "EMERALD AURA",
+    "link": "1RNQFY_gebJlP6K2vni5caZ4jZXrMKp0E",
+    "district": "Ayash",
+    "layout": "1+1",
+    "dateOfCompletion": "2023-08",
+    "currency": "EUR",
+    "price": 140000
+  },
+  {
+    "name": "EMERALD AURA",
+    "link": "1RNQFY_gebJlP6K2vni5caZ4jZXrMKp0E",
+    "district": "Ayash",
+    "layout": "2+1",
+    "dateOfCompletion": "2023-08",
+    "currency": "EUR",
+    "price": 135000
+  },
+  {
+    "name": "EMERALD PLATINUM",
+    "link": "1QPj1c7QAtCzvxaUjCd2Lr-lMPnDccL-E",
+    "district": "Soli",
+    "layout": "2+1",
+    "dateOfCompletion": "2024-12",
+    "currency": "EUR",
+    "price": 78000
+  },
+  {
+    "name": "EMERALD STAR",
+    "link": "1PyoEeywsxNM1_Dd1Tz4acPDdt20Du5Bj",
+    "district": "Teje",
+    "layout": "2+1",
+    "dateOfCompletion": "2023-12",
+    "currency": "EUR",
+    "price": 81000
+  },
+  {
+    "name": "EMERALD FORUM",
+    "link": "1Phet9tuqm_hrMXs8foYL0TcwF3X9TZGz",
+    "district": "Guvenevler",
+    "layout": "1+1",
+    "dateOfCompletion": "2022-06",
+    "currency": "EUR",
+    "price": 115000
+  },
+  {
+    "name": "EMERALD FORUM",
+    "link": "1Phet9tuqm_hrMXs8foYL0TcwF3X9TZGz",
+    "district": "Guvenevler",
+    "layout": "2+1",
+    "dateOfCompletion": "2022-06",
+    "currency": "EUR",
+    "price": 137000
+  },
+  {
+    "name": "CONCEPT",
+    "link": "1OrWPLUaE5XKa9BERWyXJ4ZOmhsZWjgK3",
+    "district": "Teje",
+    "layout": "1+1",
+    "dateOfCompletion": "2024-12",
+    "currency": "EUR",
+    "price": 73000
+  },
+  {
+    "name": "CONCEPT",
+    "link": "1OrWPLUaE5XKa9BERWyXJ4ZOmhsZWjgK3",
+    "district": "Teje",
+    "layout": "2+1",
+    "dateOfCompletion": "2024-12",
+    "currency": "EUR",
+    "price": 98000
+  },
+  {
+    "name": "ROYAL TERACCE",
+    "link": "1Mdagw5SpN7T3_cMK-cGeVaoTGcxdNw9_",
+    "district": "Teje",
+    "layout": "2+1",
+    "dateOfCompletion": "2023-12",
+    "currency": "EUR",
+    "price": 89000
+  },
+  {
+    "name": "EMERALD PREMIUM",
+    "link": "1JNkUsMGyeoKOZpKMxWuUW_x6E-TGjtzn",
+    "district": "Soli",
+    "layout": "1+1",
+    "dateOfCompletion": "2024-12",
+    "currency": "EUR",
+    "price": 60000
+  },
+  {
+    "name": "EMERALD HOMES",
+    "link": "1C5PkJ1SBW9tkPaMgcWOBVGR2iEomnnvh",
+    "district": "Tomuk",
+    "layout": "1+1",
+    "dateOfCompletion": "2023-10",
+    "currency": "EUR",
+    "price": 73000
+  },
+  {
+    "name": "EMERALD HOMES",
+    "link": "1C5PkJ1SBW9tkPaMgcWOBVGR2iEomnnvh",
+    "district": "Tomuk",
+    "layout": "2+1",
+    "dateOfCompletion": "2023-10",
+    "currency": "EUR",
+    "price": 85000
+  },
+  {
+    "name": "EMERALD AZURIT",
+    "link": "17q_ULb3SeVfBxhUP4TchjfbSmjyGz8jd",
+    "district": "Soli",
+    "layout": "1+1",
+    "dateOfCompletion": "2023-03",
+    "currency": "EUR",
+    "price": 65000
+  },
+  {
+    "name": "EMERALD AZURIT",
+    "link": "17q_ULb3SeVfBxhUP4TchjfbSmjyGz8jd",
+    "district": "Soli",
+    "layout": "2+1",
+    "dateOfCompletion": "2023-03",
+    "currency": "EUR",
+    "price": 99000
+  },
+  {
+    "name": "EMERALD PREMIUM",
+    "link": "17D2WkDnjWtNQ8YKbs4Z9xk3du8VdHXm-",
+    "district": "Kargipinari",
+    "layout": "2+1",
+    "dateOfCompletion": "2023-05",
+    "currency": "EUR",
+    "price": 79000
+  },
+  {
+    "name": "EMERALD PREMIUM",
+    "link": "17D2WkDnjWtNQ8YKbs4Z9xk3du8VdHXm-",
+    "district": "Kargipinari",
+    "layout": "3+1",
+    "dateOfCompletion": "2023-05",
+    "currency": "EUR",
+    "price": 94000
+  },
+  {
+    "name": "EMERALD STUDIO",
+    "link": "1310Wke4dppA47RlngSOAbPY1MIk9bRy6",
+    "district": "Teje",
+    "layout": "2+1",
+    "dateOfCompletion": "2024-02",
+    "currency": "EUR",
+    "price": 74000
+  },
+  {
+    "name": "EMERALD RIVA",
+    "link": "10ZqzCySBAM8RJFEUr9uIBKWPwbabUyi6",
+    "district": "Tomuk",
+    "layout": "1+1",
+    "dateOfCompletion": "2024-04",
+    "currency": "EUR",
+    "price": 64000
+  },
+  {
+    "name": "ILKEM ONIKS",
+    "link": "1yzaUx4Risfi4hhzKbayYQcmxzj90xw3E",
+    "district": "Arpachbahshish",
+    "layout": "1+1",
+    "dateOfCompletion": "2024-12",
+    "currency": "EUR",
+    "price": 63000
+  },
+  {
+    "name": "ILKEM SILVER",
+    "link": "1gy4_s-V_2XWHfhr8q_vP9Y6--FmSjUlv",
+    "district": "Arpachbahshish",
+    "layout": "1+1",
+    "dateOfCompletion": "2024-08",
+    "currency": "EUR",
+    "price": 77000
+  },
+  {
+    "name": "ILKEM SILVER",
+    "link": "1gy4_s-V_2XWHfhr8q_vP9Y6--FmSjUlv",
+    "district": "Arpachbahshish",
+    "layout": "2+1",
+    "dateOfCompletion": "2024-08",
+    "currency": "EUR",
+    "price": 112000
+  },
+  {
+    "name": "ILKEM EVIM",
+    "link": "1ewbr7100Xe0QULHu2dFEyNVBY4jLkAED",
+    "district": "Tomuk",
+    "layout": "2+1",
+    "dateOfCompletion": "2024-12",
+    "currency": "USD",
+    "price": 119000
+  },
+  {
+    "name": "ILKEM BRILLIANT",
+    "link": "1bkj4UCgBHkeZVIKw7R-CVhC9eHSboCb_",
+    "district": "Cesmeli",
+    "layout": "1+1",
+    "dateOfCompletion": "2024-12",
+    "currency": "EUR",
+    "price": 65000
+  },
+  {
+    "name": "ILKEM BRILLIANT",
+    "link": "1bkj4UCgBHkeZVIKw7R-CVhC9eHSboCb_",
+    "district": "Cesmeli",
+    "layout": "2+1",
+    "dateOfCompletion": "2024-12",
+    "currency": "EUR",
+    "price": 79000
+  },
+  {
+    "name": "ILKEM CENTER TARSUS",
+    "link": "1YjXh4IvlG3LgoCSY9v2YMf3nMNUToN0N",
+    "district": "Fevzi Cakmak",
+    "layout": "1+1",
+    "dateOfCompletion": "2024-10",
+    "currency": "EUR",
+    "price": 53000
+  },
+  {
+    "name": "ILKEM CENTER TARSUS",
+    "link": "1YjXh4IvlG3LgoCSY9v2YMf3nMNUToN0N",
+    "district": "Fevzi Cakmak",
+    "layout": "2+1",
+    "dateOfCompletion": "2024-10",
+    "currency": "EUR",
+    "price": 70000
+  },
+  {
+    "name": "TARSUS BARAJ KONUTLARI",
+    "link": "1XYQFhYAPrDadwYEI74MicD9kJ12rHDqK",
+    "district": "Caglayan",
+    "layout": "3+1",
+    "dateOfCompletion": "2022-12",
+    "currency": "EUR",
+    "price": 90000
+  },
+  {
+    "name": "ILKEM ELEXUS",
+    "link": "1Vc9rLl1tKXzRJRsLNKyFkLFayU4fN0N8",
+    "district": "Teje",
+    "layout": "1+1",
+    "dateOfCompletion": "2023-06",
+    "currency": "EUR",
+    "price": 78000
+  },
+  {
+    "name": "ILKEM MIAMI",
+    "link": "1TN_qQbnMnPo8C9Y2C6nZjMFlfc2obmDL",
+    "district": "Soli",
+    "layout": "1+1",
+    "dateOfCompletion": "2026-07",
+    "currency": "EUR",
+    "price": 69000
+  },
+  {
+    "name": "ILKEM MIAMI",
+    "link": "1TN_qQbnMnPo8C9Y2C6nZjMFlfc2obmDL",
+    "district": "Soli",
+    "layout": "2+1",
+    "dateOfCompletion": "2026-07",
+    "currency": "EUR",
+    "price": 92000
+  },
+  {
+    "name": "ILKEM MIAMI",
+    "link": "1TN_qQbnMnPo8C9Y2C6nZjMFlfc2obmDL",
+    "district": "Soli",
+    "layout": "3+1",
+    "dateOfCompletion": "2026-07",
+    "currency": "EUR",
+    "price": 145000
+  },
+  {
+    "name": "VEGA 129",
+    "link": "1P8qnUnEM1dRI6ncjgXKdd-aY6Y9wvpoc",
+    "district": "Soli",
+    "layout": "2+1",
+    "dateOfCompletion": "2024-06",
+    "currency": "EUR",
+    "price": 105000
+  },
+  {
+    "name": "ILKEM FLORA",
+    "link": "1Ib450gWfsb6D23ymjmz75iQEoTDPoCSL",
+    "district": "Ciftlikkoy",
+    "layout": "1+1",
+    "dateOfCompletion": "2024-06",
+    "currency": "EUR",
+    "price": 76000
+  },
+  {
+    "name": "ILKEM LEMON",
+    "link": "16nCoPQELGcZ6M9XYuOJ7hADSiDZ_JOJ6",
+    "district": "Kocahasanli",
+    "layout": "1+1",
+    "dateOfCompletion": "2025-04",
+    "currency": "EUR",
+    "price": 58000
+  },
+  {
+    "name": "ILKEM LEMON",
+    "link": "16nCoPQELGcZ6M9XYuOJ7hADSiDZ_JOJ6",
+    "district": "Kocahasanli",
+    "layout": "2+1",
+    "dateOfCompletion": "2025-04",
+    "currency": "EUR",
+    "price": 76000
+  },
+  {
+    "name": "MB NATURE",
+    "link": "1ndea-Dkl4k8h0t_VG6eSfNbwXJIebDn8",
+    "district": "Teje",
+    "layout": "1+1",
+    "dateOfCompletion": "2024-12",
+    "currency": "USD",
+    "price": 95000
+  },
+  {
+    "name": "MB AZURE",
+    "link": "1ndM-OGCVtiNAd9S8UF7ZVLLqYhW17In7",
+    "district": "Teje",
+    "layout": "1+1",
+    "dateOfCompletion": "2025-03",
+    "currency": "USD",
+    "price": 108500
+  },
+  {
+    "name": "MB AZURE",
+    "link": "1ndM-OGCVtiNAd9S8UF7ZVLLqYhW17In7",
+    "district": "Teje",
+    "layout": "2+1",
+    "dateOfCompletion": "2025-03",
+    "currency": "USD",
+    "price": 160000
+  },
+  {
+    "name": "MB VERDE",
+    "link": "1SjfNDdhPvgwtHDbX7s6N4_oKLcpVkgur",
+    "district": "Eski Mezitli",
+    "layout": "3+1",
+    "dateOfCompletion": "2024-12",
+    "currency": "USD",
+    "price": 565000
   }
 ]
