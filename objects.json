@@ -2,7 +2,7 @@
   {
     "name": "LIDIYA SUIT",
     "link": "1wv-GBh7d4AZEzEy1YJBwsa3ZlGrpVMp9",
-    "district": "Teje",
+    "district": "Mezitli/Teje",
     "layout": "1+1",
     "dateOfCompletion": "2023-04",
     "currency": "EUR",
@@ -11,7 +11,7 @@
   {
     "name": "VIP PANORAMA",
     "link": "1lzXCkpn4zaryv7rwS_WX_q2gflffoH7S",
-    "district": "Teje",
+    "district": "Mezitli/Teje",
     "layout": "1+1",
     "dateOfCompletion": "2024-03",
     "currency": "EUR",
@@ -20,7 +20,7 @@
   {
     "name": "VIP PANORAMA",
     "link": "1lzXCkpn4zaryv7rwS_WX_q2gflffoH7S",
-    "district": "Teje",
+    "district": "Mezitli/Teje",
     "layout": "2+1",
     "dateOfCompletion": "2024-03",
     "currency": "EUR",
@@ -29,7 +29,7 @@
   {
     "name": "EMERALD MARKA",
     "link": "1lc8jevwM8PHKiGIt_em1YGsKXStP2M1y",
-    "district": "Arpachbahshish",
+    "district": "Erdemli/Arpachbahshish",
     "layout": "1+1",
     "dateOfCompletion": "2024-03",
     "currency": "EUR",
@@ -38,7 +38,7 @@
   {
     "name": "EMERALD MARKA",
     "link": "1lc8jevwM8PHKiGIt_em1YGsKXStP2M1y",
-    "district": "Arpachbahshish",
+    "district": "Erdemli/Arpachbahshish",
     "layout": "2+1",
     "dateOfCompletion": "2024-03",
     "currency": "EUR",
@@ -47,7 +47,7 @@
   {
     "name": "EMERALD GOLD",
     "link": "1kqpltL7LlZWayd10CNdz41dht_Z8WLys",
-    "district": "Soli",
+    "district": "Mezitli/Soli",
     "layout": "1+1",
     "dateOfCompletion": "2024-04",
     "currency": "EUR",
@@ -56,7 +56,7 @@
   {
     "name": "EMERALD TOWN",
     "link": "1emkEL5VdTq2Dis-1wghfaco7DRxXW_Ll",
-    "district": "Teje",
+    "district": "Mezitli/Teje",
     "layout": "1+1",
     "dateOfCompletion": "2022-06",
     "currency": "EUR",
@@ -65,7 +65,7 @@
   {
     "name": "PANORAMA PLUS",
     "link": "1eRhT7cd-Abx1e4qZ-j-yGXf-tg-WZOKF",
-    "district": "Teje",
+    "district": "Mezitli/Teje",
     "layout": "2+1",
     "dateOfCompletion": "2023-12",
     "currency": "EUR",
@@ -74,7 +74,7 @@
   {
     "name": "PANORAMA PLUS",
     "link": "1eRhT7cd-Abx1e4qZ-j-yGXf-tg-WZOKF",
-    "district": "Teje",
+    "district": "Mezitli/Teje",
     "layout": "3+1",
     "dateOfCompletion": "2023-12",
     "currency": "EUR",
@@ -83,7 +83,7 @@
   {
     "name": "PANORAMA ICON",
     "link": "1WuQo2SDQyGRRcEyLhuOiz-Qv6VMTL2Yw",
-    "district": "Teje",
+    "district": "Mezitli/Teje",
     "layout": "2+1",
     "dateOfCompletion": "2024-12",
     "currency": "EUR",
@@ -92,7 +92,7 @@
   {
     "name": "PANORAMA ICON",
     "link": "1WuQo2SDQyGRRcEyLhuOiz-Qv6VMTL2Yw",
-    "district": "Teje",
+    "district": "Mezitli/Teje",
     "layout": "3+1",
     "dateOfCompletion": "2024-12",
     "currency": "EUR",
@@ -101,7 +101,7 @@
   {
     "name": "MARSHALL",
     "link": "1WB83H8KrxFgNaSEmeqyJyOMiBnffNyGb",
-    "district": "Tomuk",
+    "district": "Erdemli/Tomuk",
     "layout": "1+1",
     "dateOfCompletion": "2024-06",
     "currency": "EUR",
@@ -110,16 +110,16 @@
   {
     "name": "MARSHALL",
     "link": "1WB83H8KrxFgNaSEmeqyJyOMiBnffNyGb",
-    "district": "Tomuk",
+    "district": "Erdemli/Tomuk",
     "layout": "2+1",
     "dateOfCompletion": "2024-06",
     "currency": "EUR",
     "price": 136000
   },
   {
-    "name": "EMERALD SOLI",
+    "name": "EMERALD Mezitli/Soli",
     "link": "1SRSUa2W9UShDBuQqJYa37BqTOG0Q1kHE",
-    "district": "Soli",
+    "district": "Mezitli/Soli",
     "layout": "2+1",
     "dateOfCompletion": "2023-08",
     "currency": "EUR",
@@ -128,7 +128,7 @@
   {
     "name": "EMERALD AURA",
     "link": "1RNQFY_gebJlP6K2vni5caZ4jZXrMKp0E",
-    "district": "Ayash",
+    "district": "Erdemli/Ayash",
     "layout": "1+1",
     "dateOfCompletion": "2023-08",
     "currency": "EUR",
@@ -137,7 +137,7 @@
   {
     "name": "EMERALD AURA",
     "link": "1RNQFY_gebJlP6K2vni5caZ4jZXrMKp0E",
-    "district": "Ayash",
+    "district": "Erdemli/Ayash",
     "layout": "2+1",
     "dateOfCompletion": "2023-08",
     "currency": "EUR",
@@ -146,7 +146,7 @@
   {
     "name": "EMERALD PLATINUM",
     "link": "1QPj1c7QAtCzvxaUjCd2Lr-lMPnDccL-E",
-    "district": "Soli",
+    "district": "Mezitli/Soli",
     "layout": "2+1",
     "dateOfCompletion": "2024-12",
     "currency": "EUR",
@@ -155,7 +155,7 @@
   {
     "name": "EMERALD STAR",
     "link": "1PyoEeywsxNM1_Dd1Tz4acPDdt20Du5Bj",
-    "district": "Teje",
+    "district": "Mezitli/Teje",
     "layout": "2+1",
     "dateOfCompletion": "2023-12",
     "currency": "EUR",
@@ -164,7 +164,7 @@
   {
     "name": "EMERALD FORUM",
     "link": "1Phet9tuqm_hrMXs8foYL0TcwF3X9TZGz",
-    "district": "Guvenevler",
+    "district": "Yenisehir/Guvenevler",
     "layout": "1+1",
     "dateOfCompletion": "2022-06",
     "currency": "EUR",
@@ -173,7 +173,7 @@
   {
     "name": "EMERALD FORUM",
     "link": "1Phet9tuqm_hrMXs8foYL0TcwF3X9TZGz",
-    "district": "Guvenevler",
+    "district": "Yenisehir/Guvenevler",
     "layout": "2+1",
     "dateOfCompletion": "2022-06",
     "currency": "EUR",
@@ -182,7 +182,7 @@
   {
     "name": "CONCEPT",
     "link": "1OrWPLUaE5XKa9BERWyXJ4ZOmhsZWjgK3",
-    "district": "Teje",
+    "district": "Mezitli/Teje",
     "layout": "1+1",
     "dateOfCompletion": "2024-12",
     "currency": "EUR",
@@ -191,7 +191,7 @@
   {
     "name": "CONCEPT",
     "link": "1OrWPLUaE5XKa9BERWyXJ4ZOmhsZWjgK3",
-    "district": "Teje",
+    "district": "Mezitli/Teje",
     "layout": "2+1",
     "dateOfCompletion": "2024-12",
     "currency": "EUR",
@@ -200,7 +200,7 @@
   {
     "name": "ROYAL TERACCE",
     "link": "1Mdagw5SpN7T3_cMK-cGeVaoTGcxdNw9_",
-    "district": "Teje",
+    "district": "Mezitli/Teje",
     "layout": "2+1",
     "dateOfCompletion": "2023-12",
     "currency": "EUR",
@@ -209,7 +209,7 @@
   {
     "name": "EMERALD PREMIUM",
     "link": "1JNkUsMGyeoKOZpKMxWuUW_x6E-TGjtzn",
-    "district": "Soli",
+    "district": "Mezitli/Soli",
     "layout": "1+1",
     "dateOfCompletion": "2024-12",
     "currency": "EUR",
@@ -218,7 +218,7 @@
   {
     "name": "EMERALD HOMES",
     "link": "1C5PkJ1SBW9tkPaMgcWOBVGR2iEomnnvh",
-    "district": "Tomuk",
+    "district": "Erdemli/Tomuk",
     "layout": "1+1",
     "dateOfCompletion": "2023-10",
     "currency": "EUR",
@@ -227,7 +227,7 @@
   {
     "name": "EMERALD HOMES",
     "link": "1C5PkJ1SBW9tkPaMgcWOBVGR2iEomnnvh",
-    "district": "Tomuk",
+    "district": "Erdemli/Tomuk",
     "layout": "2+1",
     "dateOfCompletion": "2023-10",
     "currency": "EUR",
@@ -236,7 +236,7 @@
   {
     "name": "EMERALD AZURIT",
     "link": "17q_ULb3SeVfBxhUP4TchjfbSmjyGz8jd",
-    "district": "Soli",
+    "district": "Mezitli/Soli",
     "layout": "1+1",
     "dateOfCompletion": "2023-03",
     "currency": "EUR",
@@ -245,7 +245,7 @@
   {
     "name": "EMERALD AZURIT",
     "link": "17q_ULb3SeVfBxhUP4TchjfbSmjyGz8jd",
-    "district": "Soli",
+    "district": "Mezitli/Soli",
     "layout": "2+1",
     "dateOfCompletion": "2023-03",
     "currency": "EUR",
@@ -254,7 +254,7 @@
   {
     "name": "EMERALD PREMIUM",
     "link": "17D2WkDnjWtNQ8YKbs4Z9xk3du8VdHXm-",
-    "district": "Kargipinari",
+    "district": "Erdemli/Kargipinari",
     "layout": "2+1",
     "dateOfCompletion": "2023-05",
     "currency": "EUR",
@@ -263,7 +263,7 @@
   {
     "name": "EMERALD PREMIUM",
     "link": "17D2WkDnjWtNQ8YKbs4Z9xk3du8VdHXm-",
-    "district": "Kargipinari",
+    "district": "Erdemli/Kargipinari",
     "layout": "3+1",
     "dateOfCompletion": "2023-05",
     "currency": "EUR",
@@ -272,7 +272,7 @@
   {
     "name": "EMERALD STUDIO",
     "link": "1310Wke4dppA47RlngSOAbPY1MIk9bRy6",
-    "district": "Teje",
+    "district": "Mezitli/Teje",
     "layout": "2+1",
     "dateOfCompletion": "2024-02",
     "currency": "EUR",
@@ -281,7 +281,7 @@
   {
     "name": "EMERALD RIVA",
     "link": "10ZqzCySBAM8RJFEUr9uIBKWPwbabUyi6",
-    "district": "Tomuk",
+    "district": "Erdemli/Tomuk",
     "layout": "1+1",
     "dateOfCompletion": "2024-04",
     "currency": "EUR",
@@ -290,7 +290,7 @@
   {
     "name": "ILKEM ONIKS",
     "link": "1yzaUx4Risfi4hhzKbayYQcmxzj90xw3E",
-    "district": "Arpachbahshish",
+    "district": "Erdemli/Arpachbahshish",
     "layout": "1+1",
     "dateOfCompletion": "2024-12",
     "currency": "EUR",
@@ -299,7 +299,7 @@
   {
     "name": "ILKEM SILVER",
     "link": "1gy4_s-V_2XWHfhr8q_vP9Y6--FmSjUlv",
-    "district": "Arpachbahshish",
+    "district": "Erdemli/Arpachbahshish",
     "layout": "1+1",
     "dateOfCompletion": "2024-08",
     "currency": "EUR",
@@ -308,7 +308,7 @@
   {
     "name": "ILKEM SILVER",
     "link": "1gy4_s-V_2XWHfhr8q_vP9Y6--FmSjUlv",
-    "district": "Arpachbahshish",
+    "district": "Erdemli/Arpachbahshish",
     "layout": "2+1",
     "dateOfCompletion": "2024-08",
     "currency": "EUR",
@@ -317,7 +317,7 @@
   {
     "name": "ILKEM EVIM",
     "link": "1ewbr7100Xe0QULHu2dFEyNVBY4jLkAED",
-    "district": "Tomuk",
+    "district": "Erdemli/Tomuk",
     "layout": "2+1",
     "dateOfCompletion": "2024-12",
     "currency": "USD",
@@ -326,7 +326,7 @@
   {
     "name": "ILKEM BRILLIANT",
     "link": "1bkj4UCgBHkeZVIKw7R-CVhC9eHSboCb_",
-    "district": "Cesmeli",
+    "district": "Erdemli/Cesmeli",
     "layout": "1+1",
     "dateOfCompletion": "2024-12",
     "currency": "EUR",
@@ -335,7 +335,7 @@
   {
     "name": "ILKEM BRILLIANT",
     "link": "1bkj4UCgBHkeZVIKw7R-CVhC9eHSboCb_",
-    "district": "Cesmeli",
+    "district": "Erdemli/Cesmeli",
     "layout": "2+1",
     "dateOfCompletion": "2024-12",
     "currency": "EUR",
@@ -344,7 +344,7 @@
   {
     "name": "ILKEM CENTER TARSUS",
     "link": "1YjXh4IvlG3LgoCSY9v2YMf3nMNUToN0N",
-    "district": "Fevzi Cakmak",
+    "district": "Tarsus/Fevzi Cakmak",
     "layout": "1+1",
     "dateOfCompletion": "2024-10",
     "currency": "EUR",
@@ -353,7 +353,7 @@
   {
     "name": "ILKEM CENTER TARSUS",
     "link": "1YjXh4IvlG3LgoCSY9v2YMf3nMNUToN0N",
-    "district": "Fevzi Cakmak",
+    "district": "Tarsus/Fevzi Cakmak",
     "layout": "2+1",
     "dateOfCompletion": "2024-10",
     "currency": "EUR",
@@ -362,7 +362,7 @@
   {
     "name": "TARSUS BARAJ KONUTLARI",
     "link": "1XYQFhYAPrDadwYEI74MicD9kJ12rHDqK",
-    "district": "Caglayan",
+    "district": "Tarsus/Caglayan",
     "layout": "3+1",
     "dateOfCompletion": "2022-12",
     "currency": "EUR",
@@ -371,7 +371,7 @@
   {
     "name": "ILKEM ELEXUS",
     "link": "1Vc9rLl1tKXzRJRsLNKyFkLFayU4fN0N8",
-    "district": "Teje",
+    "district": "Mezitli/Teje",
     "layout": "1+1",
     "dateOfCompletion": "2023-06",
     "currency": "EUR",
@@ -380,7 +380,7 @@
   {
     "name": "ILKEM MIAMI",
     "link": "1TN_qQbnMnPo8C9Y2C6nZjMFlfc2obmDL",
-    "district": "Soli",
+    "district": "Mezitli/Soli",
     "layout": "1+1",
     "dateOfCompletion": "2026-07",
     "currency": "EUR",
@@ -389,7 +389,7 @@
   {
     "name": "ILKEM MIAMI",
     "link": "1TN_qQbnMnPo8C9Y2C6nZjMFlfc2obmDL",
-    "district": "Soli",
+    "district": "Mezitli/Soli",
     "layout": "2+1",
     "dateOfCompletion": "2026-07",
     "currency": "EUR",
@@ -398,7 +398,7 @@
   {
     "name": "ILKEM MIAMI",
     "link": "1TN_qQbnMnPo8C9Y2C6nZjMFlfc2obmDL",
-    "district": "Soli",
+    "district": "Mezitli/Soli",
     "layout": "3+1",
     "dateOfCompletion": "2026-07",
     "currency": "EUR",
@@ -407,7 +407,7 @@
   {
     "name": "VEGA 129",
     "link": "1P8qnUnEM1dRI6ncjgXKdd-aY6Y9wvpoc",
-    "district": "Soli",
+    "district": "Mezitli/Soli",
     "layout": "2+1",
     "dateOfCompletion": "2024-06",
     "currency": "EUR",
@@ -416,7 +416,7 @@
   {
     "name": "ILKEM FLORA",
     "link": "1Ib450gWfsb6D23ymjmz75iQEoTDPoCSL",
-    "district": "Ciftlikkoy",
+    "district": "Yenisehir/Ciftlikkoy",
     "layout": "1+1",
     "dateOfCompletion": "2024-06",
     "currency": "EUR",
@@ -425,7 +425,7 @@
   {
     "name": "ILKEM LEMON",
     "link": "16nCoPQELGcZ6M9XYuOJ7hADSiDZ_JOJ6",
-    "district": "Kocahasanli",
+    "district": "Erdemli/Kocahasanli",
     "layout": "1+1",
     "dateOfCompletion": "2025-04",
     "currency": "EUR",
@@ -434,7 +434,7 @@
   {
     "name": "ILKEM LEMON",
     "link": "16nCoPQELGcZ6M9XYuOJ7hADSiDZ_JOJ6",
-    "district": "Kocahasanli",
+    "district": "Erdemli/Kocahasanli",
     "layout": "2+1",
     "dateOfCompletion": "2025-04",
     "currency": "EUR",
@@ -443,7 +443,7 @@
   {
     "name": "MB NATURE",
     "link": "1ndea-Dkl4k8h0t_VG6eSfNbwXJIebDn8",
-    "district": "Teje",
+    "district": "Mezitli/Teje",
     "layout": "1+1",
     "dateOfCompletion": "2024-12",
     "currency": "USD",
@@ -452,7 +452,7 @@
   {
     "name": "MB AZURE",
     "link": "1ndM-OGCVtiNAd9S8UF7ZVLLqYhW17In7",
-    "district": "Teje",
+    "district": "Mezitli/Teje",
     "layout": "1+1",
     "dateOfCompletion": "2025-03",
     "currency": "USD",
@@ -461,7 +461,7 @@
   {
     "name": "MB AZURE",
     "link": "1ndM-OGCVtiNAd9S8UF7ZVLLqYhW17In7",
-    "district": "Teje",
+    "district": "Mezitli/Teje",
     "layout": "2+1",
     "dateOfCompletion": "2025-03",
     "currency": "USD",
@@ -470,7 +470,7 @@
   {
     "name": "MB VERDE",
     "link": "1SjfNDdhPvgwtHDbX7s6N4_oKLcpVkgur",
-    "district": "Eski Mezitli",
+    "district": "Mezitli/Eski Mezitli",
     "layout": "3+1",
     "dateOfCompletion": "2024-12",
     "currency": "USD",
