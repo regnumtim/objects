@@ -914,7 +914,7 @@
     "link": "1LyKZvl2PkN7QZjd-ZsLFGmeXy7Pw1CX9",
     "district": "Tece",
     "coordinates": [36.694423, 34.441487],
-    "layout": "",
+    "layout": "1+1",
     "dateOfCompletion": "2023-11",
     "currency": "EUR",
     "price": 75000
@@ -924,7 +924,7 @@
     "link": "1LyKZvl2PkN7QZjd-ZsLFGmeXy7Pw1CX9",
     "district": "Tece",
     "coordinates": [36.694423, 34.441487],
-    "layout": "",
+    "layout": "2+1",
     "dateOfCompletion": "2023-11",
     "currency": "EUR",
     "price": 89000
