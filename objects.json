@@ -1,0 +1,1142 @@
+[
+  {
+    "name": "EMERALD VIP PANORAMA",
+    "link": "1lzXCkpn4zaryv7rwS_WX_q2gflffoH7S",
+    "district": "Tece",
+    "coordinates": [36.69135996339453, 34.44560700837442],
+    "layout": "2+1",
+    "dateOfCompletion": "2024-03",
+    "currency": "EUR",
+    "price": 86000
+  },
+  {
+    "name": "EMERALD MARKA",
+    "link": "1lc8jevwM8PHKiGIt_em1YGsKXStP2M1y",
+    "district": "Arpaçbahşiş",
+    "coordinates": [36.643937171472004, 34.362136302561964],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-03",
+    "currency": "EUR",
+    "price": 65000
+  },
+  {
+    "name": "EMERALD MARKA",
+    "link": "1lc8jevwM8PHKiGIt_em1YGsKXStP2M1y",
+    "district": "Arpaçbahşiş",
+    "coordinates": [36.643937171472004, 34.362136302561964],
+    "layout": "2+1",
+    "dateOfCompletion": "2024-03",
+    "currency": "EUR",
+    "price": 85000
+  },
+  {
+    "name": "EMERALD GOLD",
+    "link": "1kqpltL7LlZWayd10CNdz41dht_Z8WLys",
+    "district": "Soli",
+    "coordinates": [36.72663240525609, 34.49967565179355],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-04",
+    "currency": "EUR",
+    "price": 68000
+  },
+  {
+    "name": "EMERALD TOWN",
+    "link": "1emkEL5VdTq2Dis-1wghfaco7DRxXW_Ll",
+    "district": "Tece",
+    "coordinates": [36.692622, 34.441243],
+    "layout": "1+1",
+    "dateOfCompletion": "2022-06",
+    "currency": "EUR",
+    "price": 75000
+  },
+  {
+    "name": "EMERALD PANORAMA PLUS",
+    "link": "1eRhT7cd-Abx1e4qZ-j-yGXf-tg-WZOKF",
+    "district": "Tece",
+    "coordinates": [36.69396355014012, 34.44324398245807],
+    "layout": "2+1",
+    "dateOfCompletion": "2023-12",
+    "currency": "EUR",
+    "price": 87000
+  },
+  {
+    "name": "EMERALD PANORAMA PLUS",
+    "link": "1eRhT7cd-Abx1e4qZ-j-yGXf-tg-WZOKF",
+    "district": "Tece",
+    "coordinates": [36.69396355014012, 34.44324398245807],
+    "layout": "3+1",
+    "dateOfCompletion": "2023-12",
+    "currency": "EUR",
+    "price": 92000
+  },
+  {
+    "name": "EMERALD PANORAMA ICON",
+    "link": "1WuQo2SDQyGRRcEyLhuOiz-Qv6VMTL2Yw",
+    "district": "Tece",
+    "coordinates": [36.69818200557785, 34.45173628473517],
+    "layout": "2+1",
+    "dateOfCompletion": "2024-12",
+    "currency": "EUR",
+    "price": 97000
+  },
+  {
+    "name": "EMERALD PANORAMA ICON",
+    "link": "1WuQo2SDQyGRRcEyLhuOiz-Qv6VMTL2Yw",
+    "district": "Tece",
+    "coordinates": [36.69818200557785, 34.45173628473517],
+    "layout": "3+1",
+    "dateOfCompletion": "2024-12",
+    "currency": "EUR",
+    "price": 117000
+  },
+  {
+    "name": "EMERALD MARSHALL",
+    "link": "1WB83H8KrxFgNaSEmeqyJyOMiBnffNyGb",
+    "district": "Tömük",
+    "coordinates": [36.66022962302005, 34.397407068746055],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-06",
+    "currency": "EUR",
+    "price": 77000
+  },
+  {
+    "name": "EMERALD MARSHALL",
+    "link": "1WB83H8KrxFgNaSEmeqyJyOMiBnffNyGb",
+    "district": "Tömük",
+    "coordinates": [36.66022962302005, 34.397407068746055],
+    "layout": "2+1",
+    "dateOfCompletion": "2024-06",
+    "currency": "EUR",
+    "price": 138000
+  },
+  {
+    "name": "EMERALD SOLI",
+    "link": "1SRSUa2W9UShDBuQqJYa37BqTOG0Q1kHE",
+    "district": "Soli",
+    "coordinates": [36.741576211158275, 34.51119471117473],
+    "layout": "2+1",
+    "dateOfCompletion": "2023-08",
+    "currency": "EUR",
+    "price": 111000
+  },
+  {
+    "name": "EMERALD AURA",
+    "link": "1RNQFY_gebJlP6K2vni5caZ4jZXrMKp0E",
+    "district": "Ayaş",
+    "coordinates": [36.5035483243275, 34.19419836996083],
+    "layout": "1+1",
+    "dateOfCompletion": "2023-08",
+    "currency": "EUR",
+    "price": 140000
+  },
+  {
+    "name": "EMERALD AURA",
+    "link": "1RNQFY_gebJlP6K2vni5caZ4jZXrMKp0E",
+    "district": "Ayaş",
+    "coordinates": [36.5035483243275, 34.19419836996083],
+    "layout": "2+1",
+    "dateOfCompletion": "2023-08",
+    "currency": "EUR",
+    "price": 130000
+  },
+  {
+    "name": "EMERALD PLATINUM",
+    "link": "1QPj1c7QAtCzvxaUjCd2Lr-lMPnDccL-E",
+    "district": "Soli",
+    "coordinates": [36.73215385101485, 34.49760221663303],
+    "layout": "2+1",
+    "dateOfCompletion": "2024-12",
+    "currency": "EUR",
+    "price": 80000
+  },
+  {
+    "name": "EMERALD STAR",
+    "link": "1PyoEeywsxNM1_Dd1Tz4acPDdt20Du5Bj",
+    "district": "Tece",
+    "coordinates": [36.695435935412604, 34.446782112995464],
+    "layout": "2+1",
+    "dateOfCompletion": "2023-12",
+    "currency": "EUR",
+    "price": 77000
+  },
+  {
+    "name": "EMERALD FORUM",
+    "link": "1Phet9tuqm_hrMXs8foYL0TcwF3X9TZGz",
+    "district": "Yenişehir",
+    "coordinates": [36.78931196964349, 34.58466624183326],
+    "layout": "2+1",
+    "dateOfCompletion": "2022-06",
+    "currency": "EUR",
+    "price": 137000
+  },
+  {
+    "name": "EMERALD CONCEPT",
+    "link": "1OrWPLUaE5XKa9BERWyXJ4ZOmhsZWjgK3",
+    "district": "Tece",
+    "coordinates": [36.695510732595466, 34.44438332833605],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-12",
+    "currency": "EUR",
+    "price": 73000
+  },
+  {
+    "name": "EMERALD CONCEPT",
+    "link": "1OrWPLUaE5XKa9BERWyXJ4ZOmhsZWjgK3",
+    "district": "Tece",
+    "coordinates": [36.695510732595466, 34.44438332833605],
+    "layout": "2+1",
+    "dateOfCompletion": "2024-12",
+    "currency": "EUR",
+    "price": 98000
+  },
+  {
+    "name": "EMERALD ROYAL TERACCE",
+    "link": "1Mdagw5SpN7T3_cMK-cGeVaoTGcxdNw9_",
+    "district": "Tece",
+    "coordinates": [36.69047845658276, 34.44298675561743],
+    "layout": "2+1",
+    "dateOfCompletion": "2023-12",
+    "currency": "EUR",
+    "price": 91000
+  },
+  {
+    "name": "EMERALD PREMIUM",
+    "link": "1JNkUsMGyeoKOZpKMxWuUW_x6E-TGjtzn",
+    "district": "Soli",
+    "coordinates": [36.73213357048934, 34.4975700378418],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-12",
+    "currency": "EUR",
+    "price": 62000
+  },
+  {
+    "name": "EMERALD HOMES",
+    "link": "1C5PkJ1SBW9tkPaMgcWOBVGR2iEomnnvh",
+    "district": "Arpaçbahşiş",
+    "coordinates": [36.63701069133724, 34.3546738624997],
+    "layout": "1+1",
+    "dateOfCompletion": "2023-10",
+    "currency": "EUR",
+    "price": 77000
+  },
+  {
+    "name": "EMERALD HOMES",
+    "link": "1C5PkJ1SBW9tkPaMgcWOBVGR2iEomnnvh",
+    "district": "Arpaçbahşiş",
+    "coordinates": [36.63701069133724, 34.3546738624997],
+    "layout": "2+1",
+    "dateOfCompletion": "2023-10",
+    "currency": "EUR",
+    "price": 87000
+  },
+  {
+    "name": "EMERALD AZURIT",
+    "link": "17q_ULb3SeVfBxhUP4TchjfbSmjyGz8jd",
+    "district": "Soli",
+    "coordinates": [36.73322198945593, 34.50452207029908],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-06",
+    "currency": "EUR",
+    "price": 66000
+  },
+  {
+    "name": "EMERALD AZURIT",
+    "link": "17q_ULb3SeVfBxhUP4TchjfbSmjyGz8jd",
+    "district": "Soli",
+    "coordinates": [36.73322198945593, 34.50452207029908],
+    "layout": "2+1",
+    "dateOfCompletion": "2024-06",
+    "currency": "EUR",
+    "price": 100000
+  },
+  {
+    "name": "ROYAL PREMIUM",
+    "link": "17D2WkDnjWtNQ8YKbs4Z9xk3du8VdHXm-",
+    "district": "Çeşmeli",
+    "coordinates": [36.69802622460646, 34.45286389765508],
+    "layout": "2+1",
+    "dateOfCompletion": "2025-05",
+    "currency": "EUR",
+    "price": 79000
+  },
+  {
+    "name": "ROYAL PREMIUM",
+    "link": "17D2WkDnjWtNQ8YKbs4Z9xk3du8VdHXm-",
+    "district": "Çeşmeli",
+    "coordinates": [36.69802622460646, 34.45286389765508],
+    "layout": "3+1",
+    "dateOfCompletion": "2025-05",
+    "currency": "EUR",
+    "price": 94000
+  },
+  {
+    "name": "EMERALD STUDIO",
+    "link": "1310Wke4dppA47RlngSOAbPY1MIk9bRy6",
+    "district": "Tece",
+    "coordinates": [36.69085815829554, 34.44128009325345],
+    "layout": "2+1",
+    "dateOfCompletion": "2024-02",
+    "currency": "EUR",
+    "price": 76000
+  },
+  {
+    "name": "EMERALD RIVA",
+    "link": "10ZqzCySBAM8RJFEUr9uIBKWPwbabUyi6",
+    "district": "Tömük",
+    "coordinates": [36.64780715924444, 34.37242093149565],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-04",
+    "currency": "EUR",
+    "price": 65000
+  },
+  {
+    "name": "ILKEM ONIKS",
+    "link": "1yzaUx4Risfi4hhzKbayYQcmxzj90xw3E",
+    "district": "Arpaçbahşiş",
+    "coordinates": [36.640803, 34.355433],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-12",
+    "currency": "EUR",
+    "price": 66000
+  },
+  {
+    "name": "ILKEM SILVER",
+    "link": "1gy4_s-V_2XWHfhr8q_vP9Y6--FmSjUlv",
+    "district": "Arpaçbahşiş",
+    "coordinates": [36.640338, 34.358972],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-08",
+    "currency": "EUR",
+    "price": 77000
+  },
+  {
+    "name": "ILKEM SILVER",
+    "link": "1gy4_s-V_2XWHfhr8q_vP9Y6--FmSjUlv",
+    "district": "Arpaçbahşiş",
+    "coordinates": [36.640338, 34.358972],
+    "layout": "2+1",
+    "dateOfCompletion": "2024-08",
+    "currency": "EUR",
+    "price": 112000
+  },
+  {
+    "name": "ILKEM EVIM",
+    "link": "1ewbr7100Xe0QULHu2dFEyNVBY4jLkAED",
+    "district": "Tömük",
+    "coordinates": [36.64274, 34.365804],
+    "layout": "2+1",
+    "dateOfCompletion": "2024-12",
+    "currency": "EUR",
+    "price": 122000
+  },
+  {
+    "name": "ILKEM BRILLIANT",
+    "link": "1bkj4UCgBHkeZVIKw7R-CVhC9eHSboCb_",
+    "district": "Tece",
+    "coordinates": [36.688356, 34.435265],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-12",
+    "currency": "EUR",
+    "price": 65000
+  },
+  {
+    "name": "ILKEM BRILLIANT",
+    "link": "1bkj4UCgBHkeZVIKw7R-CVhC9eHSboCb_",
+    "district": "Tece",
+    "coordinates": [36.688356, 34.435265],
+    "layout": "2+1",
+    "dateOfCompletion": "2024-12",
+    "currency": "EUR",
+    "price": 79000
+  },
+  {
+    "name": "ILKEM ELEXUS",
+    "link": "1Vc9rLl1tKXzRJRsLNKyFkLFayU4fN0N8",
+    "district": "Tece",
+    "coordinates": [36.695746, 34.449727],
+    "layout": "1+1",
+    "dateOfCompletion": "2023-06",
+    "currency": "EUR",
+    "price": 82000
+  },
+  {
+    "name": "ILKEM MIAMI",
+    "link": "1TN_qQbnMnPo8C9Y2C6nZjMFlfc2obmDL",
+    "district": "Soli",
+    "coordinates": [36.734373, 34.495628],
+    "layout": "1+1",
+    "dateOfCompletion": "2026-07",
+    "currency": "EUR",
+    "price": 79000
+  },
+  {
+    "name": "ILKEM MIAMI",
+    "link": "1TN_qQbnMnPo8C9Y2C6nZjMFlfc2obmDL",
+    "district": "Soli",
+    "coordinates": [36.734373, 34.495628],
+    "layout": "2+1",
+    "dateOfCompletion": "2026-07",
+    "currency": "EUR",
+    "price": 92000
+  },
+  {
+    "name": "ILKEM MIAMI",
+    "link": "1TN_qQbnMnPo8C9Y2C6nZjMFlfc2obmDL",
+    "district": "Soli",
+    "coordinates": [36.734373, 34.495628],
+    "layout": "3+1",
+    "dateOfCompletion": "2026-07",
+    "currency": "EUR",
+    "price": 145000
+  },
+  {
+    "name": "ILKEM VEGA 129",
+    "link": "1P8qnUnEM1dRI6ncjgXKdd-aY6Y9wvpoc",
+    "district": "Soli",
+    "coordinates": [36.748834, 34.51965],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-06",
+    "currency": "EUR",
+    "price": 163000
+  },
+  {
+    "name": "ILKEM VEGA 129",
+    "link": "1P8qnUnEM1dRI6ncjgXKdd-aY6Y9wvpoc",
+    "district": "Soli",
+    "coordinates": [36.748834, 34.51965],
+    "layout": "2+1",
+    "dateOfCompletion": "2024-06",
+    "currency": "EUR",
+    "price": 118000
+  },
+  {
+    "name": "ILKEM FLORA",
+    "link": "1Ib450gWfsb6D23ymjmz75iQEoTDPoCSL",
+    "district": "Yenişehir",
+    "coordinates": [36.770868, 34.545196],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-06",
+    "currency": "EUR",
+    "price": 76000
+  },
+  {
+    "name": "ILKEM LEMON",
+    "link": "16nCoPQELGcZ6M9XYuOJ7hADSiDZ_JOJ6",
+    "district": "Erdemli",
+    "coordinates": [36.583288, 34.267362],
+    "layout": "1+1",
+    "dateOfCompletion": "2025-04",
+    "currency": "EUR",
+    "price": 58000
+  },
+  {
+    "name": "ILKEM LEMON",
+    "link": "16nCoPQELGcZ6M9XYuOJ7hADSiDZ_JOJ6",
+    "district": "Erdemli",
+    "coordinates": [36.583288, 34.267362],
+    "layout": "2+1",
+    "dateOfCompletion": "2025-04",
+    "currency": "EUR",
+    "price": 76000
+  },
+  {
+    "name": "MB NATURE",
+    "link": "1ndea-Dkl4k8h0t_VG6eSfNbwXJIebDn8",
+    "district": "Tece",
+    "coordinates": [36.692377, 34.439805],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-12",
+    "currency": "USD",
+    "price": 104500
+  },
+  {
+    "name": "MB AZURE",
+    "link": "1ndM-OGCVtiNAd9S8UF7ZVLLqYhW17In7",
+    "district": "Tece",
+    "coordinates": [36.683383, 34.439629],
+    "layout": "1+1",
+    "dateOfCompletion": "2025-03",
+    "currency": "USD",
+    "price": 110000
+  },
+  {
+    "name": "MB AZURE",
+    "link": "1ndM-OGCVtiNAd9S8UF7ZVLLqYhW17In7",
+    "district": "Tece",
+    "coordinates": [36.683383, 34.439629],
+    "layout": "2+1",
+    "dateOfCompletion": "2025-03",
+    "currency": "USD",
+    "price": 168000
+  },
+  {
+    "name": "MB VERDE",
+    "link": "1SjfNDdhPvgwtHDbX7s6N4_oKLcpVkgur",
+    "district": "Soli",
+    "coordinates": [36.744423, 34.497643],
+    "layout": "3+1",
+    "dateOfCompletion": "2024-12",
+    "currency": "USD",
+    "price": 465000
+  },
+  {
+    "name": "HILDA PLUS",
+    "link": "1EN5WB5gTZQ1tF4qju2w-PgRmBeMgvSbc",
+    "district": "Arpaçbahşiş",
+    "coordinates": [36.641997, 34.357373],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-07",
+    "currency": "EUR",
+    "price": 59000
+  },
+  {
+    "name": "HILDA PLUS",
+    "link": "1EN5WB5gTZQ1tF4qju2w-PgRmBeMgvSbc",
+    "district": "Arpaçbahşiş",
+    "coordinates": [36.641997, 34.357373],
+    "layout": "2+1",
+    "dateOfCompletion": "2024-07",
+    "currency": "EUR",
+    "price": 92000
+  },
+  {
+    "name": "SAMIRAS IMAJ ÇEŞMELİ",
+    "link": "1pf1o116DgBOw_Ru5nVnQaYN2wazvvmE-",
+    "district": "Çeşmeli",
+    "coordinates": [36.67039, 34.428329],
+    "layout": "1+1",
+    "dateOfCompletion": "2023-06",
+    "currency": "EUR",
+    "price": 79000
+  },
+  {
+    "name": "SAMIRAS IMAJ ÇEŞMELİ",
+    "link": "1pf1o116DgBOw_Ru5nVnQaYN2wazvvmE-",
+    "district": "Çeşmeli",
+    "coordinates": [36.67039, 34.428329],
+    "layout": "2+1",
+    "dateOfCompletion": "2023-06",
+    "currency": "EUR",
+    "price": 99000
+  },
+  {
+    "name": "SAMIRAS ANNA RESIDENCE",
+    "link": "12Vtz7-3K4FWrkaVDE3OYyHvZAIjBagQe",
+    "district": "Çeşmeli",
+    "coordinates": [36.6783, 34.4317],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-06",
+    "currency": "EUR",
+    "price": 68000
+  },
+  {
+    "name": "SAMIRAS ANNA RESIDENCE",
+    "link": "12Vtz7-3K4FWrkaVDE3OYyHvZAIjBagQe",
+    "district": "Çeşmeli",
+    "coordinates": [36.6783, 34.4317],
+    "layout": "2+1",
+    "dateOfCompletion": "2024-06",
+    "currency": "EUR",
+    "price": 89000
+  },
+  {
+    "name": "ALIOGLU LAVINYA ASTORIA",
+    "link": "1U7O5cVtQU1XRJcDabHwZnLuCki6mT8l4",
+    "district": "Soli",
+    "coordinates": [36.7331, 34.4956],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-12",
+    "currency": "EUR",
+    "price": 55000
+  },
+  {
+    "name": "ALIOGLU LAVINYA ASTORIA",
+    "link": "1U7O5cVtQU1XRJcDabHwZnLuCki6mT8l4",
+    "district": "Soli",
+    "coordinates": [36.7331, 34.4956],
+    "layout": "2+1",
+    "dateOfCompletion": "2024-12",
+    "currency": "EUR",
+    "price": 80000
+  },
+  {
+    "name": "DORA ELEGANT",
+    "link": "1jryMf0o-MyacE1rnQwUnTzIhQ8EgL1bq",
+    "district": "Tömük",
+    "coordinates": [36.65818, 34.397461],
+    "layout": "1+1",
+    "dateOfCompletion": "2025-07",
+    "currency": "EUR",
+    "price": 60000
+  },
+  {
+    "name": "OZMEN GLOBAL SUN MARIA 2",
+    "link": "1pyppgFj-WAZ8Hu9auTl5oCRTkkKhd8bl",
+    "district": "Çeşmeli",
+    "coordinates": [36.679694, 34.434349],
+    "layout": "1+1",
+    "dateOfCompletion": "2023-12",
+    "currency": "EUR",
+    "price": 75000
+  },
+  {
+    "name": "OZMEN GLOBAL SUN MARIA 1",
+    "link": "1YjDBCYkWb3z5RbboqmTTTqPPj0-358zN",
+    "district": "Çeşmeli",
+    "coordinates": [36.679718, 34.43439],
+    "layout": "1+1",
+    "dateOfCompletion": "2023-12",
+    "currency": "EUR",
+    "price": 73500
+  },
+  {
+    "name": "OZMEN GLOBAL SUN MARIA 1",
+    "link": "1YjDBCYkWb3z5RbboqmTTTqPPj0-358zN",
+    "district": "Çeşmeli",
+    "coordinates": [36.679718, 34.43439],
+    "layout": "2+1",
+    "dateOfCompletion": "2023-12",
+    "currency": "EUR",
+    "price": 98000
+  },
+  {
+    "name": "OZMEN GLOBAL SUN MARIA BEACH",
+    "link": "1Y_wHNPSfCojVUShHSUEAzzL9wk497shm",
+    "district": "Erdemli",
+    "coordinates": [36.581882, 34.266884],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-05",
+    "currency": "EUR",
+    "price": 49000
+  },
+  {
+    "name": "OZMEN GLOBAL SUN MARIA VOYAGE",
+    "link": "1WaE7Bw_rHwIuQqo-O1cwQMJOdDELt5KW",
+    "district": "Arpaçbahşiş",
+    "coordinates": [36.639276, 34.350056],
+    "layout": "1+0",
+    "dateOfCompletion": "2023-12",
+    "currency": "EUR",
+    "price": 39500
+  },
+  {
+    "name": "OZMEN GLOBAL SUN MARIA VOYAGE",
+    "link": "1WaE7Bw_rHwIuQqo-O1cwQMJOdDELt5KW",
+    "district": "Arpaçbahşiş",
+    "coordinates": [36.639276, 34.350056],
+    "layout": "1+1",
+    "dateOfCompletion": "2023-12",
+    "currency": "EUR",
+    "price": 64000
+  },
+  {
+    "name": "OZMEN GLOBAL SUN MARIA HOLIDAY",
+    "link": "1CPaYOPAaYU-vZH5SodLnp4jHXFQmGd6K",
+    "district": "Çeşmeli",
+    "coordinates": [36.67772, 34.432639],
+    "layout": "1+1",
+    "dateOfCompletion": "2023-12",
+    "currency": "EUR",
+    "price": 59000
+  },
+  {
+    "name": "OZMEN GLOBAL SUN MARIA SEASON",
+    "link": "14Z81pT_pM34CGQIbTfqYBhaVDEt-_7wu",
+    "district": "Kargıpınarı",
+    "coordinates": [36.669668, 34.406532],
+    "layout": "1+0",
+    "dateOfCompletion": "2025-05",
+    "currency": "EUR",
+    "price": 39000
+  },
+  {
+    "name": "OZMEN GLOBAL SUN MARIA RESORT",
+    "link": "1-EAuzbgGDiftsK5Q5VErpY83c9KhYi3p",
+    "district": "Çeşmeli",
+    "coordinates": [36.679442, 34.418333],
+    "layout": "1+1",
+    "dateOfCompletion": "2023-12",
+    "currency": "EUR",
+    "price": 55000
+  },
+  {
+    "name": "OZMEN GLOBAL SUN MARIA RESORT",
+    "link": "1-EAuzbgGDiftsK5Q5VErpY83c9KhYi3p",
+    "district": "Çeşmeli",
+    "coordinates": [36.679442, 34.418333],
+    "layout": "2+1",
+    "dateOfCompletion": "2023-12",
+    "currency": "EUR",
+    "price": 91000
+  },
+  {
+    "name": "ILKEM RIO",
+    "link": "1cWb9kXuClZHrQ6iORrXgdcGM7OfbzPy4",
+    "district": "Tömük",
+    "coordinates": [36.661482, 34.396243],
+    "layout": "1+0",
+    "dateOfCompletion": "2025-08",
+    "currency": "EUR",
+    "price": 39000
+  },
+  {
+    "name": "ILKEM RIO",
+    "link": "1cWb9kXuClZHrQ6iORrXgdcGM7OfbzPy4",
+    "district": "Tömük",
+    "coordinates": [36.661482, 34.396243],
+    "layout": "1+1",
+    "dateOfCompletion": "2025-08",
+    "currency": "EUR",
+    "price": 56000
+  },
+  {
+    "name": "EMERALD CONCEPT TREND",
+    "link": "1I49qjXPiatK6uByF2tsUmbSs8PVBshjk",
+    "district": "Tömük",
+    "coordinates": [36.66501168484724, 34.39887141410168],
+    "layout": "1+0",
+    "dateOfCompletion": "2025-06",
+    "currency": "EUR",
+    "price": 35500
+  },
+  {
+    "name": "EMERALD CONCEPT TREND",
+    "link": "1I49qjXPiatK6uByF2tsUmbSs8PVBshjk",
+    "district": "Tömük",
+    "coordinates": [36.66501168484724, 34.39887141410168],
+    "layout": "1+1",
+    "dateOfCompletion": "2025-06",
+    "currency": "EUR",
+    "price": 56000
+  },
+  {
+    "name": "EMERALD CONCEPT TREND",
+    "link": "1I49qjXPiatK6uByF2tsUmbSs8PVBshjk",
+    "district": "Tömük",
+    "coordinates": [36.66501168484724, 34.39887141410168],
+    "layout": "2+1",
+    "dateOfCompletion": "2025-06",
+    "currency": "EUR",
+    "price": 71000
+  },
+  {
+    "name": "MERTAS SARYA PLUS",
+    "link": "19GZ-R_2tuP-EcIKhuGcAGA-p7gdLEzJl",
+    "district": "Arpaçbahşiş",
+    "coordinates": [36.642411, 34.357934],
+    "layout": "1+1",
+    "dateOfCompletion": "2025-06",
+    "currency": "EUR",
+    "price": 64000
+  },
+  {
+    "name": "MNZ TOMUK VIOLETTA",
+    "link": "1pe8-i7joDXpt6Z-Mn0yCis6KRK9tTJGj",
+    "district": "Tömük",
+    "coordinates": [36.658931, 34.394967],
+    "layout": "1+1",
+    "dateOfCompletion": "2023-12",
+    "currency": "EUR",
+    "price": 81000
+  },
+  {
+    "name": "MNZ TOMUK VIOLETTA",
+    "link": "1pe8-i7joDXpt6Z-Mn0yCis6KRK9tTJGj",
+    "district": "Tömük",
+    "coordinates": [36.658931, 34.394967],
+    "layout": "2+1",
+    "dateOfCompletion": "2023-12",
+    "currency": "EUR",
+    "price": 103000
+  },
+  {
+    "name": "MNZ BLUESTIN",
+    "link": "1-HoW421HucLI2zA2hVYjpvGOlxMaMO3l",
+    "district": "Arpaçbahşiş",
+    "coordinates": [36.636392, 34.354515],
+    "layout": "1+1",
+    "dateOfCompletion": "2025-03",
+    "currency": "EUR",
+    "price": 80000
+  },
+  {
+    "name": "MNZ BLUESTIN",
+    "link": "1-HoW421HucLI2zA2hVYjpvGOlxMaMO3l",
+    "district": "Arpaçbahşiş",
+    "coordinates": [36.636391, 34.354514],
+    "layout": "2+1",
+    "dateOfCompletion": "2025-03",
+    "currency": "EUR",
+    "price": 102000
+  },
+  {
+    "name": "MNZ MERSINA LUX",
+    "link": "14_bOKT3d3Qb7ykfe8bBiKAS6nq-E6G6G",
+    "district": "Tömük",
+    "coordinates": [36.658927, 34.394963],
+    "layout": "1+1",
+    "dateOfCompletion": "2025-06",
+    "currency": "EUR",
+    "price": 73000
+  },
+  {
+    "name": "MNZ MERSINA LUX",
+    "link": "14_bOKT3d3Qb7ykfe8bBiKAS6nq-E6G6G",
+    "district": "Tömük",
+    "coordinates": [36.658927, 34.394963],
+    "layout": "2+1",
+    "dateOfCompletion": "2025-06",
+    "currency": "EUR",
+    "price": 110000
+  },
+  {
+    "name": "MNZ GOLD CITY",
+    "link": "1R4Vp47zqi_2228P7WFIc7dkAKvoLpGuF",
+    "district": "Arpaçbahşiş",
+    "coordinates": [36.636392, 34.354515],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-03",
+    "currency": "EUR",
+    "price": 83000
+  },
+  {
+    "name": "MNZ GOLD CITY",
+    "link": "1R4Vp47zqi_2228P7WFIc7dkAKvoLpGuF",
+    "district": "Arpaçbahşiş",
+    "coordinates": [36.636392, 34.354515],
+    "layout": "2+1",
+    "dateOfCompletion": "2024-03",
+    "currency": "EUR",
+    "price": 107000
+  },
+  {
+    "name": "MAZLUM SUN CITY 2",
+    "link": "18szoPRi5KNzfBeAwIoT4IQZc05awXHbG",
+    "district": "Tece",
+    "coordinates": [36.696827, 34.4487],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-02",
+    "currency": "EUR",
+    "price": 76000
+  },
+  {
+    "name": "MAZLUM SUN CITY 2",
+    "link": "18szoPRi5KNzfBeAwIoT4IQZc05awXHbG",
+    "district": "Tece",
+    "coordinates": [36.696827, 34.4487],
+    "layout": "2+1",
+    "dateOfCompletion": "2024-02",
+    "currency": "EUR",
+    "price": 107000
+  },
+  {
+    "name": "MARVISTA RIVA HILLS",
+    "link": "1MJRoHbr6eyL4NBAYg98c4vlG1mfUQOhD",
+    "district": "Ayaş",
+    "coordinates": [36.502447, 34.192501],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-11",
+    "currency": "EUR",
+    "price": 71000
+  },
+  {
+    "name": "MARVISTA RIVA HILLS",
+    "link": "1MJRoHbr6eyL4NBAYg98c4vlG1mfUQOhD",
+    "district": "Ayaş",
+    "coordinates": [36.502447, 34.192501],
+    "layout": "2+1",
+    "dateOfCompletion": "2024-11",
+    "currency": "EUR",
+    "price": 106000
+  },
+  {
+    "name": "MARVISTA PALM LIFE",
+    "link": "1ekyQw2KI5Oovm4UgpF1Pu26YpSoIH9ui",
+    "district": "Soli",
+    "coordinates": [36.737815, 34.525212],
+    "layout": "2+1",
+    "dateOfCompletion": "2024-04",
+    "currency": "EUR",
+    "price": 226000
+  },
+  {
+    "name": "MARVISTA PALM LIFE",
+    "link": "1ekyQw2KI5Oovm4UgpF1Pu26YpSoIH9ui",
+    "district": "Soli",
+    "coordinates": [36.737815, 34.525212],
+    "layout": "3+1",
+    "dateOfCompletion": "2024-04",
+    "currency": "EUR",
+    "price": 279000
+  },
+  {
+    "name": "MARVISTA BULUT PERLA",
+    "link": "1LyKZvl2PkN7QZjd-ZsLFGmeXy7Pw1CX9",
+    "district": "Tece",
+    "coordinates": [36.694423, 34.441487],
+    "layout": "1+1",
+    "dateOfCompletion": "2023-11",
+    "currency": "EUR",
+    "price": 75000
+  },
+  {
+    "name": "MARVISTA BULUT PERLA",
+    "link": "1LyKZvl2PkN7QZjd-ZsLFGmeXy7Pw1CX9",
+    "district": "Tece",
+    "coordinates": [36.694423, 34.441487],
+    "layout": "2+1",
+    "dateOfCompletion": "2023-11",
+    "currency": "EUR",
+    "price": 89500
+  },
+  {
+    "name": "MARVISTA BULUT GLORIA",
+    "link": "1-EC9-z1VAyDbiSBDnyVes86OoNZmkTYI",
+    "district": "Arpaçbahşiş",
+    "coordinates": [36.638429, 34.35611],
+    "layout": "1+1",
+    "dateOfCompletion": "2023-03",
+    "currency": "EUR",
+    "price": 82500
+  },
+  {
+    "name": "MARVISTA BULUT BOUTIQUE",
+    "link": "1cQCc-udBDFGeNjDDJ3F-Z5V1NKERxW5Y",
+    "district": "Arpaçbahşiş",
+    "coordinates": [36.63881, 34.357757],
+    "layout": "1+1",
+    "dateOfCompletion": "2023-10",
+    "currency": "EUR",
+    "price": 55000
+  },
+  {
+    "name": "ERON RESORT",
+    "link": "15SpM0pwXSahmRNCZl5wi5PIQV-MFFFeV",
+    "district": "Tömük",
+    "coordinates": [36.655614, 34.394782],
+    "layout": "1+1",
+    "dateOfCompletion": "2023-12",
+    "currency": "EUR",
+    "price": 65000
+  },
+  {
+    "name": "ERON CONCEPT",
+    "link": "1bmofjCNdaSrx9Mp8dTlQdexJ7ndYRwJj",
+    "district": "Erdemli",
+    "coordinates": [36.603356, 34.301196],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-03",
+    "currency": "EUR",
+    "price": 66000
+  },
+  {
+    "name": "ERON FLATS",
+    "link": "1z5D1wbKzPHvYu79EuoTDxY5DxHaI9WLg",
+    "district": "Erdemli",
+    "coordinates": [36.6033, 34.3032],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-06",
+    "currency": "EUR",
+    "price": 71000
+  },
+  {
+    "name": "ERON FLATS",
+    "link": "1z5D1wbKzPHvYu79EuoTDxY5DxHaI9WLg",
+    "district": "Erdemli",
+    "coordinates": [36.6033, 34.3032],
+    "layout": "2+1",
+    "dateOfCompletion": "2024-06",
+    "currency": "EUR",
+    "price": 102000
+  },
+  {
+    "name": "ERON LEVANTEN",
+    "link": "1smivp98FHAguNjLP3xPg_rZuOk7mEI5y",
+    "district": "Tömük",
+    "coordinates": [36.6437, 34.3688],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-06",
+    "currency": "EUR",
+    "price": 69000
+  },
+  {
+    "name": "MAZLUM SUN CITY 1",
+    "link": "1KWBwxcRZ4ZN4n4nueSkXbE9cacXOJ5Xf",
+    "district": "Tece",
+    "coordinates": [35.701451, 34.456022],
+    "layout": "1+1",
+    "dateOfCompletion": "2023-06",
+    "currency": "EUR",
+    "price": 84000
+  },
+  {
+    "name": "MAZLUM SUN CITY 1",
+    "link": "1KWBwxcRZ4ZN4n4nueSkXbE9cacXOJ5Xf",
+    "district": "Tece",
+    "coordinates": [35.701451, 34.456022],
+    "layout": "2+1",
+    "dateOfCompletion": "2023-06",
+    "currency": "EUR",
+    "price": 107000
+  },
+  {
+    "name": "MAZLUM SUN CITY 1",
+    "link": "1KWBwxcRZ4ZN4n4nueSkXbE9cacXOJ5Xf",
+    "district": "Tece",
+    "coordinates": [35.701451, 34.456022],
+    "layout": "3+1",
+    "dateOfCompletion": "2023-06",
+    "currency": "EUR",
+    "price": 135000
+  },
+  {
+    "name": "DORA BELLA SUIT",
+    "link": "1pqdgeP3GsNJ2owTAaEwq-JzT5eZxgOKF",
+    "district": "Kargıpınarı",
+    "coordinates": [36.665522, 34.418058],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-09",
+    "currency": "EUR",
+    "price": 96000
+  },
+  {
+    "name": "DORA BELLA PLUS",
+    "link": "1s4KpiL0_d5TyMT1CZpUAgMxJ0aLosOeV",
+    "district": "Kargıpınarı",
+    "coordinates": [36.665396, 34.418192],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-09",
+    "currency": "EUR",
+    "price": 75000
+  },
+  {
+    "name": "DORA BELLA PLUS",
+    "link": "1s4KpiL0_d5TyMT1CZpUAgMxJ0aLosOeV",
+    "district": "Kargıpınarı",
+    "coordinates": [36.665396, 34.418192],
+    "layout": "2+1",
+    "dateOfCompletion": "2024-09",
+    "currency": "EUR",
+    "price": 130000
+  },
+  {
+    "name": "DORA EXEN",
+    "link": "1o4YjkzfCy-m1KFvEddrYfY7aCMLFPFGw",
+    "district": "Tömük",
+    "coordinates": [36.64127332670389, 34.36296132895633],
+    "layout": "1+1",
+    "dateOfCompletion": "2023-04",
+    "currency": "EUR",
+    "price": 85000
+  },
+  {
+    "name": "DORA GLORIA",
+    "link": "1YM8OxXKiU3oTnQdkyOlOHZpgsxcYFWM9",
+    "district": "Tece",
+    "coordinates": [36.68947184611027, 34.437737004551344],
+    "layout": "1+1",
+    "dateOfCompletion": "2023-06",
+    "currency": "EUR",
+    "price": 80000
+  },
+  {
+    "name": "EMERALD SAFIR",
+    "link": "10ljWCQZIQaAT5A2D9gimc3NlHMjkd5nB",
+    "district": "Tece",
+    "coordinates": [36.689755, 34.436348],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-12",
+    "currency": "EUR",
+    "price": 65000
+  },
+  {
+    "name": "EMERALD SAFIR",
+    "link": "10ljWCQZIQaAT5A2D9gimc3NlHMjkd5nB",
+    "district": "Tece",
+    "coordinates": [36.689755, 34.436348],
+    "layout": "2+1",
+    "dateOfCompletion": "2024-12",
+    "currency": "EUR",
+    "price": 77000
+  },
+  {
+    "name": "UZMAN YAPI GREEN ROYAL",
+    "link": "1O8CRM1w5i_tFOP53YceeqfYNsCO32h7P",
+    "district": "Tece",
+    "coordinates": [36.684139, 34.435027],
+    "layout": "1+1",
+    "dateOfCompletion": "2025-06",
+    "currency": "EUR",
+    "price": 85000
+  },
+  {
+    "name": "UZMAN YAPI GREEN ROYAL",
+    "link": "1O8CRM1w5i_tFOP53YceeqfYNsCO32h7P",
+    "district": "Tece",
+    "coordinates": [36.684139, 34.435027],
+    "layout": "2+1",
+    "dateOfCompletion": "2025-06",
+    "currency": "EUR",
+    "price": 141000
+  },
+  {
+    "name": "UZMAN YAPI GREEN ROYAL",
+    "link": "1O8CRM1w5i_tFOP53YceeqfYNsCO32h7P",
+    "district": "Tece",
+    "coordinates": [36.684139, 34.435027],
+    "layout": "3+1",
+    "dateOfCompletion": "2025-06",
+    "currency": "EUR",
+    "price": 185000
+  },
+  {
+    "name": "ILKEM EAGLE TERRACE",
+    "link": "1jYAAHY-nnrud_AMguymudDq5c0M0qR9p",
+    "district": "Arpaçbahşiş",
+    "coordinates": [36.638929, 34.358336],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-11",
+    "currency": "EUR",
+    "price": 79000
+  },
+  {
+    "name": "ILKEM EAGLE TERRACE",
+    "link": "1jYAAHY-nnrud_AMguymudDq5c0M0qR9p",
+    "district": "Arpaçbahşiş",
+    "coordinates": [36.638929, 34.358336],
+    "layout": "2+1",
+    "dateOfCompletion": "2024-11",
+    "currency": "EUR",
+    "price": 123000
+  },
+  {
+    "name": "OZMEN GLOBAL SUN MARIA ROOF",
+    "link": "1CSqphShsXpm2q6px3K33AF3vctkg4rph",
+    "district": "Tece",
+    "coordinates": [36.686613, 34.440692],
+    "layout": "1+0",
+    "dateOfCompletion": "2024-12",
+    "currency": "EUR",
+    "price": 46000
+  },
+  {
+    "name": "EMERALD CONCEPT OASIS",
+    "link": "1RycX0K_HqIVjxyRotSKX84fgWUDW63LN",
+    "district": "Tece",
+    "coordinates": [36.683221, 34.438383],
+    "layout": "1+0",
+    "dateOfCompletion": "2025-12",
+    "currency": "EUR",
+    "price": 36000
+  },
+  {
+    "name": "EMERALD CONCEPT OASIS",
+    "link": "1RycX0K_HqIVjxyRotSKX84fgWUDW63LN",
+    "district": "Tece",
+    "coordinates": [36.683221, 34.438383],
+    "layout": "1+1",
+    "dateOfCompletion": "2025-12",
+    "currency": "EUR",
+    "price": 49000
+  }
+]
