@@ -1138,5 +1138,25 @@
     "dateOfCompletion": "2025-12",
     "currency": "EUR",
     "price": 49000
+  },
+  {
+    "name": "ILKEM VEGAS",
+    "link": "1ULVI4uz61txKJLjC-IgOuBknVfxcReK2",
+    "district": "Tömük",
+    "coordinates": [36.661203, 34.398139],
+    "layout": "1+1",
+    "dateOfCompletion": "2026-12",
+    "currency": "EUR",
+    "price": 69000
+  },
+  {
+    "name": "ILKEM VEGAS",
+    "link": "1ULVI4uz61txKJLjC-IgOuBknVfxcReK2",
+    "district": "Tömük",
+    "coordinates": [36.661203, 34.398139],
+    "layout": "2+1",
+    "dateOfCompletion": "2026-12",
+    "currency": "EUR",
+    "price": 92000
   }
 ]
