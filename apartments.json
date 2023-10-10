@@ -833,7 +833,7 @@
       "netto": 110
     },
     "district": "Arpaçbahşiş",
-    "coordinates": [36.507465, 34.463246],
+    "coordinates": [36.640956, 34.360227],
     "layout": "3+1",
     "dateOfCompletion": "2019-01",
     "currency": "TRY",
@@ -1029,7 +1029,7 @@
       "netto": 110
     },
     "district": "Arpaçbahşiş",
-    "coordinates": [36.641025, 34.360246],
+    "coordinates": [36.640956, 34.360227],
     "layout": "3+1",
     "dateOfCompletion": "2020-01",
     "currency": "TRY",
@@ -1439,7 +1439,7 @@
     "layout": "4+1",
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
-    "price": 4100000 
+    "price": 4100000
   },
   {
     "name": "ALFA",
@@ -1897,11 +1897,11 @@
       "netto": 45
     },
     "district": "Arpaçbahşiş",
-    "coordinates": [36.652522, 34.334883],
+    "coordinates": [36.640956, 34.360227],
     "layout": "1+1",
     "dateOfCompletion": "2020-01",
-    "currency": "TRY",
-    "price": 1350000
+    "currency": "USD",
+    "price": 55000
   },
   {
     "name": "EN PRESTIJ TREND",
@@ -1911,7 +1911,7 @@
       "netto": 60
     },
     "district": "Çiftlikköy",
-    "coordinates": [36.786870, 34.543324],
+    "coordinates": [36.78687, 34.543324],
     "layout": "1+1",
     "dateOfCompletion": "2019-01",
     "currency": "TRY",
@@ -2000,5 +2000,19 @@
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
     "price": 2550000
+  },
+  {
+    "name": "CAN",
+    "link": "1CHbWONDKpqSCIrn6k93LeWYjoojlOXRU",
+    "area": {
+      "brutto": 55,
+      "netto": 45
+    },
+    "district": "Arpaçbahşiş",
+    "coordinates": [36.640956, 34.360227],
+    "layout": "1+1",
+    "dateOfCompletion": "2020-01",
+    "currency": "USD",
+    "price": 63000
   }
 ]
