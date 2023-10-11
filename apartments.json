@@ -2014,5 +2014,33 @@
     "dateOfCompletion": "2020-01",
     "currency": "USD",
     "price": 63000
+  },
+  {
+    "name": "ÇAY",
+    "link": "1xlrkGTrmJWimNw5HF87m_8VyLPBpaQnQ",
+    "area": {
+      "brutto": 102,
+      "netto": 74
+    },
+    "district": "Alata",
+    "coordinates": [36.606423, 34.317227],
+    "layout": "2+1",
+    "dateOfCompletion": "2022-01",
+    "currency": "USD",
+    "price": 87000
+  },
+  {
+    "name": "PERA LİFE 1",
+    "link": "1VUN9ILZW2mvpKiCOEtXF7vXBD2iD6xbw",
+    "area": {
+      "brutto": 100,
+      "netto": 95
+    },
+    "district": "Alata",
+    "coordinates": [36.608067, 34.321623],
+    "layout": "2+1",
+    "dateOfCompletion": "2021-01",
+    "currency": "TRY",
+    "price": 2550000
   }
 ]
