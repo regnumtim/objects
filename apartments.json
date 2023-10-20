@@ -11,21 +11,7 @@
     "layout": "4+1",
     "dateOfCompletion": "2018-01",
     "currency": "TRY",
-    "price": 5500000
-  },
-  {
-    "name": "ATEŞ",
-    "link": "1bCGJi3t3Iz_AigpDPUcRLWUDyACvADuh",
-    "area": {
-      "brutto": 100,
-      "netto": 75
-    },
-    "district": "Merkez",
-    "coordinates": [36.488475, 34.649486],
-    "layout": "2+1",
-    "dateOfCompletion": "2023-01",
-    "currency": "TRY",
-    "price": 2350000
+    "price": 5750000
   },
   {
     "name": "BLUE LİFE",
@@ -53,7 +39,7 @@
     "layout": "4+1",
     "dateOfCompletion": "2022-01",
     "currency": "TRY",
-    "price": 3850000
+    "price": 4100000
   },
   {
     "name": "DOĞUTAŞ İNŞ",
@@ -81,21 +67,7 @@
     "layout": "2+1",
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
-    "price": 2400000
-  },
-  {
-    "name": "CİVARI GÜLTEKİN REZİDANS",
-    "link": "1DF_e_f2eAEyCGfi9nsc22LCV8baZ3r4j",
-    "area": {
-      "brutto": 90,
-      "netto": 75
-    },
-    "district": "Akdeniz(Mezitli)",
-    "coordinates": [36.553843, 34.616338],
-    "layout": "2+1",
-    "dateOfCompletion": "2020-01",
-    "currency": "TRY",
-    "price": 2275000
+    "price": 2450000
   },
   {
     "name": "AROS 49",
@@ -306,20 +278,6 @@
     "dateOfCompletion": "2020-01",
     "currency": "TRY",
     "price": 2600000
-  },
-  {
-    "name": "MAHMUT DURAK CONCEPT",
-    "link": "1QaRLR9hqom9l5HhWKmOx61WsJokmzsK2",
-    "area": {
-      "brutto": 100,
-      "netto": 85
-    },
-    "district": "Tece",
-    "coordinates": [36.69358, 34.448316],
-    "layout": "2+1",
-    "dateOfCompletion": "2023-01",
-    "currency": "TRY",
-    "price": 1950000
   },
   {
     "name": "ALİZA",
@@ -557,7 +515,7 @@
     "layout": "1+1",
     "dateOfCompletion": "2022-01",
     "currency": "USD",
-    "price": 75000
+    "price": 82000
   },
   {
     "name": "SEDEF",
@@ -585,7 +543,7 @@
     "layout": "1+1",
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
-    "price": 1650000
+    "price": 1750000
   },
   {
     "name": "PERA LİFE",
@@ -641,7 +599,7 @@
     "layout": "1+1",
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
-    "price": 1800000
+    "price": 1750000
   },
   {
     "name": "HASAN ATALAY",
@@ -658,20 +616,6 @@
     "price": 2050000
   },
   {
-    "name": "GRAND ÖRNEK",
-    "link": "1zU9JzOtp-qc_DL5xaCyfIzObOAhzoNRU",
-    "area": {
-      "brutto": 115,
-      "netto": 100
-    },
-    "district": "Tömük",
-    "coordinates": [36.593094, 34.40004],
-    "layout": "2+1",
-    "dateOfCompletion": "2023-01",
-    "currency": "TRY",
-    "price": 1980000
-  },
-  {
     "name": "CLASS",
     "link": "144_heIeL1d0KgmeTuEvy-pyaqkHYfsIH",
     "area": {
@@ -683,7 +627,7 @@
     "layout": "2+1",
     "dateOfCompletion": "2019-01",
     "currency": "TRY",
-    "price": 2680000
+    "price": 2400000
   },
   {
     "name": "TÖMÜK APARTMANI",
@@ -714,20 +658,6 @@
     "price": 1550000
   },
   {
-    "name": "ATEŞ",
-    "link": "11cj5nUjO9B2QWEn48olKWflWvS6Gf6vY",
-    "area": {
-      "brutto": 55,
-      "netto": 40
-    },
-    "district": "Tömük",
-    "coordinates": [36.669404, 34.577505],
-    "layout": "1+1",
-    "dateOfCompletion": "2016-01",
-    "currency": "EUR",
-    "price": 52000
-  },
-  {
     "name": "ELİSA PARK",
     "link": "1_cC39MxTa67M3pRagdB8WS5ZkwqopcQQ",
     "area": {
@@ -742,20 +672,6 @@
     "price": 1450000
   },
   {
-    "name": "KAYGALAK REZIDANS",
-    "link": "1qBypHLPHeAXxAlYwdeAxqVnxHcHQGnpr",
-    "area": {
-      "brutto": 65,
-      "netto": 55
-    },
-    "district": "Tömük",
-    "coordinates": [36.389418, 34.517374],
-    "layout": "1+1",
-    "dateOfCompletion": "2023-01",
-    "currency": "TRY",
-    "price": 1500000
-  },
-  {
     "name": "DOĞAN TATİL",
     "link": "11HtJ_nJLdvMZGH0IzpyL5VSyceQsjQ_I",
     "area": {
@@ -768,20 +684,6 @@
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
     "price": 1570000
-  },
-  {
-    "name": "KAY-KENT",
-    "link": "1-s3ajczLs1zACHF0rAKlG_Gsff5N39LP",
-    "area": {
-      "brutto": 90,
-      "netto": 85
-    },
-    "district": "Kargıpınarı",
-    "coordinates": [36.665652, 34.421083],
-    "layout": "2+1",
-    "dateOfCompletion": "2007-01",
-    "currency": "TRY",
-    "price": 1650000
   },
   {
     "name": "MYK",
@@ -896,20 +798,6 @@
     "price": 2050000
   },
   {
-    "name": "ARCADİA",
-    "link": "1dTgEZc9-KaN_AVfXS-jrbYUmpY0ZYUF5",
-    "area": {
-      "brutto": 115,
-      "netto": 100
-    },
-    "district": "Akdeniz(Mezitli)",
-    "coordinates": [36.738372, 34.503618],
-    "layout": "2+1",
-    "dateOfCompletion": "2019-01",
-    "currency": "TRY",
-    "price": 2980000
-  },
-  {
     "name": "SOLİ STAR",
     "link": "1pi2RXI5pEENFtx3HbcVTkXDm2-G_8CRh",
     "area": {
@@ -980,20 +868,6 @@
     "price": 4100000
   },
   {
-    "name": "VERA LİFE",
-    "link": "1TAWCYN2j3SBXB0-cRO5evi2mDzHI8OuQ",
-    "area": {
-      "brutto": 85,
-      "netto": 75
-    },
-    "district": "Soli",
-    "coordinates": [36.740805, 34.511967],
-    "layout": "2+1",
-    "dateOfCompletion": "2023-01",
-    "currency": "TRY",
-    "price": 2600000
-  },
-  {
     "name": "KAYGELAK",
     "link": "16AfNEE-S6xyxM2TdQLer_h92uav_A_hj",
     "area": {
@@ -1060,8 +934,8 @@
     "coordinates": [36.695366, 34.447323],
     "layout": "2+1",
     "dateOfCompletion": "2019-01",
-    "currency": "USD",
-    "price": 103000
+    "currency": "TRY",
+    "price": 2860000
   },
   {
     "name": "ÇAĞDAŞ AKDENİZ",
@@ -1103,7 +977,7 @@
     "layout": "1+1",
     "dateOfCompletion": "2022-01",
     "currency": "TRY",
-    "price": 1480000
+    "price": 1640000
   },
   {
     "name": "YÜKSEL PARK",
@@ -1120,20 +994,6 @@
     "price": 3650000
   },
   {
-    "name": "AKYÜZ4",
-    "link": "1LiD9RCap5YjzEn9GMc_MJ8O-fbGu8Wxc",
-    "area": {
-      "brutto": 140,
-      "netto": 130
-    },
-    "district": "Akdeniz(Mezitli)",
-    "coordinates": [36.735421, 34.514398],
-    "layout": "2+1",
-    "dateOfCompletion": "2013-01",
-    "currency": "TRY",
-    "price": 2450000
-  },
-  {
     "name": "YÜCESOY BULVAR",
     "link": "1IJzbuihAzvxf49Jv0Z3M4fECM1NuL9Go",
     "area": {
@@ -1148,34 +1008,6 @@
     "price": 2750000
   },
   {
-    "name": "HANGAR",
-    "link": "1LAWaKf8IhnjlbWbsLLV29venrDh_6fT3",
-    "area": {
-      "brutto": 120,
-      "netto": 100
-    },
-    "district": "Akdeniz(Mezitli)",
-    "coordinates": [36.732098, 34.512564],
-    "layout": "2+1",
-    "dateOfCompletion": "2019-01",
-    "currency": "TRY",
-    "price": 2750000
-  },
-  {
-    "name": "IŞIK",
-    "link": "1GDJN3KGj_Db12p_s6P4KkeAaU04UtpF_",
-    "area": {
-      "brutto": 120,
-      "netto": 85
-    },
-    "district": "Akdeniz(Mezitli)",
-    "coordinates": [36.732374, 34.512409],
-    "layout": "2+1",
-    "dateOfCompletion": "2020-01",
-    "currency": "TRY",
-    "price": 2180000
-  },
-  {
     "name": "MASAL LİFE",
     "link": "1d7texiY3UxM_TZY3--jdgi2Jc27UiqkI",
     "area": {
@@ -1187,7 +1019,7 @@
     "layout": "3+1",
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
-    "price": 3500000
+    "price": 3620000
   },
   {
     "name": "ARMİN",
@@ -1229,7 +1061,7 @@
     "layout": "3+1",
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
-    "price": 3750000
+    "price": 3850000
   },
   {
     "name": "ATEŞ LİFE",
@@ -1288,20 +1120,6 @@
     "price": 2350000
   },
   {
-    "name": "BOTANİK",
-    "link": "1T7nSUakRz3fNjlCOOFK3wIQ3XLjPkzG7",
-    "area": {
-      "brutto": 160,
-      "netto": 140
-    },
-    "district": "Tece",
-    "coordinates": [36.695357, 34.447234],
-    "layout": "3+1",
-    "dateOfCompletion": "2020-01",
-    "currency": "TRY",
-    "price": 3250000
-  },
-  {
     "name": "ASYA",
     "link": "1Rkrz_6oUYmqx0ujPP772zTu-e-iT4Ud1",
     "area": {
@@ -1310,20 +1128,6 @@
     },
     "district": "Arpaçbahşiş",
     "coordinates": [36.633667, 34.352167],
-    "layout": "1+1",
-    "dateOfCompletion": "2023-01",
-    "currency": "TRY",
-    "price": 1350000
-  },
-  {
-    "name": "EDYIL İNŞ",
-    "link": "14d4O1Ke6xoNVwlB7d_N0ql0pQugsYQ0Y",
-    "area": {
-      "brutto": 55,
-      "netto": 40
-    },
-    "district": "Tömük",
-    "coordinates": [36.655333, 34.391861],
     "layout": "1+1",
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
@@ -1355,21 +1159,7 @@
     "layout": "2+1",
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
-    "price": 2700000
-  },
-  {
-    "name": "AYYILDIZ",
-    "link": "1KdGSapJanzPRbsjehqRrSpcdtg-XWcf7",
-    "area": {
-      "brutto": 55,
-      "netto": 50
-    },
-    "district": "Akdeniz(Mezitli)",
-    "coordinates": [36.727582, 34.493731],
-    "layout": "1+1",
-    "dateOfCompletion": "2023-01",
-    "currency": "USD",
-    "price": 75000
+    "price": 2750000
   },
   {
     "name": "TÜMEN İNŞAAT",
@@ -1397,7 +1187,7 @@
     "layout": "1+1",
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
-    "price": 1750000
+    "price": 1780000
   },
   {
     "name": "ARMANİ SELENYUM",
@@ -1411,7 +1201,7 @@
     "layout": "4+1",
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
-    "price": 5500000
+    "price": 5000000
   },
   {
     "name": "TUVAL İNLİFE",
@@ -1440,34 +1230,6 @@
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
     "price": 4100000
-  },
-  {
-    "name": "ALFA",
-    "link": "1rTZ-DUgZ2DhfUeL-5aN1V1HdXjXuvey7",
-    "area": {
-      "brutto": 60,
-      "netto": 45
-    },
-    "district": "Merkez",
-    "coordinates": [36.737488, 34.516439],
-    "layout": "1+1",
-    "dateOfCompletion": "2022-01",
-    "currency": "TRY",
-    "price": 1535000
-  },
-  {
-    "name": "LEMAS-1",
-    "link": "1DvyMkO7tFahQoRkyHrJJmmpmO56MvKMz",
-    "area": {
-      "brutto": 55,
-      "netto": 45
-    },
-    "district": "Limonlu",
-    "coordinates": [36.55725, 34.243972],
-    "layout": "1+1",
-    "dateOfCompletion": "2023-01",
-    "currency": "TRY",
-    "price": 1075000
   },
   {
     "name": "LEMAS",
@@ -1610,20 +1372,6 @@
     "price": 1550000
   },
   {
-    "name": "DORA VİZYON",
-    "link": "1O8XdPBCZ9SfOXEaTaHN-cDkleb04fh9j",
-    "area": {
-      "brutto": 100,
-      "netto": 90
-    },
-    "district": "Çiftlikköy",
-    "coordinates": [36.787695, 34.534483],
-    "layout": "2+1",
-    "dateOfCompletion": "2020-01",
-    "currency": "TRY",
-    "price": 2250000
-  },
-  {
     "name": "ERSARA",
     "link": "1L9nJP1pIz-ORW7il3WM_MArGh6BYNaKx",
     "area": {
@@ -1663,21 +1411,7 @@
     "layout": "2+1",
     "dateOfCompletion": "2022-01",
     "currency": "TRY",
-    "price": 2400000
-  },
-  {
-    "name": "TUVAL MAX",
-    "link": "1rH_Qamv3mNPSxi1p8s2i34lrzSZZYu3h",
-    "area": {
-      "brutto": 165,
-      "netto": 145
-    },
-    "district": "Merkez",
-    "coordinates": [36.753931, 34.520727],
-    "layout": "3+1",
-    "dateOfCompletion": "2019-01",
-    "currency": "USD",
-    "price": 140000
+    "price": 2550000
   },
   {
     "name": "ÖLMEZ MİMARLIK",
@@ -1817,7 +1551,7 @@
     "layout": "1+1",
     "dateOfCompletion": "2019-01",
     "currency": "EUR",
-    "price": 65000
+    "price": 66000
   },
   {
     "name": "YUKARI SIRAÇ MÜSTAKİL VİLLA",
@@ -1887,7 +1621,7 @@
     "layout": "1+1",
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
-    "price": 1680000
+    "price": 1580000
   },
   {
     "name": "CAN",
