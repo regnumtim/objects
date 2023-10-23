@@ -1776,5 +1776,19 @@
     "dateOfCompletion": "2021-01",
     "currency": "TRY",
     "price": 2550000
+  },
+  {
+    "name": "NİRVANA ROYAL",
+    "link": "17ckV2WmZ3qHs-oWgVkJADegiFNVa4rW6",
+    "area": {
+      "brutto": 165,
+      "netto": 145
+    },
+    "district": "Akdeniz(Mezitli)",
+    "coordinates": [36.738107, 34.502604],
+    "layout": "3+1",
+    "dateOfCompletion": "2023-01",
+    "currency": "TRY",
+    "price": 4430000
   }
 ]
