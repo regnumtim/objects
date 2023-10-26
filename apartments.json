@@ -1818,5 +1818,19 @@
     "dateOfCompletion": "2019-01",
     "currency": "TRY",
     "price": 3830000
+  },
+  {
+    "name": "EDYIL TOWER",
+    "link": "1339WL-Y1IO95fNI6EZyh0M0dCrr7X8E0",
+    "area": {
+      "brutto": 160,
+      "netto": 145
+    },
+    "district": "Akdeniz(Mezitli)",
+    "coordinates": [36.72813, 34.49878],
+    "layout": "3+1",
+    "dateOfCompletion": "2023-01",
+    "currency": "TRY",
+    "price": 3600000
   }
 ]
