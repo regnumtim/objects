@@ -919,7 +919,7 @@
     "district": "Akdeniz(Mezitli)",
     "coordinates": [36.730626, 34.497485],
     "layout": "3+1",
-    "dateOfCompletion": "2021-01",
+    "dateOfCompletion": "2019-01",
     "currency": "TRY",
     "price": 3750000
   },
@@ -1395,7 +1395,7 @@
     "district": "Akdeniz(Mezitli)",
     "coordinates": [36.735188, 34.505748],
     "layout": "4+1",
-    "dateOfCompletion": "2021-01",
+    "dateOfCompletion": "2019-01",
     "currency": "TRY",
     "price": 3900000
   },
@@ -1790,5 +1790,33 @@
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
     "price": 4430000
+  },
+  {
+    "name": "İLAYDA APARTMANI",
+    "link": "1vDGgNZIY8um_EmDVRS5Xc5EJO2BGsxi7",
+    "area": {
+      "brutto": 160,
+      "netto": 145
+    },
+    "district": "Alata",
+    "coordinates": [36.617034, 34.317254],
+    "layout": "3+1",
+    "dateOfCompletion": "2023-01",
+    "currency": "TRY",
+    "price": 2550000
+  },
+  {
+    "name": "VİA PORT",
+    "link": "1WWRoG4dvn3z2iVhEFy4UKyzwCDelPSG1",
+    "area": {
+      "brutto": 180,
+      "netto": 155
+    },
+    "district": "Akdeniz(Mezitli)",
+    "coordinates": [36.730643, 34.497506],
+    "layout": "4+1",
+    "dateOfCompletion": "2019-01",
+    "currency": "TRY",
+    "price": 3830000
   }
 ]
