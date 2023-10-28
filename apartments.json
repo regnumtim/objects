@@ -189,7 +189,7 @@
       "netto": 45
     },
     "district": "Tece",
-    "coordinates": [36.644326, 34.542782],
+    "coordinates": [36.69067, 34.439666],
     "layout": "1+1",
     "dateOfCompletion": "2023-01",
     "currency": "USD",
@@ -217,7 +217,7 @@
       "netto": 85
     },
     "district": "Tece",
-    "coordinates": [36.497784, 34.687929],
+    "coordinates": [36.69067, 34.439666],
     "layout": "2+1",
     "dateOfCompletion": "2023-01",
     "currency": "USD",
@@ -231,7 +231,7 @@
       "netto": 85
     },
     "district": "Tece",
-    "coordinates": [36.497796, 34.687929],
+    "coordinates": [36.69067, 34.439666],
     "layout": "2+1",
     "dateOfCompletion": "2023-01",
     "currency": "USD",
@@ -329,7 +329,7 @@
       "netto": 120
     },
     "district": "Tece",
-    "coordinates": [36.663352, 34.498381],
+    "coordinates": [36.69067, 34.439666],
     "layout": "3+1",
     "dateOfCompletion": "2023-01",
     "currency": "EUR",
@@ -726,20 +726,6 @@
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
     "price": 1450000
-  },
-  {
-    "name": "CAN",
-    "link": "1FBBkfqhGJYgh_rS97TOBhkVsEu4fsyHr",
-    "area": {
-      "brutto": 130,
-      "netto": 110
-    },
-    "district": "Arpaçbahşiş",
-    "coordinates": [36.640956, 34.360227],
-    "layout": "3+1",
-    "dateOfCompletion": "2019-01",
-    "currency": "TRY",
-    "price": 2600000
   },
   {
     "name": "ÇINARLI",
@@ -1832,5 +1818,145 @@
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
     "price": 3600000
+  },
+  {
+    "name": "EN PRESTİJ",
+    "link": "1MASLFlGzkSq2qjnXGaKvAL-4e5yWuuub",
+    "area": {
+      "brutto": 70,
+      "netto": 50
+    },
+    "district": "Çiftlikköy",
+    "coordinates": [36.768078, 34.54184],
+    "layout": "1+1",
+    "dateOfCompletion": "2019-01",
+    "currency": "TRY",
+    "price": 1780000
+  },
+  {
+    "name": "ALP CİTY 3",
+    "link": "1of56r6N7eb-Ph9fWmn_OAOjThMXqDzFm",
+    "area": {
+      "brutto": 125,
+      "netto": 95
+    },
+    "district": "Tece",
+    "coordinates": [36.69067, 34.439666],
+    "layout": "3+1",
+    "dateOfCompletion": "2023-01",
+    "currency": "USD",
+    "price": 120000
+  },
+  {
+    "name": "ÇEVİK VİTACOURT",
+    "link": "1NfprHKs8WLTo2q1mLzb8BX_86UlPLyrO",
+    "area": {
+      "brutto": 140,
+      "netto": 130
+    },
+    "district": "Tece",
+    "coordinates": [36.698389, 34.455895],
+    "layout": "3+1",
+    "dateOfCompletion": "2021-01",
+    "currency": "TRY",
+    "price": 3200000
+  },
+  {
+    "name": "KERVAN VİA LİFE",
+    "link": "17wbw2MpuEmqjODlHajlIttbVLRBjcXP9",
+    "area": {
+      "brutto": 105,
+      "netto": 95
+    },
+    "district": "Akdeniz(Mezitli)",
+    "coordinates": [36.73689, 34.506306],
+    "layout": "2+1",
+    "dateOfCompletion": "2023-01",
+    "currency": "TRY",
+    "price": 2875000
+  },
+  {
+    "name": "AROS 49",
+    "link": "1THQdWJtHczfcU4AJnTl0rxTdK4oTCb6R",
+    "area": {
+      "brutto": 90,
+      "netto": 80
+    },
+    "district": "Akdeniz(Mezitli)",
+    "coordinates": [36.732578, 34.499871],
+    "layout": "2+1",
+    "dateOfCompletion": "2022-01",
+    "currency": "TRY",
+    "price": 2850000
+  },
+  {
+    "name": "S. DOĞAN",
+    "link": "1D_YQz96DQtpOUb5No_q9xJSJdgN8K1mi",
+    "area": {
+      "brutto": 140,
+      "netto": 130
+    },
+    "district": "75. Yıl",
+    "coordinates": [36.72808, 34.49392],
+    "layout": "3+1",
+    "dateOfCompletion": "2023-01",
+    "currency": "TRY",
+    "price": 3300000
+  },
+  {
+    "name": "EDYIL İNŞAAT",
+    "link": "1Hx7mjS8qf4PtUDhRAkWi6qo-FDg-apSQ",
+    "area": {
+      "brutto": 57,
+      "netto": 45
+    },
+    "district": "Tömük",
+    "coordinates": [36.651996, 34.382886],
+    "layout": "1+1",
+    "dateOfCompletion": "2023-01",
+    "currency": "TRY",
+    "price": 1360000
+  },
+  {
+    "name": "KARGIPINARI",
+    "link": "16AxB5cvTYo1BGuT2PhqespVSCIePweaq",
+    "area": {
+      "brutto": 120,
+      "netto": 100
+    },
+    "district": "Kargıpınarı",
+    "coordinates": [36.663823, 34.422307],
+    "layout": "2+1",
+    "dateOfCompletion": "2018-01",
+    "currency": "TRY",
+    "price": 3250000
+  },
+  {
+    "name": "PINAR APARTMANI",
+    "link": "14nu0O9g4mSbOLp-ym8YeBAyUz67xUZls",
+    "area": {
+      "brutto": 62,
+      "netto": 55
+    },
+    "district": "Arpaçbahşiş",
+    "coordinates": [36.639112, 34.35728],
+    "layout": "1+1",
+    "dateOfCompletion": "2023-01",
+    "currency": "TRY",
+    "price": 1500000
+  },
+  {
+    "name": "SUADİYE KONUTLARI",
+    "link": "18GLvFx4hhx_YGPlAsRhzufrd8VutLfeh",
+    "area": {
+      "brutto": 60,
+      "netto": 50
+    },
+    "district": "Alata",
+    "coordinates": [36.434686, 34.378728],
+    "layout": "1+1",
+    "dateOfCompletion": "2022-01",
+    "currency": "USD",
+    "price": 75000
   }
 ]
