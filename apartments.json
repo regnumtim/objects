@@ -1958,5 +1958,19 @@
     "dateOfCompletion": "2022-01",
     "currency": "USD",
     "price": 75000
+  },
+  {
+    "name": "METAB LİFE",
+    "link": "1oZ1_7E8NoCEwgEcdGRtxZcAsFhPwPNdq",
+    "area": {
+      "brutto": 55,
+      "netto": 45
+    },
+    "district": "Limonlu",
+    "coordinates": [36.546495, 34.234904],
+    "layout": "1+1",
+    "dateOfCompletion": "2023-01",
+    "currency": "TRY",
+    "price": 1550000
   }
 ]
