@@ -384,7 +384,7 @@
       "brutto": 90,
       "netto": 80
     },
-    "district": "Çiftlikköy",
+    "district": "Çiftlikköy",
     "coordinates": [36.774527, 34.544036],
     "layout": "2+1",
     "dateOfCompletion": "2023-01",
@@ -398,7 +398,7 @@
       "brutto": 100,
       "netto": 85
     },
-    "district": "Çiftlikköy",
+    "district": "Çiftlikköy",
     "coordinates": [36.774783, 34.542198],
     "layout": "2+1",
     "dateOfCompletion": "2020-01",
@@ -412,7 +412,7 @@
       "brutto": 120,
       "netto": 100
     },
-    "district": "Çiftlikköy",
+    "district": "Çiftlikköy",
     "coordinates": [36.782449, 34.542385],
     "layout": "2+1",
     "dateOfCompletion": "2023-01",
@@ -560,7 +560,7 @@
     "price": 3500000
   },
   {
-    "name": "KILIÇOĞLU PLUS",
+    "name": "KILIÇOĞLU PLUS",
     "link": "1hy9Za2se7njZHdNBZz8Sv53XFR_w8_AO",
     "area": {
       "brutto": 63,
@@ -728,7 +728,7 @@
     "price": 1450000
   },
   {
-    "name": "ÇINARLI",
+    "name": "ÇINARLI",
     "link": "1oAySXTg9ikX2r1zTWCsvEI-I-lYnnkAe",
     "area": {
       "brutto": 110,
@@ -804,7 +804,7 @@
       "brutto": 70,
       "netto": 60
     },
-    "district": "Çiftlikköy",
+    "district": "Çiftlikköy",
     "coordinates": [36.772243, 34.542128],
     "layout": "1+1",
     "dateOfCompletion": "2023-01",
@@ -924,7 +924,7 @@
     "price": 2860000
   },
   {
-    "name": "ÇAĞDAŞ AKDENİZ",
+    "name": "ÇAĞDAŞ AKDENİZ",
     "link": "1F7Bj-hf4yXKL0ialHgP2jx9v6xqVqgbS",
     "area": {
       "brutto": 110,
@@ -1162,7 +1162,7 @@
     "price": 3750000
   },
   {
-    "name": "ENÇ İNŞAAT",
+    "name": "ENÇ İNŞAAT",
     "link": "1mojUg9w2D7TfJNUs2o_cSS5ZGQkkPkT2",
     "area": {
       "brutto": 70,
@@ -1204,7 +1204,7 @@
     "price": 3150000
   },
   {
-    "name": "DALGIÇ REZİDANCE",
+    "name": "DALGIÇ REZİDANCE",
     "link": "1j3SVRlbfZJ_LEdKmDNRj4p-Kj05X1zsG",
     "area": {
       "brutto": 190,
@@ -1540,7 +1540,7 @@
     "price": 66000
   },
   {
-    "name": "YUKARI SIRAÇ MÜSTAKİL VİLLA",
+    "name": "YUKARI SIRAÇ MÜSTAKİL VİLLA",
     "link": "1qi5hcELki4JiSvQTXX1At-apRXQ77o1N",
     "area": {
       "brutto": 370,
@@ -1630,7 +1630,7 @@
       "brutto": 70,
       "netto": 60
     },
-    "district": "Çiftlikköy",
+    "district": "Çiftlikköy",
     "coordinates": [36.78687, 34.543324],
     "layout": "1+1",
     "dateOfCompletion": "2019-01",
@@ -1666,7 +1666,7 @@
     "price": 2150000
   },
   {
-    "name": "ENÇ YAPI",
+    "name": "ENÇ YAPI",
     "link": "1ku9ayUOkR4kPbEiK1v_tSabnzmxHuqL3",
     "area": {
       "brutto": 70,
@@ -1708,7 +1708,7 @@
     "price": 3890000
   },
   {
-    "name": "ENÇ YAPI",
+    "name": "ENÇ YAPI",
     "link": "1kiJ9XNjLnoRe98Kqnn-jO9EV-Vq6ye-y",
     "area": {
       "brutto": 105,
@@ -1736,7 +1736,7 @@
     "price": 63000
   },
   {
-    "name": "ÇAY",
+    "name": "ÇAY",
     "link": "1xlrkGTrmJWimNw5HF87m_8VyLPBpaQnQ",
     "area": {
       "brutto": 102,
@@ -1826,7 +1826,7 @@
       "brutto": 70,
       "netto": 50
     },
-    "district": "Çiftlikköy",
+    "district": "Çiftlikköy",
     "coordinates": [36.768078, 34.54184],
     "layout": "1+1",
     "dateOfCompletion": "2019-01",
@@ -1848,7 +1848,7 @@
     "price": 120000
   },
   {
-    "name": "ÇEVİK VİTACOURT",
+    "name": "ÇEVİK VİTACOURT",
     "link": "1NfprHKs8WLTo2q1mLzb8BX_86UlPLyrO",
     "area": {
       "brutto": 140,
