@@ -1158,5 +1158,35 @@
     "dateOfCompletion": "2026-12",
     "currency": "EUR",
     "price": 92000
+  },
+  {
+    "name": "EMERALD DELUX",
+    "link": "https://drive.google.com/drive/folders/1h5ir2mY_zIqHqFy1MAYtHfFl8Ua4XuBR",
+    "district": "Çeşmeli",
+    "coordinates": [36.679004, 34.435029],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-08",
+    "currency": "EUR",
+    "price": 59000
+  },
+  {
+    "name": "EMERALD DELUX",
+    "link": "https://drive.google.com/drive/folders/1h5ir2mY_zIqHqFy1MAYtHfFl8Ua4XuBR",
+    "district": "Çeşmeli",
+    "coordinates": [36.679004, 34.435029],
+    "layout": "2+1",
+    "dateOfCompletion": "2024-08",
+    "currency": "EUR",
+    "price": 79000
+  },
+  {
+    "name": "EMERALD NEST",
+    "link": "https://drive.google.com/drive/folders/1v_BSakHQI04MiDmFMo0vSay67Dkh56oG",
+    "district": "Kargıpınarı",
+    "coordinates": [36.665033, 34.419837],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-10",
+    "currency": "EUR",
+    "price": 62000
   }
 ]
