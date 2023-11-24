@@ -441,7 +441,7 @@
   },
   {
     "name": "MB NATURE",
-    "link": "1ndea-Dkl4k8h0t_VG6eSfNbwXJIebDn8",
+    "link": " ",
     "district": "Tece",
     "coordinates": [36.692377, 34.439805],
     "layout": "1+1",
@@ -1161,7 +1161,7 @@
   },
   {
     "name": "EMERALD DELUX",
-    "link": "https://drive.google.com/drive/folders/1h5ir2mY_zIqHqFy1MAYtHfFl8Ua4XuBR",
+    "link": "1h5ir2mY_zIqHqFy1MAYtHfFl8Ua4XuBR",
     "district": "Çeşmeli",
     "coordinates": [36.679004, 34.435029],
     "layout": "1+1",
@@ -1171,7 +1171,7 @@
   },
   {
     "name": "EMERALD DELUX",
-    "link": "https://drive.google.com/drive/folders/1h5ir2mY_zIqHqFy1MAYtHfFl8Ua4XuBR",
+    "link": "1h5ir2mY_zIqHqFy1MAYtHfFl8Ua4XuBR",
     "district": "Çeşmeli",
     "coordinates": [36.679004, 34.435029],
     "layout": "2+1",
@@ -1181,12 +1181,32 @@
   },
   {
     "name": "EMERALD NEST",
-    "link": "https://drive.google.com/drive/folders/1v_BSakHQI04MiDmFMo0vSay67Dkh56oG",
+    "link": "1v_BSakHQI04MiDmFMo0vSay67Dkh56oG",
     "district": "Kargıpınarı",
     "coordinates": [36.665033, 34.419837],
     "layout": "1+1",
     "dateOfCompletion": "2024-10",
     "currency": "EUR",
     "price": 62000
+  },
+  {
+    "name": "DORA MEGALAND",
+    "link": "15UqPJx3JTpYYzTomkjhJLSEvrPil9vx0",
+    "district": "Yenişehir",
+    "coordinates": [36.766955, 34.539691],
+    "layout": "2+1",
+    "dateOfCompletion": "2025-09",
+    "currency": "EUR",
+    "price": 140000
+  },
+  {
+    "name": "ILKEM DIAMOND",
+    "link": "1vVkiH6FFQ0B0-siwvf2LiTtDp8b2KcN5",
+    "district": "Akdeniz(Mezitli)",
+    "coordinates": [36.750136, 34.518679],
+    "layout": "5+1",
+    "dateOfCompletion": "2024-01",
+    "currency": "EUR",
+    "price": 290000
   }
 ]
