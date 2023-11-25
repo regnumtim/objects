@@ -730,26 +730,6 @@
     "price": 64000
   },
   {
-    "name": "MNZ TOMUK VIOLETTA",
-    "link": "1pe8-i7joDXpt6Z-Mn0yCis6KRK9tTJGj",
-    "district": "Tömük",
-    "coordinates": [36.658931, 34.394967],
-    "layout": "1+1",
-    "dateOfCompletion": "2023-12",
-    "currency": "EUR",
-    "price": 81000
-  },
-  {
-    "name": "MNZ TOMUK VIOLETTA",
-    "link": "1pe8-i7joDXpt6Z-Mn0yCis6KRK9tTJGj",
-    "district": "Tömük",
-    "coordinates": [36.658931, 34.394967],
-    "layout": "2+1",
-    "dateOfCompletion": "2023-12",
-    "currency": "EUR",
-    "price": 103000
-  },
-  {
     "name": "MNZ BLUESTIN",
     "link": "1-HoW421HucLI2zA2hVYjpvGOlxMaMO3l",
     "district": "Arpaçbahşiş",
@@ -768,26 +748,6 @@
     "dateOfCompletion": "2025-03",
     "currency": "EUR",
     "price": 102000
-  },
-  {
-    "name": "MNZ MERSINA LUX",
-    "link": "14_bOKT3d3Qb7ykfe8bBiKAS6nq-E6G6G",
-    "district": "Tömük",
-    "coordinates": [36.658927, 34.394963],
-    "layout": "1+1",
-    "dateOfCompletion": "2025-06",
-    "currency": "EUR",
-    "price": 73000
-  },
-  {
-    "name": "MNZ MERSINA LUX",
-    "link": "14_bOKT3d3Qb7ykfe8bBiKAS6nq-E6G6G",
-    "district": "Tömük",
-    "coordinates": [36.658927, 34.394963],
-    "layout": "2+1",
-    "dateOfCompletion": "2025-06",
-    "currency": "EUR",
-    "price": 110000
   },
   {
     "name": "MNZ GOLD CITY",
@@ -1208,5 +1168,45 @@
     "dateOfCompletion": "2024-01",
     "currency": "EUR",
     "price": 290000
+  },
+  {
+    "name": "MNZ PERA LIFE",
+    "link": "1o3Q7Ag-8zGn3eI5kgWTdJ5TztQii1qIt",
+    "district": "Tömük",
+    "coordinates": [36.64752, 34.377646],
+    "layout": "1+1",
+    "dateOfCompletion": "2025-04",
+    "currency": "EUR",
+    "price": 49000
+  },
+  {
+    "name": "MNZ PERA LIFE",
+    "link": "1o3Q7Ag-8zGn3eI5kgWTdJ5TztQii1qIt",
+    "district": "Tömük",
+    "coordinates": [36.64752, 34.377646],
+    "layout": "2+1",
+    "dateOfCompletion": "2025-04",
+    "currency": "EUR",
+    "price": 81000
+  },
+  {
+    "name": "MNZ AQUA MARIN",
+    "link": "1qntsTQspuVw4r1vxN7EWJUwwrLo1cNLQ",
+    "district": "Tömük",
+    "coordinates": [36.645358, 34.368604],
+    "layout": "1+1",
+    "dateOfCompletion": "2025-02",
+    "currency": "EUR",
+    "price": 47000
+  },
+  {
+    "name": "MNZ AQUA MARIN",
+    "link": "1qntsTQspuVw4r1vxN7EWJUwwrLo1cNLQ",
+    "district": "Tömük",
+    "coordinates": [36.645358, 34.368604],
+    "layout": "2+1",
+    "dateOfCompletion": "2025-02",
+    "currency": "EUR",
+    "price": 80000
   }
 ]
