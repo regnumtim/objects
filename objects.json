@@ -1208,5 +1208,35 @@
     "dateOfCompletion": "2025-02",
     "currency": "EUR",
     "price": 80000
+  },
+  {
+    "name": "CEVIK VITACOURT PERA",
+    "link": "1NLn8HBbPUyMDDDkB8-7a_WNYsn-tWIhK",
+    "district": "Akdeniz(Mezitli)",
+    "coordinates": [36.727302, 34.49981],
+    "layout": "1+1",
+    "dateOfCompletion": "2025-03",
+    "currency": "USD",
+    "price": 111000
+  },
+  {
+    "name": "CEVIK VITACOURT PERA",
+    "link": "1NLn8HBbPUyMDDDkB8-7a_WNYsn-tWIhK",
+    "district": "Akdeniz(Mezitli)",
+    "coordinates": [36.727302, 34.49981],
+    "layout": "2+1",
+    "dateOfCompletion": "2025-03",
+    "currency": "USD",
+    "price": 160000
+  },
+  {
+    "name": "CEVIK VITACOURT PERA",
+    "link": "1NLn8HBbPUyMDDDkB8-7a_WNYsn-tWIhK",
+    "district": "Akdeniz(Mezitli)",
+    "coordinates": [36.727302, 34.49981],
+    "layout": "3+1",
+    "dateOfCompletion": "2025-03",
+    "currency": "USD",
+    "price": 210000
   }
 ]
