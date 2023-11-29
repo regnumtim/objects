@@ -1210,7 +1210,7 @@
     "price": 80000
   },
   {
-    "name": "CEVIK VITACOURT PERA",
+    "name": "ÇEVIK VITACOURT PERA",
     "link": "1NLn8HBbPUyMDDDkB8-7a_WNYsn-tWIhK",
     "district": "Akdeniz(Mezitli)",
     "coordinates": [36.727302, 34.49981],
@@ -1220,7 +1220,7 @@
     "price": 111000
   },
   {
-    "name": "CEVIK VITACOURT PERA",
+    "name": "ÇEVIK VITACOURT PERA",
     "link": "1NLn8HBbPUyMDDDkB8-7a_WNYsn-tWIhK",
     "district": "Akdeniz(Mezitli)",
     "coordinates": [36.727302, 34.49981],
@@ -1230,7 +1230,7 @@
     "price": 160000
   },
   {
-    "name": "CEVIK VITACOURT PERA",
+    "name": "ÇEVIK VITACOURT PERA",
     "link": "1NLn8HBbPUyMDDDkB8-7a_WNYsn-tWIhK",
     "district": "Akdeniz(Mezitli)",
     "coordinates": [36.727302, 34.49981],
@@ -1238,5 +1238,35 @@
     "dateOfCompletion": "2025-03",
     "currency": "USD",
     "price": 210000
+  },
+  {
+    "name": "KAYIKÇIOĞLU MAVIDA BLUE GARDEN",
+    "link": "1wylzC7Ut64hZvOBVaU2qjKslU4_3K9Az",
+    "district": "Erdemli",
+    "coordinates": [36.64003, 34.354654],
+    "layout": "1+1",
+    "dateOfCompletion": "2025-12",
+    "currency": "EUR",
+    "price": 53900
+  },
+  {
+    "name": "KAYIKÇIOĞLU MAVIDA BLUE GARDEN",
+    "link": "1wylzC7Ut64hZvOBVaU2qjKslU4_3K9Az",
+    "district": "Erdemli",
+    "coordinates": [36.64003, 34.354654],
+    "layout": "2+1",
+    "dateOfCompletion": "2025-12",
+    "currency": "EUR",
+    "price": 145000
+  },
+  {
+    "name": "KAYIKÇIOĞLU MAVIDA TOWERS",
+    "link": "173MAcJicc_14T4qlhKpg7J3dyAB8mjE-",
+    "district": "Arpaçbahşiş",
+    "coordinates": [36.635508, 34.351529],
+    "layout": "3+1",
+    "dateOfCompletion": "2023-06",
+    "currency": "EUR",
+    "price": 250000
   }
 ]
