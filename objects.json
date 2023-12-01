@@ -1268,5 +1268,55 @@
     "dateOfCompletion": "2023-06",
     "currency": "EUR",
     "price": 250000
+  },
+  {
+    "name": "KAYIKÇIOĞLU MAVIDA TERRACE",
+    "link": "1QBrfh7z5zouBQQF7kAVSP34fqU96AGGI",
+    "district": "Arpaçbahşiş",
+    "coordinates": [36.639791, 34.361438],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-12",
+    "currency": "EUR",
+    "price": 125000
+  },
+  {
+    "name": "KAYIKÇIOĞLU MAVIDA TERRACE",
+    "link": "1QBrfh7z5zouBQQF7kAVSP34fqU96AGGI",
+    "district": "Arpaçbahşiş",
+    "coordinates": [36.639791, 34.361438],
+    "layout": "2+1",
+    "dateOfCompletion": "2024-12",
+    "currency": "EUR",
+    "price": 230000
+  },
+  {
+    "name": "KAYIKÇIOĞLU MAVIDA ALATA",
+    "link": "1fE_Y6DwWWfgmnDf1kwnoyA_wtTNWwean",
+    "district": "Arpaçbahşiş",
+    "coordinates": [36.635815, 34.351271],
+    "layout": "1+1",
+    "dateOfCompletion": "2022-12",
+    "currency": "EUR",
+    "price": 120000
+  },
+  {
+    "name": "KAYIKÇIOĞLU MAVIDA ALATA",
+    "link": "1fE_Y6DwWWfgmnDf1kwnoyA_wtTNWwean",
+    "district": "Arpaçbahşiş",
+    "coordinates": [36.635815, 34.351271],
+    "layout": "2+1",
+    "dateOfCompletion": "2022-12",
+    "currency": "EUR",
+    "price": 180000
+  },
+  {
+    "name": "KAYIKÇIOĞLU MAVIDA CADDE",
+    "link": "14ZJZoTpIKHwcX81KrhpLKe1uaWZ0k3yt",
+    "district": "Arpaçbahşiş",
+    "coordinates": [36.64296, 34.359143],
+    "layout": "4+1",
+    "dateOfCompletion": "2023-08",
+    "currency": "EUR",
+    "price": 300000
   }
 ]

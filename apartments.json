@@ -203,7 +203,7 @@
       "netto": 75
     },
     "district": "Tece",
-    "coordinates": [36.624955, 34.597495],
+    "coordinates": [36.687808, 34.439614],
     "layout": "2+1",
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
@@ -1491,7 +1491,7 @@
       "netto": 47
     },
     "district": "Tece",
-    "coordinates": [36.706596, 34.449173],
+    "coordinates": [36.687808, 34.439614],
     "layout": "1+1",
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
@@ -1972,5 +1972,19 @@
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
     "price": 1550000
+  },
+  {
+    "name": "KALABA",
+    "link": "1i6cmbn8aPbIXmw4CCiOf_f1akRj15gX_",
+    "area": {
+      "brutto": 55,
+      "netto": 47
+    },
+    "district": "Tece",
+    "coordinates": [36.687808, 34.439614],
+    "layout": "1+1",
+    "dateOfCompletion": "2023-01",
+    "currency": "TRY",
+    "price": 1400000
   }
 ]
