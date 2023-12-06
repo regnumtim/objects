@@ -357,7 +357,7 @@
       "netto": 135
     },
     "district": "Tece",
-    "coordinates": [36.604314, 34.681397],
+    "coordinates": [36.687732, 34.442319],
     "layout": "3+1",
     "dateOfCompletion": "2019-01",
     "currency": "TRY",
@@ -371,7 +371,7 @@
       "netto": 135
     },
     "district": "Tece",
-    "coordinates": [36.604316, 34.681399],
+    "coordinates": [36.687732, 34.442319],
     "layout": "3+1",
     "dateOfCompletion": "2019-01",
     "currency": "TRY",
@@ -1624,7 +1624,7 @@
     "price": 55000
   },
   {
-    "name": "EN PRESTIJ TREND",
+    "name": "EN PRESTİJ TREND",
     "link": "1DdlmQj7b4-LnLY2AhU4vYRsVf1YMehUD",
     "area": {
       "brutto": 70,
@@ -1986,5 +1986,33 @@
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
     "price": 1400000
+  },
+  {
+    "name": "İNOVA PLUS",
+    "link": "1BxxJ5vlhe5iKbo-cP_4ojtJS9EQLIWkJ",
+    "area": {
+      "brutto": 95,
+      "netto": 75
+    },
+    "district": "Çiftlikköy",
+    "coordinates": [36.773756, 34.533025],
+    "layout": "2+1",
+    "dateOfCompletion": "2020-01",
+    "currency": "TRY",
+    "price": 2620000
+  },
+  {
+    "name": "EN PRESTİJ MODERN",
+    "link": "1GSji3XWtlhw_E7GLkOruLz6I8N_Ned3e",
+    "area": {
+      "brutto": 100,
+      "netto": 90
+    },
+    "district": "Çiftlikköy",
+    "coordinates": [36.77239, 34.54599],
+    "layout": "2+1",
+    "dateOfCompletion": "2020-01",
+    "currency": "TRY",
+    "price": 2560000
   }
 ]
