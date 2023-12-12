@@ -1621,7 +1621,7 @@
     "layout": "1+1",
     "dateOfCompletion": "2020-01",
     "currency": "USD",
-    "price": 55000
+    "price": 45000
   },
   {
     "name": "EN PRESTİJ TREND",
@@ -1720,20 +1720,6 @@
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
     "price": 2550000
-  },
-  {
-    "name": "CAN",
-    "link": "1CHbWONDKpqSCIrn6k93LeWYjoojlOXRU",
-    "area": {
-      "brutto": 55,
-      "netto": 45
-    },
-    "district": "Arpaçbahşiş",
-    "coordinates": [36.640956, 34.360227],
-    "layout": "1+1",
-    "dateOfCompletion": "2020-01",
-    "currency": "USD",
-    "price": 63000
   },
   {
     "name": "ÇAY",
