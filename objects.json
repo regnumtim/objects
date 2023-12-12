@@ -15,7 +15,7 @@
     "district": "Arpaçbahşiş",
     "coordinates": [36.643937171472004, 34.362136302561964],
     "layout": "1+1",
-    "dateOfCompletion": "2024-03",
+    "dateOfCompletion": "2024-06",
     "currency": "EUR",
     "price": 65000
   },
@@ -25,7 +25,7 @@
     "district": "Arpaçbahşiş",
     "coordinates": [36.643937171472004, 34.362136302561964],
     "layout": "2+1",
-    "dateOfCompletion": "2024-03",
+    "dateOfCompletion": "2024-06",
     "currency": "EUR",
     "price": 85000
   },
@@ -35,7 +35,7 @@
     "district": "Soli",
     "coordinates": [36.72663240525609, 34.49967565179355],
     "layout": "1+1",
-    "dateOfCompletion": "2024-04",
+    "dateOfCompletion": "2024-07",
     "currency": "EUR",
     "price": 68000
   },
@@ -1244,6 +1244,16 @@
     "link": "1wylzC7Ut64hZvOBVaU2qjKslU4_3K9Az",
     "district": "Erdemli",
     "coordinates": [36.64003, 34.354654],
+    "layout": "1+0",
+    "dateOfCompletion": "2025-12",
+    "currency": "EUR",
+    "price": 39900
+  },
+  {
+    "name": "KAYIKÇIOĞLU MAVIDA BLUE GARDEN",
+    "link": "1wylzC7Ut64hZvOBVaU2qjKslU4_3K9Az",
+    "district": "Erdemli",
+    "coordinates": [36.64003, 34.354654],
     "layout": "1+1",
     "dateOfCompletion": "2025-12",
     "currency": "EUR",
@@ -1318,5 +1328,25 @@
     "dateOfCompletion": "2023-08",
     "currency": "EUR",
     "price": 300000
+  },
+  {
+    "name": "SAMIRAS WOX DAVULTEPE",
+    "link": "1ZcQBb92uzcavQ83HENMnFPrCO0_k3tq1",
+    "district": "Davultepe",
+    "coordinates": [36.725999, 34.496719],
+    "layout": "1+1",
+    "dateOfCompletion": "2025-04",
+    "currency": "EUR",
+    "price": 69000
+  },
+  {
+    "name": "SAMIRAS WOX DAVULTEPE",
+    "link": "1ZcQBb92uzcavQ83HENMnFPrCO0_k3tq1",
+    "district": "Davultepe",
+    "coordinates": [36.725999, 34.496719],
+    "layout": "2+1",
+    "dateOfCompletion": "2025-04",
+    "currency": "EUR",
+    "price": 89000
   }
 ]
