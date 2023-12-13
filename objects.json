@@ -1348,5 +1348,25 @@
     "dateOfCompletion": "2025-04",
     "currency": "EUR",
     "price": 89000
+  },
+  {
+    "name": "MENYAPI İNŞAAT ELİF PARK",
+    "link": "17AfU71Oxk09XMY-Xjf5nAVbAgrOT-7ZW",
+    "district": "Alata",
+    "coordinates": [36.613667, 34.318336],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-10",
+    "currency": "EUR",
+    "price": 55000
+  },
+  {
+    "name": "MENYAPI İNŞAAT ELİF PARK",
+    "link": "17AfU71Oxk09XMY-Xjf5nAVbAgrOT-7ZW",
+    "district": "Alata",
+    "coordinates": [36.613667, 34.318336],
+    "layout": "2+1",
+    "dateOfCompletion": "2024-10",
+    "currency": "EUR",
+    "price": 82000
   }
 ]
