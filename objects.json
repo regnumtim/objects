@@ -1355,7 +1355,7 @@
     "district": "Alata",
     "coordinates": [36.613667, 34.318336],
     "layout": "1+1",
-    "dateOfCompletion": "2024-10",
+    "dateOfCompletion": "2024-05",
     "currency": "EUR",
     "price": 55000
   },
@@ -1365,8 +1365,48 @@
     "district": "Alata",
     "coordinates": [36.613667, 34.318336],
     "layout": "2+1",
-    "dateOfCompletion": "2024-10",
+    "dateOfCompletion": "2024-05",
     "currency": "EUR",
     "price": 82000
+  },
+  {
+    "name": "YILPET İNŞ ORANGE 1",
+    "link": "1oemP9J9WaMcG-1ljciWLmCqiersqJEED",
+    "district": "Kocahasanlı",
+    "coordinates": [36.581752, 34.267299],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-12",
+    "currency": "EUR",
+    "price": 49000
+  },
+  {
+    "name": "YILPET İNŞ ORANGE 1",
+    "link": "1oemP9J9WaMcG-1ljciWLmCqiersqJEED",
+    "district": "Kocahasanlı",
+    "coordinates": [36.581752, 34.267299],
+    "layout": "2+1",
+    "dateOfCompletion": "2024-12",
+    "currency": "EUR",
+    "price": 64000
+  },
+  {
+    "name": "YILPET İNŞ ORANGE SUITS",
+    "link": "1ZhYSklkMcAtOtIaovHlZqO_oWkrTGC-V",
+    "district": "Tömük",
+    "coordinates": [36.656354, 34.391975],
+    "layout": "1+1",
+    "dateOfCompletion": "2025-03",
+    "currency": "EUR",
+    "price": 38000
+  },
+  {
+    "name": "YILPET İNŞ ORANGE SUITS",
+    "link": "1ZhYSklkMcAtOtIaovHlZqO_oWkrTGC-V",
+    "district": "Tömük",
+    "coordinates": [36.656354, 34.391975],
+    "layout": "2+1",
+    "dateOfCompletion": "2025-03",
+    "currency": "EUR",
+    "price": 55000
   }
 ]
