@@ -253,7 +253,7 @@
     "name": "ROYAL PREMIUM",
     "link": "17D2WkDnjWtNQ8YKbs4Z9xk3du8VdHXm-",
     "district": "Çeşmeli",
-    "coordinates": [36.69802622460646, 34.45286389765508],
+    "coordinates": [36.66858, 34.42972],
     "layout": "2+1",
     "dateOfCompletion": "2025-05",
     "currency": "EUR",
@@ -263,7 +263,7 @@
     "name": "ROYAL PREMIUM",
     "link": "17D2WkDnjWtNQ8YKbs4Z9xk3du8VdHXm-",
     "district": "Çeşmeli",
-    "coordinates": [36.69802622460646, 34.45286389765508],
+    "coordinates": [36.66858, 34.42972],
     "layout": "3+1",
     "dateOfCompletion": "2025-05",
     "currency": "EUR",
@@ -441,7 +441,7 @@
   },
   {
     "name": "MB NATURE",
-    "link": " ",
+    "link": "1ndea-Dkl4k8h0t_VG6eSfNbwXJIebDn8",
     "district": "Tece",
     "coordinates": [36.692377, 34.439805],
     "layout": "1+1",
@@ -697,7 +697,7 @@
     "layout": "1+0",
     "dateOfCompletion": "2025-06",
     "currency": "EUR",
-    "price": 35500
+    "price": 34500
   },
   {
     "name": "EMERALD CONCEPT TREND",
@@ -707,7 +707,7 @@
     "layout": "1+1",
     "dateOfCompletion": "2025-06",
     "currency": "EUR",
-    "price": 56000
+    "price": 55000
   },
   {
     "name": "EMERALD CONCEPT TREND",
@@ -717,7 +717,7 @@
     "layout": "2+1",
     "dateOfCompletion": "2025-06",
     "currency": "EUR",
-    "price": 71000
+    "price": 70000
   },
   {
     "name": "MERTAŞ İNŞAAT SARYA PLUS",
@@ -1242,7 +1242,7 @@
   {
     "name": "KAYIKÇIOĞLU MAVIDA BLUE GARDEN",
     "link": "1wylzC7Ut64hZvOBVaU2qjKslU4_3K9Az",
-    "district": "Erdemli",
+    "district": "Arpaçbahşiş",
     "coordinates": [36.64003, 34.354654],
     "layout": "1+0",
     "dateOfCompletion": "2025-12",
@@ -1252,7 +1252,7 @@
   {
     "name": "KAYIKÇIOĞLU MAVIDA BLUE GARDEN",
     "link": "1wylzC7Ut64hZvOBVaU2qjKslU4_3K9Az",
-    "district": "Erdemli",
+    "district": "Arpaçbahşiş",
     "coordinates": [36.64003, 34.354654],
     "layout": "1+1",
     "dateOfCompletion": "2025-12",
@@ -1262,7 +1262,7 @@
   {
     "name": "KAYIKÇIOĞLU MAVIDA BLUE GARDEN",
     "link": "1wylzC7Ut64hZvOBVaU2qjKslU4_3K9Az",
-    "district": "Erdemli",
+    "district": "Arpaçbahşiş",
     "coordinates": [36.64003, 34.354654],
     "layout": "2+1",
     "dateOfCompletion": "2025-12",

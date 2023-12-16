@@ -1392,7 +1392,7 @@
       "brutto": 90,
       "netto": 75
     },
-    "district": "Merkez",
+    "district": "Soli",
     "coordinates": [36.73999, 34.512936],
     "layout": "2+1",
     "dateOfCompletion": "2022-01",
@@ -1593,7 +1593,7 @@
     "layout": "1+1",
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
-    "price": 1550000
+    "price": 1450000
   },
   {
     "name": "MNZ PARADİSE",
