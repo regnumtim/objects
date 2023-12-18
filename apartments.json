@@ -2000,5 +2000,19 @@
     "dateOfCompletion": "2020-01",
     "currency": "TRY",
     "price": 2560000
+  },
+  {
+    "name": "KEYA HEVSEL",
+    "link": "1erV3aSKoEOS5j8Hvdk9YP5szT5w1cIPf",
+    "area": {
+      "brutto": 60,
+      "netto": 50
+    },
+    "district": "Arpaçbahşiş",
+    "coordinates": [36.63696, 34.352703],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-01",
+    "currency": "TRY",
+    "price": 1400000
   }
 ]
