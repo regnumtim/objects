@@ -798,20 +798,6 @@
     "price": 99000
   },
   {
-    "name": "ADIM REZİDANS",
-    "link": "1gTJ9Xv18up_jfLZSqkGT0QzdUwG43LpP",
-    "area": {
-      "brutto": 70,
-      "netto": 60
-    },
-    "district": "Çiftlikköy",
-    "coordinates": [36.772243, 34.542128],
-    "layout": "1+1",
-    "dateOfCompletion": "2023-01",
-    "currency": "TRY",
-    "price": 1560000
-  },
-  {
     "name": "NEW CITY",
     "link": "1HTGIMzhJJgIzi4aAIixFhImebr_KvhA9",
     "area": {
@@ -1971,7 +1957,7 @@
     "layout": "1+1",
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
-    "price": 1400000
+    "price": 1500000
   },
   {
     "name": "İNOVA PLUS",
