@@ -1229,7 +1229,7 @@
     "layout": "2+1",
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
-    "price": 2700000
+    "price": 2550000
   },
   {
     "name": "TWİN LİFE",
@@ -1258,20 +1258,6 @@
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
     "price": 6600000
-  },
-  {
-    "name": "DOĞAN VERA EVLERİ",
-    "link": "1EGcsUUMrq2yMuHMPCpGvxNF2yqHNsgjj",
-    "area": {
-      "brutto": 65,
-      "netto": 55
-    },
-    "district": "Tömük",
-    "coordinates": [36.648389, 34.372611],
-    "layout": "1+1",
-    "dateOfCompletion": "2023-01",
-    "currency": "TRY",
-    "price": 1650000
   },
   {
     "name": "HALİL ERENLER",
@@ -1652,20 +1638,6 @@
     "price": 2150000
   },
   {
-    "name": "ENÇ YAPI",
-    "link": "1ku9ayUOkR4kPbEiK1v_tSabnzmxHuqL3",
-    "area": {
-      "brutto": 70,
-      "netto": 62
-    },
-    "district": "Tömük",
-    "coordinates": [36.647797, 34.372229],
-    "layout": "1+1",
-    "dateOfCompletion": "2023-01",
-    "currency": "TRY",
-    "price": 1920000
-  },
-  {
     "name": "MNZ LİFE",
     "link": "1kxOm0zWjN3rfbb8K5UIqYylD0_kWfdlV",
     "area": {
@@ -1705,7 +1677,7 @@
     "layout": "2+1",
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
-    "price": 2550000
+    "price": 2850000
   },
   {
     "name": "ÇAY",
