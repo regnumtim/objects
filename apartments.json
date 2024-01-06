@@ -906,8 +906,8 @@
     "coordinates": [36.695366, 34.447323],
     "layout": "2+1",
     "dateOfCompletion": "2019-01",
-    "currency": "TRY",
-    "price": 2860000
+    "currency": "USD",
+    "price": 105000
   },
   {
     "name": "ÇAĞDAŞ AKDENİZ",
@@ -1005,7 +1005,7 @@
     "layout": "4+1",
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
-    "price": 3850000
+    "price": 4150000
   },
   {
     "name": "S. DOĞAN",
@@ -1972,5 +1972,33 @@
     "dateOfCompletion": "2024-01",
     "currency": "TRY",
     "price": 1400000
+  },
+  {
+    "name": "İMPERA PERLA",
+    "link": "1U6tRsoU1zCiIQCIQItSbZ5qUkXy628fM",
+    "area": {
+      "brutto": 55,
+      "netto": 50
+    },
+    "district": "Tece",
+    "coordinates": [36.688095, 34.439377],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-01",
+    "currency": "TRY",
+    "price": 1650000
+  },
+  {
+    "name": "ASİS MARMARİS",
+    "link": "1lqggCZ085Ydlylw0EZtZGnViEyxnPUS-",
+    "area": {
+      "brutto": 60,
+      "netto": 45
+    },
+    "district": "Tömük",
+    "coordinates": [36.645296, 34.368712],
+    "layout": "1+1",
+    "dateOfCompletion": "2020-01",
+    "currency": "TRY",
+    "price": 1720000
   }
 ]
