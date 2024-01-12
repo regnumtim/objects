@@ -1985,7 +1985,7 @@
     "layout": "1+1",
     "dateOfCompletion": "2024-01",
     "currency": "TRY",
-    "price": 1650000
+    "price": 1850000
   },
   {
     "name": "ASİS MARMARİS",
@@ -2000,5 +2000,19 @@
     "dateOfCompletion": "2020-01",
     "currency": "TRY",
     "price": 1720000
+  },
+  {
+    "name": "NİL TOWER",
+    "link": "17JH1tL1ZlSBtqvjpBPVqP0LE3-u7QLii",
+    "area": {
+      "brutto": 115,
+      "netto": 100
+    },
+    "district": "Arpaçbahşiş",
+    "coordinates": [36.636636, 34.354591],
+    "layout": "2+1",
+    "dateOfCompletion": "2019-01",
+    "currency": "TRY",
+    "price": 2300000
   }
 ]
