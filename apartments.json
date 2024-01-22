@@ -207,7 +207,7 @@
     "layout": "2+1",
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
-    "price": 2180000
+    "price": 2250000
   },
   {
     "name": "ALP CİTY 3",
@@ -305,7 +305,7 @@
     "layout": "2+1",
     "dateOfCompletion": "2000-01",
     "currency": "TRY",
-    "price": 2100000
+    "price": 2500000
   },
   {
     "name": "BATI YAKASI",
@@ -403,7 +403,7 @@
     "layout": "2+1",
     "dateOfCompletion": "2020-01",
     "currency": "TRY",
-    "price": 2550000
+    "price": 2650000
   },
   {
     "name": "MARKA UNİVERCİTY",
@@ -683,21 +683,7 @@
     "layout": "1+1",
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
-    "price": 1570000
-  },
-  {
-    "name": "MYK",
-    "link": "1tGWbE7Q6CZcVYu-v4SF8OcjYhxiEgNeX",
-    "area": {
-      "brutto": 115,
-      "netto": 95
-    },
-    "district": "Kargıpınarı",
-    "coordinates": [36.635284, 34.484685],
-    "layout": "2+1",
-    "dateOfCompletion": "2023-01",
-    "currency": "TRY",
-    "price": 1880000
+    "price": 1600000
   },
   {
     "name": "MYK YAPI SEMBOL PARK SİRÖS",
@@ -754,20 +740,6 @@
     "dateOfCompletion": "2018-01",
     "currency": "TRY",
     "price": 2000000
-  },
-  {
-    "name": "STELLA AQUAPARK",
-    "link": "1DPwiFiGZrhe9PjKSFd3XBF6xvuxwNIRD",
-    "area": {
-      "brutto": 120,
-      "netto": 105
-    },
-    "district": "Tömük",
-    "coordinates": [36.642566, 34.364935],
-    "layout": "2+1",
-    "dateOfCompletion": "2023-01",
-    "currency": "TRY",
-    "price": 1800000
   },
   {
     "name": "REİNA",
@@ -963,7 +935,7 @@
     "layout": "3+1",
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
-    "price": 3650000
+    "price": 4250000
   },
   {
     "name": "YÜCESOY BULVAR",
@@ -991,7 +963,7 @@
     "layout": "3+1",
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
-    "price": 3620000
+    "price": 3850000
   },
   {
     "name": "ARMİN",
@@ -1117,7 +1089,7 @@
     "layout": "2+1",
     "dateOfCompletion": "2019-01",
     "currency": "TRY",
-    "price": 2300000
+    "price": 2600000
   },
   {
     "name": "MERİSSA",
@@ -1159,7 +1131,7 @@
     "layout": "1+1",
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
-    "price": 1780000
+    "price": 1900000
   },
   {
     "name": "ARMANİ SELENYUM",
@@ -1173,7 +1145,7 @@
     "layout": "4+1",
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
-    "price": 5000000
+    "price": 5250000
   },
   {
     "name": "TUVAL İNLİFE",
@@ -1242,8 +1214,8 @@
     "coordinates": [36.696171, 34.454401],
     "layout": "2+1",
     "dateOfCompletion": "2019-01",
-    "currency": "TRY",
-    "price": 3600000
+    "currency": "EUR",
+    "price": 125000
   },
   {
     "name": "HALİL ERENLER",
@@ -1328,20 +1300,6 @@
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
     "price": 1550000
-  },
-  {
-    "name": "ERSARA",
-    "link": "1L9nJP1pIz-ORW7il3WM_MArGh6BYNaKx",
-    "area": {
-      "brutto": 50,
-      "netto": 45
-    },
-    "district": "Tece",
-    "coordinates": [36.694115, 34.44511],
-    "layout": "1+1",
-    "dateOfCompletion": "2023-01",
-    "currency": "TRY",
-    "price": 1400000
   },
   {
     "name": "VİA PORT",
@@ -1453,7 +1411,7 @@
     "layout": "1+1",
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
-    "price": 1670000
+    "price": 1550000
   },
   {
     "name": "KALABA",
@@ -1568,20 +1526,6 @@
     "price": 1450000
   },
   {
-    "name": "MNZ PARADİSE",
-    "link": "1L4ppmjgwWLKRIUsKbx63XN0H7pR5B2ao",
-    "area": {
-      "brutto": 60,
-      "netto": 55
-    },
-    "district": "Arpaçbahşiş",
-    "coordinates": [36.648046, 34.359024],
-    "layout": "1+1",
-    "dateOfCompletion": "2023-01",
-    "currency": "TRY",
-    "price": 1580000
-  },
-  {
     "name": "CAN",
     "link": "1V3f3gZx9KtV_DJrM3u7h2OmwdGhV9UlB",
     "area": {
@@ -1636,20 +1580,6 @@
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
     "price": 2150000
-  },
-  {
-    "name": "MNZ LİFE",
-    "link": "1kxOm0zWjN3rfbb8K5UIqYylD0_kWfdlV",
-    "area": {
-      "brutto": 65,
-      "netto": 55
-    },
-    "district": "Arpaçbahşiş",
-    "coordinates": [36.636501, 34.354436],
-    "layout": "1+1",
-    "dateOfCompletion": "2022-01",
-    "currency": "TRY",
-    "price": 1920000
   },
   {
     "name": "GREEN AQUA",
@@ -1832,20 +1762,6 @@
     "dateOfCompletion": "2022-01",
     "currency": "TRY",
     "price": 2850000
-  },
-  {
-    "name": "S. DOĞAN",
-    "link": "1D_YQz96DQtpOUb5No_q9xJSJdgN8K1mi",
-    "area": {
-      "brutto": 140,
-      "netto": 130
-    },
-    "district": "75. Yıl",
-    "coordinates": [36.72808, 34.49392],
-    "layout": "3+1",
-    "dateOfCompletion": "2023-01",
-    "currency": "TRY",
-    "price": 3300000
   },
   {
     "name": "EDYIL İNŞAAT",
