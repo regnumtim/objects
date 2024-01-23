@@ -147,7 +147,7 @@
     "layout": "2+1",
     "dateOfCompletion": "2024-12",
     "currency": "EUR",
-    "price": 80000
+    "price": 75000
   },
   {
     "name": "EMERALD STAR",
@@ -157,7 +157,7 @@
     "layout": "2+1",
     "dateOfCompletion": "2023-12",
     "currency": "EUR",
-    "price": 77000
+    "price": 83000
   },
   {
     "name": "EMERALD FORUM",
@@ -207,7 +207,7 @@
     "layout": "1+1",
     "dateOfCompletion": "2024-12",
     "currency": "EUR",
-    "price": 62000
+    "price": 60000
   },
   {
     "name": "EMERALD HOMES",
@@ -227,7 +227,7 @@
     "layout": "2+1",
     "dateOfCompletion": "2023-10",
     "currency": "EUR",
-    "price": 87000
+    "price": 89000
   },
   {
     "name": "EMERALD AZURIT",
@@ -327,7 +327,7 @@
     "layout": "2+1",
     "dateOfCompletion": "2024-12",
     "currency": "EUR",
-    "price": 122000
+    "price": 200000
   },
   {
     "name": "ILKEM BRILLIANT",
@@ -337,7 +337,7 @@
     "layout": "1+1",
     "dateOfCompletion": "2024-12",
     "currency": "EUR",
-    "price": 65000
+    "price": 68000
   },
   {
     "name": "ILKEM BRILLIANT",
@@ -357,7 +357,27 @@
     "layout": "1+1",
     "dateOfCompletion": "2023-06",
     "currency": "EUR",
-    "price": 82000
+    "price": 75000
+  },
+  {
+    "name": "ILKEM ELEXUS",
+    "link": "1Vc9rLl1tKXzRJRsLNKyFkLFayU4fN0N8",
+    "district": "Tece",
+    "coordinates": [36.695746, 34.449727],
+    "layout": "2+1",
+    "dateOfCompletion": "2023-06",
+    "currency": "EUR",
+    "price": 90000
+  },
+  {
+    "name": "ILKEM ELEXUS",
+    "link": "1Vc9rLl1tKXzRJRsLNKyFkLFayU4fN0N8",
+    "district": "Tece",
+    "coordinates": [36.695746, 34.449727],
+    "layout": "3+1",
+    "dateOfCompletion": "2023-06",
+    "currency": "EUR",
+    "price": 155000
   },
   {
     "name": "ILKEM MIAMI",
@@ -447,7 +467,7 @@
     "layout": "1+1",
     "dateOfCompletion": "2024-12",
     "currency": "USD",
-    "price": 104500
+    "price": 109750
   },
   {
     "name": "MB AZURE",
@@ -457,7 +477,7 @@
     "layout": "1+1",
     "dateOfCompletion": "2025-03",
     "currency": "USD",
-    "price": 110000
+    "price": 115750
   },
   {
     "name": "MB AZURE",
@@ -477,7 +497,7 @@
     "layout": "3+1",
     "dateOfCompletion": "2024-12",
     "currency": "USD",
-    "price": 465000
+    "price": 420000
   },
   {
     "name": "MERTAŞ İNŞAAT HİLDA PLUS",
@@ -527,7 +547,7 @@
     "layout": "1+1",
     "dateOfCompletion": "2024-06",
     "currency": "EUR",
-    "price": 68000
+    "price": 65000
   },
   {
     "name": "SAMIRAS ANNA RESIDENCE",
@@ -537,7 +557,7 @@
     "layout": "2+1",
     "dateOfCompletion": "2024-06",
     "currency": "EUR",
-    "price": 89000
+    "price": 85000
   },
   {
     "name": "ALIOGLU LAVINYA ASTORIA",
@@ -557,7 +577,7 @@
     "layout": "2+1",
     "dateOfCompletion": "2024-12",
     "currency": "EUR",
-    "price": 80000
+    "price": 82000
   },
   {
     "name": "DORA ELEGANT",
@@ -597,7 +617,7 @@
     "layout": "2+1",
     "dateOfCompletion": "2023-12",
     "currency": "EUR",
-    "price": 98000
+    "price": 101000
   },
   {
     "name": "OZMEN GLOBAL SUN MARIA BEACH",
@@ -617,7 +637,7 @@
     "layout": "1+0",
     "dateOfCompletion": "2023-12",
     "currency": "EUR",
-    "price": 39500
+    "price": 36500
   },
   {
     "name": "OZMEN GLOBAL SUN MARIA VOYAGE",
@@ -627,7 +647,7 @@
     "layout": "1+1",
     "dateOfCompletion": "2023-12",
     "currency": "EUR",
-    "price": 64000
+    "price": 63000
   },
   {
     "name": "OZMEN GLOBAL SUN MARIA HOLIDAY",
@@ -680,16 +700,6 @@
     "price": 39000
   },
   {
-    "name": "ILKEM RIO",
-    "link": "1cWb9kXuClZHrQ6iORrXgdcGM7OfbzPy4",
-    "district": "Tömük",
-    "coordinates": [36.661482, 34.396243],
-    "layout": "1+1",
-    "dateOfCompletion": "2025-08",
-    "currency": "EUR",
-    "price": 56000
-  },
-  {
     "name": "EMERALD CONCEPT TREND",
     "link": "1I49qjXPiatK6uByF2tsUmbSs8PVBshjk",
     "district": "Tömük",
@@ -737,7 +747,7 @@
     "layout": "1+1",
     "dateOfCompletion": "2025-03",
     "currency": "EUR",
-    "price": 80000
+    "price": 82000
   },
   {
     "name": "MNZ BLUESTIN",
@@ -777,7 +787,7 @@
     "layout": "1+1",
     "dateOfCompletion": "2024-02",
     "currency": "EUR",
-    "price": 76000
+    "price": 72000
   },
   {
     "name": "MAZLUM SUN CITY 2",
@@ -797,7 +807,7 @@
     "layout": "1+1",
     "dateOfCompletion": "2024-11",
     "currency": "EUR",
-    "price": 71000
+    "price": 82000
   },
   {
     "name": "MARVISTA RIVA HILLS",
@@ -807,7 +817,7 @@
     "layout": "2+1",
     "dateOfCompletion": "2024-11",
     "currency": "EUR",
-    "price": 106000
+    "price": 160000
   },
   {
     "name": "MARVISTA PALM LIFE",
@@ -817,7 +827,7 @@
     "layout": "2+1",
     "dateOfCompletion": "2024-04",
     "currency": "EUR",
-    "price": 226000
+    "price": 247000
   },
   {
     "name": "MARVISTA PALM LIFE",
@@ -827,7 +837,7 @@
     "layout": "3+1",
     "dateOfCompletion": "2024-04",
     "currency": "EUR",
-    "price": 279000
+    "price": 300000
   },
   {
     "name": "MARVISTA BULUT PERLA",
@@ -837,7 +847,7 @@
     "layout": "1+1",
     "dateOfCompletion": "2023-11",
     "currency": "EUR",
-    "price": 75000
+    "price": 88100
   },
   {
     "name": "MARVISTA BULUT PERLA",
@@ -847,17 +857,7 @@
     "layout": "2+1",
     "dateOfCompletion": "2023-11",
     "currency": "EUR",
-    "price": 89500
-  },
-  {
-    "name": "MARVISTA BULUT GLORIA",
-    "link": "1-EC9-z1VAyDbiSBDnyVes86OoNZmkTYI",
-    "district": "Arpaçbahşiş",
-    "coordinates": [36.638429, 34.35611],
-    "layout": "1+1",
-    "dateOfCompletion": "2023-03",
-    "currency": "EUR",
-    "price": 82500
+    "price": 97500
   },
   {
     "name": "MARVISTA BULUT BOUTIQUE",
@@ -887,7 +887,7 @@
     "layout": "1+1",
     "dateOfCompletion": "2024-03",
     "currency": "EUR",
-    "price": 66000
+    "price": 56000
   },
   {
     "name": "ERON FLATS",
@@ -917,7 +917,7 @@
     "layout": "1+1",
     "dateOfCompletion": "2024-06",
     "currency": "EUR",
-    "price": 69000
+    "price": 66500
   },
   {
     "name": "MAZLUM SUN CITY 1",
@@ -927,7 +927,7 @@
     "layout": "1+1",
     "dateOfCompletion": "2023-06",
     "currency": "EUR",
-    "price": 84000
+    "price": 85000
   },
   {
     "name": "MAZLUM SUN CITY 1",
@@ -978,16 +978,6 @@
     "dateOfCompletion": "2024-09",
     "currency": "EUR",
     "price": 130000
-  },
-  {
-    "name": "DORA EXEN",
-    "link": "1o4YjkzfCy-m1KFvEddrYfY7aCMLFPFGw",
-    "district": "Tömük",
-    "coordinates": [36.64127332670389, 34.36296132895633],
-    "layout": "1+1",
-    "dateOfCompletion": "2023-04",
-    "currency": "EUR",
-    "price": 85000
   },
   {
     "name": "DORA GLORIA",
@@ -1077,7 +1067,7 @@
     "layout": "1+0",
     "dateOfCompletion": "2024-12",
     "currency": "EUR",
-    "price": 46000
+    "price": 50000
   },
   {
     "name": "EMERALD CONCEPT OASIS",
@@ -1097,7 +1087,7 @@
     "layout": "1+1",
     "dateOfCompletion": "2025-12",
     "currency": "EUR",
-    "price": 49000
+    "price": 55000
   },
   {
     "name": "ILKEM VEGAS",
@@ -1327,7 +1317,7 @@
     "layout": "1+1",
     "dateOfCompletion": "2025-04",
     "currency": "EUR",
-    "price": 69000
+    "price": 73000
   },
   {
     "name": "SAMIRAS WOX DAVULTEPE",
@@ -1337,7 +1327,7 @@
     "layout": "2+1",
     "dateOfCompletion": "2025-04",
     "currency": "EUR",
-    "price": 89000
+    "price": 97000
   },
   {
     "name": "MENYAPI İNŞAAT ELİF PARK",
