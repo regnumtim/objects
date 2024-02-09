@@ -1398,5 +1398,25 @@
     "dateOfCompletion": "2025-03",
     "currency": "EUR",
     "price": 55000
+  },
+  {
+    "name": "MNZ MERSINA LUX ",
+    "link": "1n0NJbZASuGi4lDK80Hh8SYFytr01wxTT",
+    "district": "Soli",
+    "coordinates": [36.729351, 34.50852],
+    "layout": "1+1",
+    "dateOfCompletion": "2025-06",
+    "currency": "EUR",
+    "price": 79000
+  },
+  {
+    "name": "MNZ MERSINA LUX ",
+    "link": "1n0NJbZASuGi4lDK80Hh8SYFytr01wxTT",
+    "district": "Soli",
+    "coordinates": [36.729351, 34.50852],
+    "layout": "2+1",
+    "dateOfCompletion": "2025-06",
+    "currency": "EUR",
+    "price": 110000
   }
 ]
