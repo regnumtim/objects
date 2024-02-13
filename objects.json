@@ -1400,7 +1400,7 @@
     "price": 55000
   },
   {
-    "name": "MNZ MERSINA LUX ",
+    "name": "MNZ MERSINA LUX",
     "link": "1n0NJbZASuGi4lDK80Hh8SYFytr01wxTT",
     "district": "Soli",
     "coordinates": [36.729351, 34.50852],
@@ -1410,7 +1410,7 @@
     "price": 79000
   },
   {
-    "name": "MNZ MERSINA LUX ",
+    "name": "MNZ MERSINA LUX",
     "link": "1n0NJbZASuGi4lDK80Hh8SYFytr01wxTT",
     "district": "Soli",
     "coordinates": [36.729351, 34.50852],
@@ -1418,5 +1418,25 @@
     "dateOfCompletion": "2025-06",
     "currency": "EUR",
     "price": 110000
+  },
+  {
+    "name": "FIRAT İNŞAAT KOCAHASANLI MİLYON LİFE",
+    "link": "1XUrhyVv3QonuY0jqd3_ymBtSq-rtNbW8",
+    "district": "Kocahasanlı",
+    "coordinates": [36.579172, 34.266571],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-06",
+    "currency": "TRY",
+    "price": 1500000
+  },
+  {
+    "name": "FIRAT İNŞAAT KOCAHASANLI MİLYON LİFE",
+    "link": "1XUrhyVv3QonuY0jqd3_ymBtSq-rtNbW8",
+    "district": "Kocahasanlı",
+    "coordinates": [36.579172, 34.266571],
+    "layout": "2+1",
+    "dateOfCompletion": "2024-06",
+    "currency": "TRY",
+    "price": 2000000
   }
 ]
