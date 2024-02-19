@@ -1438,5 +1438,25 @@
     "dateOfCompletion": "2024-06",
     "currency": "TRY",
     "price": 2000000
+  },
+  {
+    "name": "MNZ VIOLETTA",
+    "link": "1mocXenKnw3ujdesTMTtjPHxBddRSVxoT",
+    "district": "Tömük",
+    "coordinates": [36.657494, 34.397411],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-03",
+    "currency": "EUR",
+    "price": 54000
+  },
+  {
+    "name": "MNZ VIOLETTA",
+    "link": "1mocXenKnw3ujdesTMTtjPHxBddRSVxoT",
+    "district": "Tömük",
+    "coordinates": [36.657494, 34.397411],
+    "layout": "2+1",
+    "dateOfCompletion": "2024-03",
+    "currency": "EUR",
+    "price": 74000
   }
 ]
