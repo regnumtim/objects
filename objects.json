@@ -1458,5 +1458,25 @@
     "dateOfCompletion": "2024-03",
     "currency": "EUR",
     "price": 74000
+  },
+  {
+    "name": "EMERALD ELEGANCE",
+    "link": "1fiDETEwgOAIjS8c6AMPvxeXSWpEagXdM",
+    "district": "Tömük",
+    "coordinates": [36.655829, 34.391175],
+    "layout": "1+1",
+    "dateOfCompletion": "2025-03",
+    "currency": "EUR",
+    "price": 48000
+  },
+  {
+    "name": "EMERALD ELEGANCE",
+    "link": "1fiDETEwgOAIjS8c6AMPvxeXSWpEagXdM",
+    "district": "Tömük",
+    "coordinates": [36.655829, 34.391175],
+    "layout": "2+1",
+    "dateOfCompletion": "2025-03",
+    "currency": "EUR",
+    "price": 63000
   }
 ]
