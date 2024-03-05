@@ -1887,7 +1887,7 @@
     "layout": "1+1",
     "dateOfCompletion": "2024-01",
     "currency": "TRY",
-    "price": 1400000
+    "price": 1385000
   },
   {
     "name": "İMPERA PERLA",
@@ -1944,5 +1944,89 @@
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
     "price": 4100000
+  },
+  {
+    "name": "ANKA",
+    "link": "1W6MU94nmS1Y1j_FVa353oIJ1Ms-o5N18",
+    "area": {
+      "brutto": 65,
+      "netto": 55
+    },
+    "district": "Tömük",
+    "coordinates": [36.624784, 34.402215],
+    "layout": "1+1",
+    "dateOfCompletion": "2023-06",
+    "currency": "EUR",
+    "price": 43000
+  },
+  {
+    "name": "BLUE ROYAL",
+    "link": "1AlST2VawujYAWq24oo6liccXoxSl7uZw",
+    "area": {
+      "brutto": 65,
+      "netto": 55
+    },
+    "district": "Tömük",
+    "coordinates": [36.621135, 34.413854],
+    "layout": "1+1",
+    "dateOfCompletion": "2023-06",
+    "currency": "EUR",
+    "price": 43000
+  },
+  {
+    "name": "ASİS MARMARİS",
+    "link": "1nw206fDlLExTmbOD9C135XRroDRVUYst",
+    "area": {
+      "brutto": 65,
+      "netto": 55
+    },
+    "district": "Tömük",
+    "coordinates": [36.645296, 34.368712],
+    "layout": "1+1",
+    "dateOfCompletion": "2020-01",
+    "currency": "EUR",
+    "price": 55000
+  },
+  {
+    "name": "MNZ VIOLETTA",
+    "link": "1WUlK5KLeKmQhkoE9YU9C7sg4Nvjg2FuS",
+    "area": {
+      "brutto": 75,
+      "netto": 65
+    },
+    "district": "Tömük",
+    "coordinates": [36.6575, 34.397415],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-03",
+    "currency": "EUR",
+    "price": 55000
+  },
+  {
+    "name": "MNZ VIOLETTA",
+    "link": "1bSapzPM9m3iFlH_ohhRTcchCXjqPymX-",
+    "area": {
+      "brutto": 120,
+      "netto": 100
+    },
+    "district": "Tömük",
+    "coordinates": [36.6575, 34.397415],
+    "layout": "2+1",
+    "dateOfCompletion": "2024-03",
+    "currency": "EUR",
+    "price": 74000
+  },
+  {
+    "name": "FAVORIM AYAŞ EVLERI",
+    "link": "1DA25fHJVWDb-1W3mgchiSppJCeRMvJ88",
+    "area": {
+      "brutto": 65,
+      "netto": 57
+    },
+    "district": "Ayaş",
+    "coordinates": [36.512697, 34.199974],
+    "layout": "1+1",
+    "dateOfCompletion": "2023-01",
+    "currency": "TRY",
+    "price": 1600000
   }
 ]
