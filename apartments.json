@@ -2028,5 +2028,19 @@
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
     "price": 1600000
+  },
+  {
+    "name": "DAŞCANLAR",
+    "link": "1EJKKSQwrTZ_3gKnPAp2gZZ75xKkSR5fB",
+    "area": {
+      "brutto": 97,
+      "netto": 80
+    },
+    "district": "Tece",
+    "coordinates": [36.691853, 34.444649],
+    "layout": "2+1",
+    "dateOfCompletion": "2023-01",
+    "currency": "EUR",
+    "price": 61500
   }
 ]
