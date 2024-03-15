@@ -2042,5 +2042,19 @@
     "dateOfCompletion": "2023-01",
     "currency": "EUR",
     "price": 61500
+  },
+  {
+    "name": "NONAME",
+    "link": "1jAeE1WNr47MzqNDzIN3VESu_6ljNMbwb",
+    "area": {
+      "brutto": 97,
+      "netto": 85
+    },
+    "district": "Çiftlikköy",
+    "coordinates": [36.774487, 34.542937],
+    "layout": "2+1",
+    "dateOfCompletion": "2021-01",
+    "currency": "TRY",
+    "price": 2500000
   }
 ]
