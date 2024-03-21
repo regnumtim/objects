@@ -389,7 +389,7 @@
     "layout": "2+1",
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
-    "price": 2450000
+    "price": 2865000
   },
   {
     "name": "DORA VİZYON",
@@ -1999,7 +1999,7 @@
     "layout": "1+1",
     "dateOfCompletion": "2024-03",
     "currency": "EUR",
-    "price": 55000
+    "price": 53000
   },
   {
     "name": "MNZ VIOLETTA",
@@ -2013,7 +2013,7 @@
     "layout": "2+1",
     "dateOfCompletion": "2024-03",
     "currency": "EUR",
-    "price": 74000
+    "price": 70000
   },
   {
     "name": "FAVORIM AYAŞ EVLERI",
@@ -2056,5 +2056,19 @@
     "dateOfCompletion": "2021-01",
     "currency": "TRY",
     "price": 2500000
+  },
+  {
+    "name": "ELISA PARK",
+    "link": "1Wui6hypqrSaPq7qcZ33mZR9g8PSOTLxI",
+    "area": {
+      "brutto": 120,
+      "netto": 90
+    },
+    "district": "Tömük",
+    "coordinates": [36.658521, 34.397686],
+    "layout": "2+1",
+    "dateOfCompletion": "2024-01",
+    "currency": "TRY",
+    "price": 2250000
   }
 ]
