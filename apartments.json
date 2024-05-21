@@ -2070,5 +2070,19 @@
     "dateOfCompletion": "2024-01",
     "currency": "TRY",
     "price": 2250000
+  },
+  {
+    "name": "AKTAN VIP",
+    "link": "1U9qKdV_82BemZqenBXy-kV60s3XHJvmK",
+    "area": {
+      "brutto": 65,
+      "netto": 54
+    },
+    "district": "Arpaçbahşiş",
+    "coordinates": [36.641902, 34.362192],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-05",
+    "currency": "EUR",
+    "price": 48000
   }
 ]
