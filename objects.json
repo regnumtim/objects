@@ -41,7 +41,17 @@
     "layout": "2+1",
     "dateOfCompletion": "2024-06",
     "currency": "EUR",
-    "price": 85000,
+    "price": 85000
+  },
+  {
+    "name": "EMERALD GOLD",
+    "link": "1kqpltL7LlZWayd10CNdz41dht_Z8WLys",
+    "district": "Soli",
+    "coordinates": [36.72663240525609, 34.49967565179355],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-07",
+    "currency": "EUR",
+    "price": 68000,
     "telegram_id": {
       "title_msg_id": 357,
       "media_id": [
@@ -57,16 +67,6 @@
         "AgACAgIAAxkBAAIBcGZN7YMOq4HpzLWp2cI0tNyk30FoAAIG2DEbo5BwSnY5TC8zBAABtAEAAwIAA3kAAzUE"
       ]
     }
-  },
-  {
-    "name": "EMERALD GOLD",
-    "link": "1kqpltL7LlZWayd10CNdz41dht_Z8WLys",
-    "district": "Soli",
-    "coordinates": [36.72663240525609, 34.49967565179355],
-    "layout": "1+1",
-    "dateOfCompletion": "2024-07",
-    "currency": "EUR",
-    "price": 68000
   },
   {
     "name": "EMERALD TOWN",
