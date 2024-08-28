@@ -2084,5 +2084,33 @@
     "dateOfCompletion": "2024-05",
     "currency": "EUR",
     "price": 48000
+  },
+  {
+    "name": "GÜNAY LOFT TECE",
+    "link": "1g2PiUJPMBkSDCaURj8Kas8q7f90j2Csg",
+    "area": {
+      "brutto": 60,
+      "netto": 51
+    },
+    "district": "Tece",
+    "coordinates": [36.68943, 34.44054],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-01",
+    "currency": "EUR",
+    "price": 50000
+  },
+  {
+    "name": "DORA GLORIA",
+    "link": "1rv3Mtabt6I_jwd-Dw7GUDeTKTrv-kRzn",
+    "area": {
+      "brutto": 60,
+      "netto": 51
+    },
+    "district": "Tece",
+    "coordinates": [36.689526, 34.437632],
+    "layout": "1+1",
+    "dateOfCompletion": "2024-01",
+    "currency": "EUR",
+    "price": 52000
   }
 ]
