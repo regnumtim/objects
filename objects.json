@@ -1457,5 +1457,35 @@
     "dateOfCompletion": "2025-11",
     "currency": "EUR",
     "price": 80000
+  },
+  {
+    "name": "ILKEM RIO 2",
+    "link": "1SN37u44I3jEA4GO0qQ-qfumWYMfMguZZ",
+    "district": "Tömük",
+    "coordinates": [36.661434, 34.396308],
+    "layout": "1+0",
+    "dateOfCompletion": "2025-11",
+    "currency": "EUR",
+    "price": 45000
+  },
+  {
+    "name": "ILKEM RIO 2",
+    "link": "1SN37u44I3jEA4GO0qQ-qfumWYMfMguZZ",
+    "district": "Tömük",
+    "coordinates": [36.661434, 34.396308],
+    "layout": "1+1",
+    "dateOfCompletion": "2025-11",
+    "currency": "EUR",
+    "price": 64000
+  },
+  {
+    "name": "ILKEM RIO 2",
+    "link": "1SN37u44I3jEA4GO0qQ-qfumWYMfMguZZ",
+    "district": "Tömük",
+    "coordinates": [36.661434, 34.396308],
+    "layout": "2+1",
+    "dateOfCompletion": "2025-11",
+    "currency": "EUR",
+    "price": 75000
   }
 ]

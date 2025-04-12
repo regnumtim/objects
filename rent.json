@@ -11,7 +11,7 @@
     "layout": "4+1",
     "dateOfCompletion": "2018-01",
     "currency": "TRY",
-    "price": 5750000
+    "price": 10000
   },
   {
     "name": "BLUE LİFE",
@@ -25,7 +25,7 @@
     "layout": "4+1",
     "dateOfCompletion": "2020-01",
     "currency": "TRY",
-    "price": 4650000
+    "price": 12000
   },
   {
     "name": "AKBİLEN PLAZA",
@@ -39,7 +39,7 @@
     "layout": "4+1",
     "dateOfCompletion": "2022-01",
     "currency": "TRY",
-    "price": 4100000
+    "price": 11000
   },
   {
     "name": "DOĞUTAŞ İNŞ",
@@ -53,6 +53,6 @@
     "layout": "4+1",
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
-    "price": 4500000
+    "price": 10000
   }
 ]
