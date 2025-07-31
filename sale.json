@@ -7,17 +7,17 @@
     "layout": "1+1",
     "dateOfCompletion": "2024-02",
     "currency": "TRY",
-    "price": 10000
+    "price": 2050000
   },
   {
-    "name": "KOM ELITE",
+    "name": "KOM ELİTE",
     "link": "1PvB1u2JtdCaHqtS-WMKrQ7turS1dcs8o",
     "district": "Tece",
     "coordinates": [36.687385, 34.440224],
     "layout": "1+1",
     "dateOfCompletion": "2024-01",
     "currency": "TRY",
-    "price": 11000
+    "price": 2530000
   },
   {
     "name": "İLKEM GALA",
@@ -27,7 +27,7 @@
     "layout": "2+1",
     "dateOfCompletion": "2023-09",
     "currency": "TRY",
-    "price": 15000
+    "price": 3200000
   },
   {
     "name": "ELİSA PARK",
@@ -37,7 +37,7 @@
     "layout": "2+1",
     "dateOfCompletion": "2022-01",
     "currency": "TRY",
-    "price": 13000
+    "price": 2250000
   },
   {
     "name": "ÇEVİK VİTACOURT",
@@ -47,6 +47,6 @@
     "layout": "3+1",
     "dateOfCompletion": "2022-01",
     "currency": "TRY",
-    "price": 16000
+    "price": 3000000
   }
 ]
