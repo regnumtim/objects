@@ -1,52 +1,62 @@
 [
   {
-    "name": "KEYA HEVSEL",
-    "link": "1BARLjYLR_8uzl_YAo7RQxsp2x5BTlvKo",
-    "district": "Arpaçbahşiş",
-    "coordinates": [36.639621, 34.352423],
-    "layout": "1+1",
-    "dateOfCompletion": "2024-02",
-    "currency": "TRY",
-    "price": 2050000
-  },
-  {
-    "name": "KOM ELİTE",
-    "link": "1PvB1u2JtdCaHqtS-WMKrQ7turS1dcs8o",
-    "district": "Tece",
-    "coordinates": [36.687385, 34.440224],
+    "name": "ASİS YAPI",
+    "link": "1lkrIK1wsMBEd15Se-SiMLfd0kHp0bUrv",
+    "district": "Davultepe Seymenli",
+    "coordinates": [36.701628, 34.462032],
     "layout": "1+1",
     "dateOfCompletion": "2024-01",
     "currency": "TRY",
-    "price": 2530000
+    "price": 1745000
   },
   {
-    "name": "İLKEM GALA",
-    "link": "13SliRQFcAMq3N34UjNiwzoV1J4hRjtIi",
-    "district": "Çiftlikköy",
-    "coordinates": [36.774521, 34.544109],
+    "name": "KEYA BARAN",
+    "link": "1u_g1Uaz0T908utI0nuEUa0ZgzcmeozSQ",
+    "district": "Akdeniz Soli",
+    "coordinates": [36.732436, 34.498416],
     "layout": "2+1",
-    "dateOfCompletion": "2023-09",
+    "dateOfCompletion": "2025-01",
     "currency": "TRY",
-    "price": 3200000
+    "price": 3750000
   },
   {
-    "name": "ELİSA PARK",
-    "link": "18HT1eCXNs129cK32UtOKBNdX1tF45q8h",
-    "district": "Tömük",
-    "coordinates": [36.658628, 34.397879],
-    "layout": "2+1",
-    "dateOfCompletion": "2022-01",
-    "currency": "TRY",
-    "price": 2250000
-  },
-  {
-    "name": "ÇEVİK VİTACOURT",
-    "link": "1bolaM18QXTNpaVFZM9xCkqEg5cMcihpc",
-    "district": "Tece",
-    "coordinates": [36.698146, 34.455038],
+    "name": "DORA GROSS 2",
+    "link": "1dMoWGdfUcSxoum_k_UgrGh0t9XrTbtnd",
+    "district": "Akdeniz Soli",
+    "coordinates": [36.739140, 34.503087],
     "layout": "3+1",
-    "dateOfCompletion": "2022-01",
+    "dateOfCompletion": "2019-01",
     "currency": "TRY",
-    "price": 3000000
+    "price": 3850000
+  },
+  {
+    "name": "MEÇ YAPI",
+    "link": "1o8aEpcqdTVcr_lY5Gzy-n1_KWYshEbSF",
+    "district": "Davultepe 75.Yıl",
+    "coordinates": [36.757228, 34.567945],
+    "layout": "1+1",
+    "dateOfCompletion": "2025-01",
+    "currency": "TRY",
+    "price": 2100000
+  },
+  {
+    "name": "MY FAMILY 9",
+    "link": "1vmfeDE6q9AklTMhoeq73K_OIs2LKJXoE",
+    "district": "Eski Mezitli",
+    "coordinates": [36.757228, 34.567945],
+    "layout": "1+1",
+    "dateOfCompletion": "2025-01",
+    "currency": "TRY",
+    "price": 2150000
+  },
+  {
+    "name": "FIRAT YAŞAM VADİ",
+    "link": "1R8-pylc_B36Pm0ELhWusjKUmHn1g_Fy9",
+    "district": "Eski Mezitli",
+    "coordinates": [36.757228, 34.567945],
+    "layout": "3+1",
+    "dateOfCompletion": "2025-01",
+    "currency": "TRY",
+    "price": 4390000
   }
 ]
