@@ -1,52 +1,15 @@
 [
   {
-    "name": "KEYA HEVSEL",
-    "link": "1BARLjYLR_8uzl_YAo7RQxsp2x5BTlvKo",
-    "district": "Arpaçbahşiş",
-    "coordinates": [36.639621, 34.352423],
-    "layout": "1+1",
-    "dateOfCompletion": "2024-02",
-    "currency": "TRY",
-    "price": 10000
-  },
-  {
-    "name": "KOM ELITE",
-    "link": "1PvB1u2JtdCaHqtS-WMKrQ7turS1dcs8o",
-    "district": "Tece",
-    "coordinates": [36.687385, 34.440224],
-    "layout": "1+1",
-    "dateOfCompletion": "2024-01",
-    "currency": "TRY",
-    "price": 11000
-  },
-  {
-    "name": "İLKEM GALA",
-    "link": "13SliRQFcAMq3N34UjNiwzoV1J4hRjtIi",
-    "district": "Çiftlikköy",
-    "coordinates": [36.774521, 34.544109],
+    "name": "SABA İNŞ",
+    "link": "1i8s9HaLrK-j_vY4mgVIQYY6IU1fXvP1D",
+    "district": "75.Yıl",
+    "coordinates": [
+      36.716939,
+      34.479139
+    ],
     "layout": "2+1",
-    "dateOfCompletion": "2023-09",
+    "dateOfCompletion": "2025-01",
     "currency": "TRY",
-    "price": 15000
-  },
-  {
-    "name": "ELİSA PARK",
-    "link": "18HT1eCXNs129cK32UtOKBNdX1tF45q8h",
-    "district": "Tömük",
-    "coordinates": [36.658628, 34.397879],
-    "layout": "2+1",
-    "dateOfCompletion": "2022-01",
-    "currency": "TRY",
-    "price": 13000
-  },
-  {
-    "name": "ÇEVİK VİTACOURT",
-    "link": "1bolaM18QXTNpaVFZM9xCkqEg5cMcihpc",
-    "district": "Tece",
-    "coordinates": [36.698146, 34.455038],
-    "layout": "3+1",
-    "dateOfCompletion": "2022-01",
-    "currency": "TRY",
-    "price": 16000
+    "price": 20000
   }
 ]
