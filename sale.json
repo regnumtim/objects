@@ -33,7 +33,7 @@
     "name": "MEÇ YAPI",
     "link": "1o8aEpcqdTVcr_lY5Gzy-n1_KWYshEbSF",
     "district": "Davultepe 75.Yıl",
-    "coordinates": [36.757228, 34.567945],
+    "coordinates": [36.748386, 34.490892],
     "layout": "1+1",
     "dateOfCompletion": "2025-01",
     "currency": "TRY",
@@ -53,10 +53,110 @@
     "name": "FIRAT YAŞAM VADİ",
     "link": "1R8-pylc_B36Pm0ELhWusjKUmHn1g_Fy9",
     "district": "Eski Mezitli",
-    "coordinates": [36.757228, 34.567945],
+    "coordinates": [36.745272, 34.499416],
     "layout": "3+1",
     "dateOfCompletion": "2025-01",
     "currency": "TRY",
     "price": 4390000
+  },
+  {
+    "name": "SABA İNŞ",
+    "link": "1GPIohDFZa_LVI2YRhWvgV5uFDgwoVT5_",
+    "district": "Davultepe 75.Yıl",
+    "coordinates": [],
+    "layout": "2+1",
+    "dateOfCompletion": "2025-01",
+    "currency": "TRY",
+    "price": 3650000
+  },
+  {
+    "name": "BOZYEL ROYAL 3",
+    "link": "1Ld-qstK2PhHpLi79-OjxTJPc0LrENA2A",
+    "district": "Yeni mah",
+    "coordinates": [36.755934, 34.528061],
+    "layout": "4+1",
+    "dateOfCompletion": "2020-01",
+    "currency": "TRY",
+    "price": 6350000
+  },
+  {
+    "name": "SANCAR İCON",
+    "link": "1rbC1ntFQNmhksCypd-aeZ-vQ1aY_JQJQ",
+    "district": "Akdeniz Soli",
+    "coordinates": [36.729215, 34.500867],
+    "layout": "3+1",
+    "dateOfCompletion": "2025-01",
+    "currency": "TRY",
+    "price": 4875000
+  },
+  {
+    "name": "MARKA YAPI",
+    "link": "1xYVLnZgqFPn2QM9G-ggaYbkBdyEGJrDI",
+    "district": "Akdeniz Soli",
+    "coordinates": [36.737911, 34.498895],
+    "layout": "2+1",
+    "dateOfCompletion": "2025-01",
+    "currency": "TRY",
+    "price": 4500000
+  },
+  {
+    "name": "NİRVANA ROYAL",
+    "link": "1jPPhC0xcy9MlhjyvRjgzrJJUodJdnKJ0",
+    "district": "Akdeniz Soli",
+    "coordinates": [36.738042, 34.502584],
+    "layout": "3+1",
+    "dateOfCompletion": "2022-01",
+    "currency": "TRY",
+    "price": 5200000
+  },
+  {
+    "name": "SUN MARİA HOLİDAY",
+    "link": "1yJP3_kPZJJImv8gMYlEn78Shbv9QTbxo",
+    "district": "Çeşmeli",
+    "coordinates": [36.677864, 34.432568],
+    "layout": "1+1",
+    "dateOfCompletion": "2025-01",
+    "currency": "TRY",
+    "price": 2375000
+  },
+  {
+    "name": "KORKMAZ 75",
+    "link": "1ZDAxrLuniZ-ri8U5gGBX5iq1eJUZrgAr",
+    "district": "Davultepe 75.Yıl",
+    "coordinates": [36.722478, 34.485877],
+    "layout": "2+1",
+    "dateOfCompletion": "2024-01",
+    "currency": "TRY",
+    "price": 3000000
+  },
+  {
+    "name": "AKBİLEN",
+    "link": "1ZqcOnPx7W0edDp6KFuZW1aQJOZmJxLGp",
+    "district": "Akdeniz Soli",
+    "coordinates": [36.733868, 34.494140],
+    "layout": "2+1",
+    "dateOfCompletion": "2025-01",
+    "currency": "TRY",
+    "price": 3550000
+  },
+  {
+    "name": "LEBİ DERYA",
+    "link": "1SMq1NGRb_NgV2V7Q7_g8bRXubKZIGQ4M",
+    "district": "Davultepe 75.Yıl",
+    "coordinates": [36.729171, 34.495195],
+    "layout": "2+1",
+    "dateOfCompletion": "2024-01",
+    "currency": "TRY",
+    "price": 3300000
+  },
+  {
+    "name": "SABA İNŞ",
+    "link": "1GPIohDFZa_LVI2YRhWvgV5uFDgwoVT5_",
+    "district": "Davultepe 75.Yıl",
+    "coordinates": [36.716939, 34.479139],
+    "layout": "2+1",
+    "dateOfCompletion": "2025-01",
+    "currency": "TRY",
+    "price": 3650000
   }
 ]
