@@ -23,7 +23,7 @@
     "name": "DORA GROSS 2",
     "link": "1dMoWGdfUcSxoum_k_UgrGh0t9XrTbtnd",
     "district": "Akdeniz Soli",
-    "coordinates": [36.739140, 34.503087],
+    "coordinates": [36.73914, 34.503087],
     "layout": "3+1",
     "dateOfCompletion": "2019-01",
     "currency": "TRY",
@@ -43,7 +43,7 @@
     "name": "MY FAMILY 9",
     "link": "1vmfeDE6q9AklTMhoeq73K_OIs2LKJXoE",
     "district": "Eski Mezitli",
-    "coordinates": [36.748351, 34.490880],
+    "coordinates": [36.748351, 34.49088],
     "layout": "1+1",
     "dateOfCompletion": "2025-01",
     "currency": "TRY",
@@ -123,7 +123,7 @@
     "name": "AKBİLEN",
     "link": "1ZqcOnPx7W0edDp6KFuZW1aQJOZmJxLGp",
     "district": "Akdeniz Soli",
-    "coordinates": [36.733868, 34.494140],
+    "coordinates": [36.733868, 34.49414],
     "layout": "2+1",
     "dateOfCompletion": "2025-01",
     "currency": "TRY",
@@ -148,5 +148,75 @@
     "dateOfCompletion": "2025-01",
     "currency": "TRY",
     "price": 3650000
+  },
+  {
+    "name": "BİLKENT GARDEN",
+    "link": "15iIG6Ywi7jM_RNtNXbsG91J1immZTDtY",
+    "district": "Kuyuluk",
+    "coordinates": [36.753367, 34.515992],
+    "layout": "1+1",
+    "dateOfCompletion": "2023-01",
+    "currency": "TRY",
+    "price": 2950000
+  },
+  {
+    "name": "DÖKER İNŞAAT",
+    "link": "1qGtsYHeWalE4Dz8lY70EpL_RgXt2jBN5",
+    "district": "Davultepe 75.Yıl",
+    "coordinates": [36.723462, 34.494149],
+    "layout": "1+1",
+    "dateOfCompletion": "2025-01",
+    "currency": "TRY",
+    "price": 2300000
+  },
+  {
+    "name": "OKTAY İNŞAAT",
+    "link": "1I5bVVHD1v7o874fKoCyG1v1KAmxqYKoO",
+    "district": "Tece",
+    "coordinates": [36.69223, 34.43985],
+    "layout": "1+1",
+    "dateOfCompletion": "2025-01",
+    "currency": "TRY",
+    "price": 2675000
+  },
+  {
+    "name": "MASAL LIFE ",
+    "link": "1zW8iZdaVn-dGJGAyk1C7ucv37tcZewL5",
+    "district": "Çiftlikköy",
+    "coordinates": [36.782726, 34.543883],
+    "layout": "3+1",
+    "dateOfCompletion": "2021-01",
+    "currency": "TRY",
+    "price": 7200000
+  },
+  {
+    "name": "İLKEM FLORA",
+    "link": "160-Dg9p5fRCFGDW6cDq6ANDOrArbAANH",
+    "district": "Çiftlikköy",
+    "coordinates": [36.778602, 34.549112],
+    "layout": "2+1",
+    "dateOfCompletion": "2025-01",
+    "currency": "TRY",
+    "price": 2750000
+  },
+  {
+    "name": "BTM AGORA",
+    "link": "1-17qKeLAkFXW2t_7n0IjWtW8j92GCClO",
+    "district": "Davultepe 75.Yıl",
+    "coordinates": [36.729892, 34.494132],
+    "layout": "1+1",
+    "dateOfCompletion": "2025-01",
+    "currency": "TRY",
+    "price": 2275000
+  },
+  {
+    "name": "HALİLERENLER",
+    "link": "1hMDpzPU0t9kZ8oUX1PjgDXGugIZiLGy_",
+    "district": "Akdeniz Soli",
+    "coordinates": [36.738711, 34.500436],
+    "layout": "2+1",
+    "dateOfCompletion": "2022-01",
+    "currency": "TRY",
+    "price": 6150000
   }
 ]
