@@ -3,13 +3,20 @@
     "name": "SABA İNŞ",
     "link": "1i8s9HaLrK-j_vY4mgVIQYY6IU1fXvP1D",
     "district": "75.Yıl",
-    "coordinates": [
-      36.716939,
-      34.479139
-    ],
+    "coordinates": [36.716939, 34.479139],
     "layout": "2+1",
     "dateOfCompletion": "2025-01",
     "currency": "TRY",
     "price": 20000
+  },
+  {
+    "name": "BİLKENT GARDEN",
+    "link": "1cbUEXWO1pr2EL_sjAX8n4I_uzJLPZ4hQ",
+    "district": "Kuyuluk",
+    "coordinates": [36.753367, 34.515992],
+    "layout": "1+1",
+    "dateOfCompletion": "2023-01",
+    "currency": "TRY",
+    "price": 18000
   }
 ]
