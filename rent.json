@@ -18,5 +18,25 @@
     "dateOfCompletion": "2023-01",
     "currency": "TRY",
     "price": 18000
+  },
+  {
+    "name": "OKTAY İNŞAAT NATURE",
+    "link": "1wzjJY2CML_0Iy9X9mjosIu3AY87gZeyl",
+    "district": "Tece",
+    "coordinates": [36.692275, 34.439819],
+    "layout": "1+1",
+    "dateOfCompletion": "2025-01",
+    "currency": "TRY",
+    "price": 25000
+  },
+  {
+    "name": "AKBİLEN",
+    "link": "1Z6mdKuHjfHq93N1Fz2pqqKLCd4yU5Xj3",
+    "district": "Akdeniz Mh",
+    "coordinates": [36.733844, 34.494169],
+    "layout": "1+1",
+    "dateOfCompletion": "2025-01",
+    "currency": "TRY",
+    "price": 16000
   }
 ]
