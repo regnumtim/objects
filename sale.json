@@ -218,5 +218,195 @@
     "dateOfCompletion": "2022-01",
     "currency": "TRY",
     "price": 6150000
+  },
+  {
+    "name": "MD UMUT / ANKA",
+    "link": "1MbMzyi06jwxDEvcMLRca2S7JdPK3O4k2",
+    "district": "Akdeniz Soli",
+    "coordinates": [36.729245, 34.500802],
+    "layout": "2+1",
+    "dateOfCompletion": "2025-01",
+    "currency": "TRY",
+    "price": 3900000
+  },
+  {
+    "name": "NİRVANA AURA",
+    "link": "1jXZV1NZ1Ta9lHZ4S6dHWfwfwkNOOzHG3",
+    "district": "Akdeniz Soli",
+    "coordinates": [36.731379, 34.503813],
+    "layout": "3+1",
+    "dateOfCompletion": "2025-01",
+    "currency": "TRY",
+    "price": 5900000
+  },
+  {
+    "name": "GENESİSS ERA",
+    "link": "10de8ciFRzWks1-OpKGa5WsnV5ueukM2d",
+    "district": "Akdeniz Soli",
+    "coordinates": [36.728863, 34.506051],
+    "layout": "3+1",
+    "dateOfCompletion": "2025-01",
+    "currency": "TRY",
+    "price": 4475000
+  },
+  {
+    "name": "MD UMUT / ANKA",
+    "link": "1Jqv8JuiG1jod624AfVa7DACqKK68lk6o",
+    "district": "Akdeniz Soli",
+    "coordinates": [36.729214, 34.500309],
+    "layout": "2+1",
+    "dateOfCompletion": "2025-01",
+    "currency": "TRY",
+    "price": 3400000
+  },
+  {
+    "name": "EMERALD SOLİ",
+    "link": "1heaSFFyVF5KDQIWcZxFY1nSxkg5Pwwyd",
+    "district": "Merkez",
+    "coordinates": [36.739707, 34.512704],
+    "layout": "2+1",
+    "dateOfCompletion": "2025-01",
+    "currency": "TRY",
+    "price": 3250000
+  },
+  {
+    "name": "AKBİLEN",
+    "link": "1VJRyf3DCl7syU6gpk9gq-f2gEPqBpxDR",
+    "district": "Akdeniz Soli",
+    "coordinates": [36.733844, 34.494169],
+    "layout": "1+1",
+    "dateOfCompletion": "2025-01",
+    "currency": "TRY",
+    "price": 2200000
+  },
+  {
+    "name": "ALONA 15",
+    "link": "1uyUNMmqymtj9U87Ttw212yK4nEUzTICr",
+    "district": "Akkent",
+    "coordinates": [36.729087, 34.495171],
+    "layout": "2+1",
+    "dateOfCompletion": "2019-01",
+    "currency": "TRY",
+    "price": 3250000
+  },
+  {
+    "name": "RODOS SİTESİ",
+    "link": "16MHePu3aq13EjVpBFkniFI6qP9Wfqnqo",
+    "district": "Merkez",
+    "coordinates": [36.729104, 34.495191],
+    "layout": "3+1",
+    "dateOfCompletion": "2011-01",
+    "currency": "TRY",
+    "price": 4200000
+  },
+  {
+    "name": "KAYHAN LİFE",
+    "link": "131yd76OAt4mFcMP1vxZfmGxI0Em-F2pd",
+    "district": "Tömük",
+    "coordinates": [36.642849, 34.367195],
+    "layout": "1+1",
+    "dateOfCompletion": "2025-01",
+    "currency": "TRY",
+    "price": 2250000
+  },
+  {
+    "name": "ÖZ SARAY SİTESİ",
+    "link": "1-ZXYvLNky5UEV1UukmxGP8vco1QwuUtZ",
+    "district": "Davultepe 75.Yıl",
+    "coordinates": [36.72262, 34.494983],
+    "layout": "3+1",
+    "dateOfCompletion": "2000-01",
+    "currency": "TRY",
+    "price": 2990000
+  },
+  {
+    "name": "ENÇ PERFECT LİFE 1",
+    "link": "1lOr5A4Xm0is5oeyJY7Wv-lA-8ecqakzq",
+    "district": "Tömük",
+    "coordinates": [36.649576, 34.379098],
+    "layout": "1+1",
+    "dateOfCompletion": "2025-01",
+    "currency": "TRY",
+    "price": 2200000
+  },
+  {
+    "name": "MAKRO AVA CİTY",
+    "link": "19YrGLb8Cdu-xmdXb6XMayJs05oyreFy7",
+    "district": "Davultepe 75.Yıl",
+    "coordinates": [36.723461, 34.493942],
+    "layout": "2+1",
+    "dateOfCompletion": "2023-01",
+    "currency": "TRY",
+    "price": 3950000
+  },
+  {
+    "name": "CEO MİLANO",
+    "link": "12pRn3LzVBigYsB6KM771AacSWjxaBq3i",
+    "district": "Eski Mezitli",
+    "coordinates": [36.746214, 34.497857],
+    "layout": "4+1",
+    "dateOfCompletion": "2025-01",
+    "currency": "TRY",
+    "price": 8750000
+  },
+  {
+    "name": "MD UMUT CEM EVİ YANI",
+    "link": "1NSRUeQk71U4tRDv2hIiPlToN99RKnh3D",
+    "district": "Davultepe 75.Yıl",
+    "coordinates": [36.729152, 34.495165],
+    "layout": "2+1",
+    "dateOfCompletion": "2024-01",
+    "currency": "TRY",
+    "price": 3450000
+  },
+  {
+    "name": "DAGISTAN H.YILMAZ ",
+    "link": "1G0bEhS9n1g_hLb95v_wJTOy5DKkdiJnB",
+    "district": "Çiftlikköy",
+    "coordinates": [36.786409, 34.543039],
+    "layout": "2+1",
+    "dateOfCompletion": "2015-01",
+    "currency": "TRY",
+    "price": 3500000
+  },
+  {
+    "name": "EMERALD MARSHALL",
+    "link": "1W237BdNWvO3Wv2iixlt_TO3n1f_8SNmN",
+    "district": "Tömük",
+    "coordinates": [36.660174, 34.398456],
+    "layout": "1+1",
+    "dateOfCompletion": "2025-01",
+    "currency": "TRY",
+    "price": 2550000
+  },
+  {
+    "name": "KORKMAZ 75",
+    "link": "1nOZrWQcX5jj7EHrJH7ttFOFnE7DyLrdc",
+    "district": "Davultepe 75.Yıl",
+    "coordinates": [36.722557, 34.485851],
+    "layout": "2+1",
+    "dateOfCompletion": "2025-01",
+    "currency": "TRY",
+    "price": 3900000
+  },
+  {
+    "name": "AZT YAPI",
+    "link": "1QraHdRfOBy71GMEnS2xr9BbUvLH0yAU5",
+    "district": "Esenbaglar mahallesi̇",
+    "coordinates": [36.744183, 34.483114],
+    "layout": "2+1",
+    "dateOfCompletion": "2025-01",
+    "currency": "TRY",
+    "price": 3600000
+  },
+  {
+    "name": "ZEN TOWER",
+    "link": "1V1BINdjtb9htiB2KBcEKztQSPjfSJoSW",
+    "district": "Yeni mah",
+    "coordinates": [36.754944, 34.601275],
+    "layout": "5+1",
+    "dateOfCompletion": "2024-01",
+    "currency": "TRY",
+    "price": 9000000
   }
 ]
