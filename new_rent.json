@@ -3,13 +3,10 @@
     "name": "SABA İNŞ",
     "drive_folder_id": "1i8s9HaLrK-j_vY4mgVIQYY6IU1fXvP1D",
     "location": "75.Yıl",
-    "coordinates": [
-      36.716939,
-      34.479139
-    ],
+    "coordinates": [36.716939, 34.479139],
     "type": "2+1",
     "built_year": "2025",
-    "manager": "",
+    "manager": "TUĞBA ÇELENK",
     "currency": "TRY",
     "note": "",
     "info_link": "",
@@ -19,13 +16,10 @@
     "name": "BİLKENT GARDEN",
     "drive_folder_id": "1cbUEXWO1pr2EL_sjAX8n4I_uzJLPZ4hQ",
     "location": "Kuyuluk",
-    "coordinates": [
-      36.753367,
-      34.515992
-    ],
+    "coordinates": [36.753367, 34.515992],
     "type": "1+1",
     "built_year": "2023",
-    "manager": "",
+    "manager": "TUĞBA ÇELENK",
     "currency": "TRY",
     "note": "",
     "info_link": "",
@@ -35,13 +29,10 @@
     "name": "OKTAY İNŞAAT NATURE",
     "drive_folder_id": "1wzjJY2CML_0Iy9X9mjosIu3AY87gZeyl",
     "location": "Tece",
-    "coordinates": [
-      36.692275,
-      34.439819
-    ],
+    "coordinates": [36.692275, 34.439819],
     "type": "1+1",
     "built_year": "2025",
-    "manager": "",
+    "manager": "TUĞBA ÇELENK",
     "currency": "TRY",
     "note": "",
     "info_link": "",
@@ -51,13 +42,10 @@
     "name": "AKBİLEN",
     "drive_folder_id": "1Z6mdKuHjfHq93N1Fz2pqqKLCd4yU5Xj3",
     "location": "Akdeniz Mh",
-    "coordinates": [
-      36.733844,
-      34.494169
-    ],
+    "coordinates": [36.733844, 34.494169],
     "type": "1+1",
     "built_year": "2025",
-    "manager": "",
+    "manager": "TUĞBA ÇELENK",
     "currency": "TRY",
     "note": "",
     "info_link": "",
