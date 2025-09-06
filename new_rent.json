@@ -50,5 +50,31 @@
     "note": "",
     "info_link": "",
     "price": 16000
+  },
+  {
+    "name": "DAGISTAN H.YILMAZ ",
+    "drive_folder_id": "1Ktzcv97phfni_wfQ3Bx5xwTXGl8nWmhW",
+    "location": "Çiftlikköy mahallesi",
+    "coordinates": [36.786365, 34.542971],
+    "type": "2+1",
+    "built_year": "2020",
+    "manager": "YUSUF ARAL",
+    "currency": "TRY",
+    "note": "",
+    "info_link": "",
+    "price": 23000
+  },
+  {
+    "name": "EMERALD PLATINUM",
+    "drive_folder_id": "1z8D4R-G7omEN7nr4mcKxA8sTvIW4jzSp",
+    "location": "Akdeniz Mh",
+    "coordinates": [36.732753, 34.496675],
+    "type": "1+1",
+    "built_year": "2025",
+    "manager": "YUSUF ARAL",
+    "currency": "TRY",
+    "note": "",
+    "info_link": "",
+    "price": 14000
   }
 ]
