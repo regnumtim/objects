@@ -76,5 +76,31 @@
     "note": "",
     "info_link": "",
     "price": 14000
+  },
+  {
+    "name": "LARA KONUTLARI",
+    "drive_folder_id": "1NZUHk1GbAjccPy424oI5vJdxhtsj6F1h",
+    "location": "Yeni mh",
+    "coordinates": [36.755191, 34.537296],
+    "type": "3+1",
+    "built_year": "2013",
+    "manager": "TUĞBA ÇELENK",
+    "currency": "TRY",
+    "note": "",
+    "info_link": "",
+    "price": 40000
+  },
+  {
+    "name": "GİRİŞ MÜSTAKİL",
+    "drive_folder_id": "1D7JbOq-ssx4QPVTUgGHa2C2KTtheytIG",
+    "location": "Menteş mahallesi",
+    "coordinates": [36.73208, 34.503996],
+    "type": "1+1",
+    "built_year": "2012",
+    "manager": "YUSUF ARAL",
+    "currency": "TRY",
+    "note": "",
+    "info_link": "",
+    "price": 17000
   }
 ]
