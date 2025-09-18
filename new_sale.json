@@ -713,5 +713,31 @@
     "note": "",
     "info_link": "",
     "price": 6950000
+  },
+  {
+    "name": "MD LEVENT CEM EVİ YANI",
+    "drive_folder_id": "1chlsO5_xwp7actZ0RJPDeRgZVHJEp23s",
+    "location": "Davultepe 75.Yıl",
+    "coordinates": [36.729005, 34.495073],
+    "type": "1+1",
+    "built_year": "2025",
+    "manager": "YUSUF ARAL",
+    "currency": "TRY",
+    "note": "",
+    "info_link": "",
+    "price": 2200000
+  },
+  {
+    "name": "AKSOY İNŞAAT",
+    "drive_folder_id": "1CLwgaexCzcO1ElIld42C2tNqSWqqgzYW",
+    "location": "Akdeniz Soli",
+    "coordinates": [36.735857, 34.502067],
+    "type": "2+1",
+    "built_year": "2025",
+    "manager": "YUSUF ARAL",
+    "currency": "TRY",
+    "note": "",
+    "info_link": "",
+    "price": 4500000
   }
 ]
