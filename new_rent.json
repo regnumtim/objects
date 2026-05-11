@@ -1,5 +1,44 @@
 [
   {
+    "name": "TEST SIT 1",
+    "drive_folder_id": "1i8s9HaLrK-j_vY4mgVIQYY6IU1fXvP1D",
+    "location": "75.Yıl",
+    "coordinates": [36.716939, 34.479139],
+    "type": "2+1",
+    "built_year": "2025",
+    "manager": "EZGİ KARA",
+    "currency": "TRY",
+    "note": "",
+    "info_link": "",
+    "price": 20000
+  },
+  {
+    "name": "TEST SIT 2",
+    "drive_folder_id": "1i8s9HaLrK-j_vY4mgVIQYY6IU1fXvP1D",
+    "location": "75.Yıl",
+    "coordinates": [36.716939, 34.479139],
+    "type": "2+1",
+    "built_year": "2025",
+    "manager": "KARDELEN",
+    "currency": "TRY",
+    "note": "",
+    "info_link": "",
+    "price": 20000
+  },
+  {
+    "name": "TEST SIT 3",
+    "drive_folder_id": "1i8s9HaLrK-j_vY4mgVIQYY6IU1fXvP1D",
+    "location": "75.Yıl",
+    "coordinates": [36.716939, 34.479139],
+    "type": "2+1",
+    "built_year": "2025",
+    "manager": "OFİS",
+    "currency": "TRY",
+    "note": "",
+    "info_link": "",
+    "price": 20000
+  },
+  {
     "name": "SABA İNŞ",
     "drive_folder_id": "1i8s9HaLrK-j_vY4mgVIQYY6IU1fXvP1D",
     "location": "75.Yıl",
